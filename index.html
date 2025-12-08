@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Explorateur Mer & Métiers - Bretagne</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5faff;
+      padding: 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    h1 {
+      color: #004a7c;
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    .search-bar {
+      display: flex;
+      gap: 0.5rem;
+      justify-content: center;
+      margin-bottom: 1.5rem;
+    }
+
+    select, input, button {
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+
+    button {
+      background: #0077b6;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #005a86;
+    }
+
+    .section-title {
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-top: 2rem;
+      margin-bottom: 0.5rem;
+      color: #00334e;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+    }
+
+    .card {
+      background: white;
+      padding: 1rem;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Observatoire des métiers & formations de la mer</h1>
+
+  <div class="search-bar">
+    <select id="type">
+      <option value="metier">Métier</option>
+      <option value="formation">Formation</option>
+      <option value="entreprise">Entreprise</option>
+    </select>
+
+    <!-- list="options-metier" par défaut, on changera en JS -->
+    <input
+      id="query"
+      type="text"
+      placeholder="Ex: Soudeur naval, BTS Maintenance..."
+      list="options-metier"
+    />
+
+    <button id="searchBtn">Rechercher</button>
+  </div>
+
+  <!-- Listes de suggestions alimentées en JS -->
+  <datalist id="options-metier"></datalist>
+  <datalist id="options-formation"></datalist>
+  <datalist id="options-entreprise"></datalist>
+
+  <div id="summary"></div>
+  <div id="results"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
