@@ -1,1 +1,687 @@
-[{"id":"M001","nom":"Accastilleur","secteur":"Industries","formation":"Bac Pro Maintenance Nautique, CAP Maintenance nautique","entreprises":"Armorique Diffusion, Pabouk Compagnie, Brest Ocean Boat, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty,Naviwatt, Technique Gréement,  Iroise Gréement,  BigShip, Loc Marine Service, Nauti Breiz,"},{"id":"M002","nom":"Affréteur","secteur":"Commerce et distribution, Gestion administrative et ressources humaines","formation":"\"Master mention Droit des espaces et des activités maritimes (DEAM) parcours Droit, mer et littoral\"","entreprises":"Pabouk Compagnie, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt"},{"id":"M003","nom":"Agent de maintenance en marine de plaisance","secteur":"\"Maintenance, entretien et nettoyage\"","formation":"Bac Pro Maintenance Nautique, CAP Maintenance nautique, LPRO MINM - Métiers de l'Industrie - Industrie navale et maritime - Parcours Maintenance Portuaire et Navale, Mastère spécialisé Management de projets maritimes – maintenance des navires, Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Maintenance Portuaire et Navale","entreprises":"Armorique Diffusion, Royal Nautisme, CN Diffusion, Pabouk Compagnie, Brest Ocean Boat, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt"},{"id":"M004","nom":"Agent de protection des navires","secteur":"\"Service public, défense et sécurité\"","formation":"\"Formations STCW (Basique sécurité, Survie, Lutte Incendie)\"","entreprises":"Armées, GROUPE PRORISK, NAVAL PROTECT SECURITY,"},{"id":"M005","nom":"Agent maritime / consignataire de navire","secteur":"Commerce et distribution, Gestion administrative et ressources humaines","formation":"\"Master mention Droit des espaces et des activités maritimes (DEAM) parcours Droit, mer et littoral\"","entreprises":"Royal Nautisme, CN Diffusion, Pabouk Compagnie, Brest Ocean Boat, Multi-Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt"},{"id":"M006","nom":"Agent polyvalent de restauration","secteur":"Hôtellerie et restauration","formation":"Cuisinier en restauration collective","entreprises":"Armées, Brittany ferries, Compagnie maritime Penn Ar Bed"},{"id":"M007","nom":"Algoculteur","secteur":"Agriculture et élevage, Commerce et distribution","formation":"BTS AQUACOLE, Master Biologie Parcours Sciences biologiques marines (SBM), Master Biologie Parcours Sciences halieutiques et aquacoles (SHA), Master Biologie Parcours International Master of Science in Marine Biological Resources (IMBRSea), \"Licence Biologie, Biotechnologies\"","entreprises":"Algolesko, C-Weed Aquaculture"},{"id":"M008","nom":"Analyste du renseignement d'origine électromagnétique","secteur":"\"Service public, défense et sécurité\", Recherche","formation":"Officier marinier","entreprises":"Armées"},{"id":"M009","nom":"Analyste en renseignement d'origine image","secteur":"\"Service public, défense et sécurité\"","formation":"Officier de carrière, Officiers sous contrat long","entreprises":"Armées"},{"id":"M010","nom":"Analyste renseignement","secteur":"\"Service public, défense et sécurité\"","formation":"Officiers sous contrat long, Officier de carrière","entreprises":"Armées"},{"id":"M011","nom":"Analyste technique de systèmes d'information","secteur":"Informatique et télécommunication","formation":"BTS Services Informatiques aux Organisations - Option SISR, BTS Services Informatiques aux Organisations","entreprises":"Armées, Brittany Ferries, Naval Group, Seatrackbox, Controldeck, BrestPort"},{"id":"M012","nom":"Analyste technique sur les identités et les accès aux systèmes d'information","secteur":"Recherche, Informatique et télécommunication","formation":"Officier marinier","entreprises":"Armées"},{"id":"M013","nom":"Analyste traitant du renseignement","secteur":"\"Service public, défense et sécurité\"","formation":"Officier marinier, BTS Aéronautique","entreprises":"Armées"},{"id":"M014","nom":"Architecte ingénieur naval","secteur":"\"Architecture, études et normes\", Industries, Recherche","formation":"Mastère spécialisé Ingénierie Marine / Architecture Navale et Offshore, Master Ingénierie marine","entreprises":"Pabouk Compagnie, Naviwatt,Piriou, Naval group, Kership, Coprexma, Multiplast, Avel Naval"},{"id":"M015","nom":"Architecte naval","secteur":"Recherche","formation":"Mastère spécialisé Ingénierie Marine / Architecture Navale et Offshore","entreprises":"Pabouk Compagnie, Naviwatt,Piriou, Naval group, Kership, Coprexma, Multiplast, Avel Naval"},{"id":"M016","nom":"Armateur","secteur":"Commerce et distribution","formation":"\"Master mention Droit des espaces et des activités maritimes (DEAM) parcours Droit, mer et littoral\", Master Biologie Parcours International Master of Science in Marine Biological Resources (IMBRSea), \"Officier chef de quart machine, officier de la marine marchande\"","entreprises":"Armorique Diffusion, Royal Nautisme, CN Diffusion, Pabouk Compagnie, Brest Ocean Boat, Multi-Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt, Brittany Ferries, Compagnie Armoricaine de Navigation, Keolis Maritime Brest (Compagnie Maritime Penn Ar Bed), Compagnie Océane, Les Vedettes de Bréhat, Les Vedettes de l’Odet, Agence Maritime de l’Ouest"},{"id":"M017","nom":"Atomicien de propulsion navale","secteur":"Énergie, \"Service public, défense et sécurité\"","formation":"BTS CICN - Conception et Industrialisation en Construction Navale, LPRO MINM - Métiers de l'Industrie - Industrie navale et maritime - Parcours Construction Navale, Ingénieur Généraliste, Mastère spécialisé Ingénierie Marine / Architecture Navale et Offshore, Master Ingénierie marine","entreprises":"Armées"},{"id":"M018","nom":"Avitailleur","secteur":"Commerce et distribution","formation":"\"Officier chef de quart machine, officier de la marine marchande\"","entreprises":"Fourniership, Neptune Distribution"},{"id":"M019","nom":"Biologiste marin","secteur":"Recherche, Environnement","formation":"Master Biologie Parcours Sciences biologiques marines (SBM), Master Biologie Parcours International Master of Science in Marine Biological Resources (IMBRSea), \"Licence Biologie, Biotechnologies\", Master Ingénierie des analyses biologiques et chimiques, Master Biotechnologies Parcours Master international en biotechnologies marines, Master Biologie Parcours Sciences halieutiques et aquacoles (SHA)","entreprises":"Actimar, Ifremer, Station Biologique de Roscoff, AberActives, Lessonia"},{"id":"M020","nom":"Capitaine de pêche","secteur":"Commerce et distribution, Logistique et transport, Agriculture et élevage","formation":"Capitaine 200, Capitaine 500","entreprises":"Armement Bigouden SA, Armement Porcher, Hent Ar Bugale, Compagnie Française du Thon Océanique (CFTO)"},{"id":"M021","nom":"Chaudronnier","secteur":"Industrie - Métallurgie","formation":"LPRO CACI - Métiers de l'Industrie - Gestion de la Production Industrielle - Parcours Chargé•e d'Affaires en Chaudronnerie Industrielle, CAP RICS Chaudronnerie - Réalisations Industrielles en Chaudronnerie ou Soudage, BAC PRO TCI - Technicien en Chaudronnerie Industrielle, BTS CRCI - Conception et Réalisation en Chaudronnerie Industrielle","entreprises":"Naval group, Piriou, Kership, Damen Shiprepair Brest, La Chaudronnerie Industrielle de Bretagne, NP Industrie, Chantier Naval Glehen, ATELIER MOBILE DU MARIN, BOREAL YACHTS, IDB Marine, POGO Structures, PNJC – Construction Réparation Navale, Chantier Bretagne Sud, Korzenn"},{"id":"M022","nom":"Conchyliculteur","secteur":"Agriculture et élevage, Commerce et distribution","formation":"BTS AQUACOLE, Master Biologie Parcours Sciences halieutiques et aquacoles (SHA), Bac Pro Cultures Marines","entreprises":"êcheries Celtiques (SA), Hechuitres et Coquillages Jean Luc Le Gall, Stc Sarl Trégor Coquillages Crustacés, Sbss Arl Brittany Shellfish Trading Sarl, Sdks Ceo de Kermancy, Scaste Civile Agricole Ets Madec, Scg Sarl Christine Gloux, Ecemeraude Crustacés, Slv Sarl Les Viviers Malouins, Halhalios"},{"id":"M023","nom":"Contrôleur aérien","secteur":"\"Service public, défense et sécurité\"","formation":"Officier marinier","entreprises":"Armées"},{"id":"M024","nom":"Contrôleur des opérations aériennes","secteur":"\"Service public, défense et sécurité\"","formation":"Officier marinier","entreprises":"Armées"},{"id":"M025","nom":"Courtier maritime","secteur":"Commerce et distribution","formation":"\"Master mention Droit des espaces et des activités maritimes (DEAM) parcours Droit, mer et littoral\"","entreprises":"Agence Maritime de l'Ouest, Blue Water Shipping (Brest), 2mareis Consulting, Actimar, Aqualines, AberActives, Le Grand Large, Mareis Consulting, Atlantique Services, Atlanpole (structures et adhérents liés au maritime), Algama, Amphitrite, ALE International, Alliatech, Aeromaritime Engineering France, Arkane, Arkeocean, AMVALOR, Aptatio, Aquaecosolutions"},{"id":"M026","nom":"Data analyst","secteur":"Informatique et télécommunication","formation":"Master Data Science Modélisation Statistique, BUT Sciences des Données, \"Master Mathématiques Appliquées, Statistique\", Master Sciences des Données , Master Informatique","entreprises":"Armées, Naval Group, Ifremer, Airseas, Ecomer Data, Marinelec, Piriou, Brittany Ferries, Index Blue Tech"},{"id":"M027","nom":"Déctecteur anti sous-marins","secteur":"\"Service public, défense et sécurité\", Recherche","formation":"Officier marinier","entreprises":"Armées"},{"id":"M028","nom":"Détecteur","secteur":"Recherche, \"Service public, défense et sécurité\"","formation":"Officier marinier","entreprises":"Armées"},{"id":"M029","nom":"Détecteur analyste des signaux électromagnétiques","secteur":"\"Service public, défense et sécurité\", Recherche","formation":"Officier marinier, BUT Génie Électrique et Informatique Industrielle, Ingénieur Généraliste","entreprises":"Armées"},{"id":"M030","nom":"Electromécanicien naval","secteur":"\"Maintenance, entretien et nettoyage\", Industrie - Électronique","formation":"Bac Pro Electromécanicien marine","entreprises":"Armées, Naval Group, Piriou (Chantiers Piriou), Damen Shiprepair Brest, Cegelec Défense et Naval, Ifremer, Brittany Ferries, Socarenam, Ateliers Mécaniques Lorientais (AML), Altrad (Endel), Damen (groupe), Brest Naval Services, LIP (sous‑traitants pour la maintenance navale), Kermarrec Marine (équipements et maintenance), Ocea (implantations/clients en Bretagne), Groupe Piriou (services après‑vente), Chantiers de l’Odet (réparation navale), CMN (sites/partenariats régionaux), Navaltech / Naval Services (prestataires MCO), Eiffage Énergie Systèmes (activités maritimes), Sogestran (armement et maintenance), Brittany Subsea, Marinelec (équipements marins), Normed (sous‑traitance navale), Les Ateliers et Chantiers de Bretagne (réparation et maintenance), Keroman (plateformes et prestataires portuaires)"},{"id":"M031","nom":"Electromécanicien sur sous-marin","secteur":"Industrie - Électronique, \"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\"","formation":"Bac Pro Electromécanicien marine","entreprises":"Armées"},{"id":"M032","nom":"Equipier mécanique et électricité","secteur":"Industrie - Électronique, \"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\"","formation":"Bac Pro Electronique marine, Bac Pro Electromécanicien marine, \"Licence Professionnelle Métiers de l'électronique: communication, systèmes embarqués Parcours Systèmes d'Electronique marine embarqués\"","entreprises":"Armées, Naval Group, Piriou, Socarenam, Ateliers Mécaniques Lorientais (AML), SEM SYSTEM ELEC MECA, BARILLEC SAS, E‑NavSystems, Marinelec, Les Ateliers et Chantiers de Bretagne, Altrad / Endel (activités maritimes), Sogestran (activités portuaires et maintenance), Keroman (plateformes et maintenance portuaire), Normed (sous‑traitance navale), Brest Naval Services, Chantiers de l’Odet, Ocea (clients/implantations régionales), Brittany Ferries (maintenance et bord), Ifremer (sites et plateformes techniques), Brittany Subsea, Kermarrec Marine, Damen Shiprepair Brest, Pôle Mer Bretagne Atlantique (réseau d’entreprises et prestataires), entreprises nautiques locales et PME d’électricité marine (ex. entreprises d’électricité navale à Saint‑Malo, Saint‑Brieuc, Lorient)"},{"id":"M033","nom":"Equipier naval","secteur":"\"Service public, défense et sécurité\"","formation":"CAP matelot","entreprises":"Armées"},{"id":"M034","nom":"Expert cybersécurité","secteur":"Informatique et télécommunication","formation":"Master Cyber-Sécurité des Systèmes Embarqués","entreprises":"Armées, Naval Group, Thales (sites et activités navales en région), Ifremer, SHOM, Piriou, Socarenam, Kership, CMN (Constructions Mécaniques de Normandie — activités régionales), Ocea, Damen Shiprepair Brest, Brest Naval Services, Les Ateliers et Chantiers de Bretagne, Ateliers Mécaniques Lorientais (AML), Sogestran, Brittany Ferries, Keroman (prestataires portuaires), Pôle Mer Bretagne Atlantique, ENSTA Bretagne (recherche & formation navale), IMT Atlantique (recherche & formation), Diateam, Watoo, Ellidiss Technologies, Groupe Prorisk, Arkéa (services IT et sécurité pour acteurs maritimes), CCI ports et opérateurs portuaires locaux, prestataires MCO et intégrateurs régionaux (ex. sociétés d’ingénierie et d’intégration IT travaillant pour le naval), startups BlueTech et cybersécurité maritime basées à Brest et Lorient (divers acteurs locaux)"},{"id":"M035","nom":"Exploitant d'aérodrome et coordonnateur","secteur":"Commerce et distribution","formation":"BTS Aéronautique, Licence Professionnelle Aéronautique","entreprises":"Armées"},{"id":"M036","nom":"Fileteur","secteur":"Agriculture et élevage, Commerce et distribution","formation":"CAP Poissonnier écailler","entreprises":"Groupe Le Graët (Les Filets d’Erquy, Celtarmor, Pêcheries d’Armorique), GALLEN, Arpège Marée (Groupe Vives‑Eaux), MM Fish, Brest Marée (Sealeris), La Belle‑Iloise, Guyader Traiteur Frais, Prod Atlantique, Ouest Production, Cité Marine, Le Grand Lejon, Valmarée, Les Filets d’Erquy, Pêcheries d’Armorique, Celtarmor, Les Conserveries Paul Paulet, Conserverie Jean‑François Furic, Les Mareyeurs locaux et ateliers de filetage de Lorient, Quimperlé et Le Guilvinec, conserveries artisanales et usines de transformation du Finistère sud, mareyeurs et ateliers de filetage d’Erquy, Saint‑Quay‑Portrieux et Binic, ateliers de filetage à Concarneau, ateliers de filetage à Douarnenez, conserveries et usines de conditionnement du Morbihan"},{"id":"M037","nom":"Géologue","secteur":"Environnement, Recherche","formation":"\"Master Sciences de la Terre et des planètes, Environnement Parcours Géosciences Océan\", Licence Sciences de l'Environnement","entreprises":"Geotec, BMd Engineering, Waeles Marine Consultants, Fondasol (activités maritimes), Ifremer, SHOM, ENSTA Bretagne (laboratoires et projets), IMT Atlantique (recherche appliquée), Bretagne Pôle Naval (annuaire d’entreprises maritimes), Creocean, Artelia (implantations régionales), Groupe Fondasol, BPN annuaire (répertoire entreprises navales), Waeles Marine, GEOCEAN (interventions géotechniques offshore), Fugro (missions géotechniques et bathymétrie), Sercel (instrumentation géophysique), Eiffage Fondations (ouvrages maritimes), BUREAU VERITAS (services maritimes et inspections), BMd‑engineering, bureaux d’études côtières et géotechniques locaux (divers PME basées à Brest, Lorient, Saint‑Brieuc, Concarneau)"},{"id":"M038","nom":"Gérant d'établissement de restauration collective","secteur":"Hôtellerie et restauration","formation":"Cuisinier en restauration collective","entreprises":"Armées,Naval Group, Arsenal de Brest, Piriou, Socarenam, Kership, CMN (Constructions Mécaniques de Normandie), Damen Shiprepair Brest, Brest Naval Services, Les Ateliers et Chantiers de Bretagne, Ateliers Mécaniques Lorientais (AML), Ocea, Keroman (opérateur portuaire), Ports de Brest, Ports de Lorient, Port de Saint‑Malo, Port de Concarneau, Brittany Ferries, Sogestran, Brittany Subsea, Ifremer, SHOM, ENSTA Bretagne, IMT Atlantique (sites maritimes), Ponant (opérations/escales régionales), Groupe Piriou Services, Chantier Naval du Guilvinec, Chantiers de l’Odet, Chantier Naval Le Bot, Les Chantiers du Guip, Soclaine (sous‑traitance navale), Marinelec, Kermarrec Marine, Normed (sous‑traitance navale), Les Viviers du Guilvinec, La Belle‑Iloise, Guyader Traiteur Frais, Pêcheries d’Armorique, Celtarmor, Les Conserveries Paul Paulet, Conserverie Jean‑François Furic, Prod Atlantique, MM Fish, Sealeris (Brest Marée), armements locaux et mareyeurs majeurs (Le Guilvinec, Concarneau, Lorient), centres de formation maritime et lycées maritimes (CFA, Lycée maritime de Lorient, Lycée maritime de Saint‑Malo), sociétés de pilotage et remorquage régionales, opérateurs de maintenance embarquée et MCO de grande taille (Altrad / Endel, Cegelec Défense et Naval), grands prestataires de restauration collective présents sur sites industriels (Compass Group, Convivio, Ansamble, Sodexo, Elior — intervenant sur sites maritimes/industriels)"},{"id":"M039","nom":"Gestionnaire de ressources humaines","secteur":"Gestion administrative et ressources humaines","formation":"Master Gestion des Ressources Humaines, Master - mention Gestion des ressources humaines, Licence Gestion - parcours Ressources Humaines et Management Durable","entreprises":"Naval Group, Piriou, Socarenam, Kership, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Les Ateliers et Chantiers de Bretagne, Ateliers Mécaniques Lorientais (AML), Sogestran, Brittany Ferries, Keroman, Ifremer, SHOM, ENSTA Bretagne, IMT Atlantique, Ponant (opérations régionales), Altrad / Endel, Cegelec Défense et Naval, Marinelec, Kermarrec Marine, Normed, Chantier Naval du Guilvinec, Chantiers de l’Odet, Chantier Naval Le Bot, Les Chantiers du Guip, Voileries et grands acteurs du nautisme (La Belle‑Iloise, Guyader), conserveries et mareyeurs majeurs (Pêcheries d’Armorique, Celtarmor), prestataires MCO et intégrateurs IT régionaux (divers PME locales), ports et autorités portuaires (Ports de Brest, Ports de Lorient, Port de Saint‑Malo)"},{"id":"M040","nom":"Guetteur de flotte","secteur":"Recherche, \"Service public, défense et sécurité\"","formation":"Officier marinier, CAP matelot","entreprises":"Armées, Naval Group, Marine Nationale (bases et sémaphores), Centres Régionaux Opérationnels de Surveillance et de Sauvetage (CROSS), Brittany Ferries, CNN MCO (gestion technique de navires), Sogestran, Piriou, Socarenam, Damen Shiprepair Brest, Brest Naval Services, Keroman (opérateur portuaire), Ports de Brest, Ports de Lorient, Port de Saint‑Malo, Ponant (opérations régionales), Ifremer (plateformes et navires de recherche), SHOM (services hydrographiques), Les Ateliers et Chantiers de Bretagne, Ateliers Mécaniques Lorientais (AML), Kership, CMN (sites/partenariats régionaux), sociétés de pilotage locales (pilotes portuaires), armements et affréteurs régionaux, sociétés de gestion technique/ship management et superintendance, prestataires MCO et superintendance (ex. CNN MCO), opérateurs de sauvetage et sécurité maritime (SNSM et centres de secours maritimes), entreprises de remorquage et assistance portuaire"},{"id":"M041","nom":"Hydrographe","secteur":"Environnement, Recherche","formation":"Licence Hydrographie SHOM, Master en Hydrographie","entreprises":"Armées, Sea‑View, IFREMER, SHOM, Actimar, Hydroconsult, Fugro, GEOCEAN, Sercel, Fondasol, Geotec, BMd‑Engineering, ENSTA Bretagne (laboratoires), IMT Atlantique (laboratoires), Hydrocean (prestataire), Waeles Marine Consultants, CREOCEAN, Artelia (implantations régionales), Bureau Veritas (services maritimes), sociétés d’océanographie et d’ingénierie côtière locales (divers PME basées à Brest, Lorient, Concarneau), ports et services hydrographiques régionaux, prestataires d’enquêtes bathymétriques et levés (divers opérateurs locaux)"},{"id":"M042","nom":"Infirmier","secteur":"Santé, Service à la personne","formation":"\"Formations STCW (Basique sécurité, Survie, Lutte Incendie)\"","entreprises":"Armées, Naval Group, Brittany Ferries, Ifremer, SHOM, Ponant, Socarenam, Piriou, Kership, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Les Ateliers et Chantiers de Bretagne, Ateliers Mécaniques Lorientais (AML), Sogestran, Keroman (opérateur portuaire), Ports de Brest, Ports de Lorient, Port de Saint‑Malo, Les Chantiers du Guilvinec, Chantiers de l’Odet, Chantier Naval Le Bot, Normed, Marinelec, Kermarrec Marine, Altrad / Endel (activités maritimes), Cegelec Défense et Naval, Ifremer‑opérations embarquées, centres de formation maritime (lycées/CFA maritimes), armements et affréteurs régionaux, conserveries et grands sites industriels portuaires (où des infirmiers santé au travail sont présents)"},{"id":"M043","nom":"Informaticien","secteur":"Informatique et télécommunication","formation":"BTS Services Informatiques aux Organisations - Option SISR, BTS Services Informatiques aux Organisations, BTS CIEL","entreprises":"Armées,Naval Group, Thales (sites navals), Ifremer, SHOM, ENSTA Bretagne, IMT Atlantique, Pôle Mer Bretagne Atlantique, Brittany Ferries, Ponant, Piriou, Socarenam, Kership, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Altrad / Endel, Cegelec Défense et Naval, Eiffage Énergie Systèmes (activités maritimes), Francbord (Ecomer / Marinelec / Enag), Ocean Data System, Compuships (S.F.E.C.), Fugro (prestations géotechniques & data), Sercel, Bureau Veritas (services maritimes), Sea‑View, Hydroconsult, GEOCEAN, Artelia (implantations régionales), Geotec, BMd‑Engineering, CREOCEAN, Hydrocean, divers intégrateurs et éditeurs locaux (Ecomer Data / Francbord), sociétés de maintenance et ship‑management régionales, grands ports et autorités portuaires (Ports de Brest, Ports de Lorient, Port de Saint‑Malo), armements et affréteurs régionaux, conserveries et grands sites industriels portuaires (services IT internes ou prestataires), startups BlueTech et fournisseurs d’électronique/informatique embarquée basés à Lorient et Brest, prestataires cloud/infogérance locaux et SSII régionales"},{"id":"M044","nom":"Ingénieur en génie maritime","secteur":"Industries, \"Architecture, études et normes\"","formation":"\"Master Mécanique, matériaux et génie civil\", Licence Génie civil, Master Génie mécanique et matériaux, Licence Professionnelle Métiers de l'Industrie Navale et Maritime (MINM) - Parcours Métiers de l'Industrie et la Construction Navale","entreprises":"Armées, AMERSEA SUBSEA ENGINEERING & SERVICES, Naviwatt,Naval Group, Piriou, Socarenam, Kership, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Les Ateliers et Chantiers de Bretagne, Ateliers Mécaniques Lorientais (AML), Sogestran, Brittany Ferries, Ponant, Ifremer, SHOM, ENSTA Bretagne, IMT Atlantique, Keroman, Altrad / Endel, Cegelec Défense et Naval, Eiffage Énergie Systèmes, Marinelec, Kermarrec Marine, Normed, Chantier Naval du Guilvinec, Chantiers de l’Odet, Chantier Naval Le Bot, Les Chantiers du Guip, Voileries et grands chantiers de plaisance (Concarneau, Douarnenez), Les Viviers du Guilvinec (sites industriels portuaires), Guyader, La Belle‑Iloise, Bureau Veritas (services maritimes), Fugro (prestations offshore), GEOCEAN, Fondasol, Geotec, Actimar, Sea‑View, Hydroconsult, CREOCEAN, Hydrocean"},{"id":"M045","nom":"Instructeur de plongée","secteur":"\"Sport, animation et loisir\"","formation":"BPJEPS spécialité éducateur sportif mention activités physiques pour tous, \"Diplôme d’État de la Jeunesse, de l’Éducation Populaire et du Sport (DEJEPS)\"","entreprises":"Armées, Aber Wrac’h Plongée, Atlantis Bretagne Plongée, Scubaland, Club de Plongée de la Rade de Brest (ASMCB), Club Subaquatique de Port‑Louis, Entre Deux Eaux (Port‑Louis), Plongée Étel (Club Subaquatique d’Étel), Quiberon Plongée, Plongée Golfe du Morbihan, Plongée Lorient / Centre de plongée Lorient, Concarneau Plongée, Plongée Douarnenez, Plongée Roscoff, Plongée Saint‑Malo, Plongée Le Guilvinec, Plongée Le Croisic (structures inter‑régionales actives en Bretagne), Scuba Breizh (divers clubs), Club de Plongée de Landéda, Les Zomards (CNBBP / clubs enfants et locaux), Club de Plongée de la Rade de Brest (sections locales), Atlantis Plongée Roscanvel, Club Manche Atlantique Plongée (GMAP), Scubaland – Eau Libre (Brest), Clubs et centres FFESSM locaux (divers clubs départementaux listés par Petit Futé et Le Télégramme), centres de formation DEJEPS/DESJEPS et formateurs indépendants référencés dans l’annuaire régional"},{"id":"M046","nom":"Instructeur de plongée","secteur":"\"Sport, animation et loisir\", Tourisme, \"Service public, défense et sécurité\"","formation":"BPJEPS spécialité éducateur sportif mention activités physiques pour tous, \"Diplôme d’État de la Jeunesse, de l’Éducation Populaire et du Sport (DEJEPS)\"","entreprises":"Armées, Aber Wrac’h Plongée, Atlantis Bretagne Plongée, Scubaland, Club de Plongée de la Rade de Brest (ASMCB), Club Subaquatique de Port‑Louis, Entre Deux Eaux (Port‑Louis), Plongée Étel (Club Subaquatique d’Étel), Quiberon Plongée, Plongée Golfe du Morbihan, Plongée Lorient / Centre de plongée Lorient, Concarneau Plongée, Plongée Douarnenez, Plongée Roscoff, Plongée Saint‑Malo, Plongée Le Guilvinec, Plongée Le Croisic (structures inter‑régionales actives en Bretagne), Scuba Breizh (divers clubs), Club de Plongée de Landéda, Les Zomards (CNBBP / clubs enfants et locaux), Club de Plongée de la Rade de Brest (sections locales), Atlantis Plongée Roscanvel, Club Manche Atlantique Plongée (GMAP), Scubaland – Eau Libre (Brest), Clubs et centres FFESSM locaux (divers clubs départementaux listés par Petit Futé et Le Télégramme), centres de formation DEJEPS/DESJEPS et formateurs indépendants référencés dans l’annuaire régional"},{"id":"M047","nom":"Lamaneur","secteur":"Commerce et distribution","formation":"BTS Pêche et gestion de l'environnement marin (PGEM), Bac Pro CGEM, CAP matelot","entreprises":"Société Coopérative des Lamaneurs des Ports de Brest‑Roscoff‑Concarneau, Coopérative du Lamanage (Port de Brest), Société Coopérative de Lamanage de Lorient, Station de pilotage de Lorient, Capitainerie / Service Lamanage Port de Saint‑Malo, Capitainerie / Service Lamanage Port de Concarneau, Capitainerie / Service Lamanage Port de Roscoff, Capitainerie / Service Lamanage Port du Guilvinec, Capitainerie / Service Lamanage Port de Douarnenez, Capitainerie / Service Lamanage Port de Saint‑Brieuc (Saint‑Quay‑Portrieux), Services de lamanage et remorquage privés intervenant sur escales régionales (prestataires locaux), Opérateurs portuaires et coopératives locales du Golfe du Morbihan (services d’assistance et lamanage)"},{"id":"M048","nom":"Maintenance aéronautique ","secteur":"\"Maintenance, entretien et nettoyage\", Industries, Recherche","formation":"Licence Professionnelle Métiers de l'industrie : industrie aéronautique Parcours Industrie aéronautique","entreprises":"Armées Atelier Industriel de l’Aéronautique de Bretagne (AIA de Bretagne), Sabena Technics DNR (Saint‑Lunaire / Saint‑Malo), Safran Landing Systems Services (Dinard / Rennes), AIRMAIN (Tremuson / Saint‑Brieuc), Rennes Maintenance, Xénon Groupe (sites Vannes / Brest), Exail (Brest), Thales (sites et intégration systèmes en Bretagne), Naval Group (activités systèmes embarqués et MCO en sites bretons), Cegelec Défense & Naval (prestations systèmes embarqués), Altrad / Endel (MCO industriel sur sites portuaires), Eiffage (activités fondations et maintenance embarquée), Bureau Veritas (services d’inspection et maintenance maritimes/aéronautiques), Safran (implantations et projets de réparation à Rennes / La Janais), divers sous‑traitants et ateliers locaux référencés par Bretagne Aerospace et annuaires régionaux"},{"id":"M049","nom":"Maître d'hotel - majordome","secteur":"Hôtellerie et restauration","formation":"BTS Management en hôtellerie et restauration","entreprises":"Ponant, Brittany Ferries, UVEA Marine Services (UMS), Compagnie Océane, Compagnie Maritime Nantaise, Compagnie Armoricaine, Compagnie des Iles, Vedettes de l’Odet, Vedettes de l’Île‑de‑Batz, Vedettes de la Rance, Vedettes du Golfe, Vedettes du Morbihan, Gestionnaires de yachts et conciergeries maritimes (Port du Crouesty), Ports de Brest (services hôtellerie embarquée), Ports de Lorient (services d’escale), Ports de Concarneau (prestataires d’accueil passagers), Armateurs de charter et de plaisance haut de gamme basés en Bretagne, Sociétés de gestion d’événements nautiques proposant service de table à bord, Traiteurs événementiels intervenant sur navires et réceptions portuaires, Compagnies de croisières fluviales et maritimes opérant en escale en Bretagne, Sociétés de gestion de superyachts et marinas de luxe (Lorient, Crouesty, Brest), Opérateurs d’escales et agences maritimes proposant hôtellerie embarquée"},{"id":"M050","nom":"Mareyeur","secteur":"Commerce et distribution","formation":"CAP Poissonnier écailler, BTS AQUACOLE","entreprises":"Pêcheries Celtiques, ACOMAR Concarneau, Alliance Marée Concarneau, APGP Douarnenez, Allard Marée (Lorient), Alliomer / Miniac Morvan, Aquadis (Plouvorn), Beganton SA (Roscoff), Bourbon Marée (La Trinité‑sur‑Mer), Brest Marée, Capitaine Houat (Lanester), Celtarmor, Les Viviers de Bassinic, Les Viviers de Saint‑Marc, Viviers d’Audierne, Viviers Béganton, Mareyage Saint‑Guénolé, Port Marée, Intermer, Les Viviers du Guilvinec, Pêcheries d’Armorique, MM Fish, Sealeris (Brest Marée / Brest Marée Groupes), Prod Atlantique, La Marée du Jour (Brest / environs), Criée de Roscoff (opérateurs et mareyeurs associés), Criée du Guilvinec (opérateurs et mareyeurs associés), Viviers de l’Odet (Concarneau area operators), Capitaine Houat (réseau mareyage), Les Conserveries et mareyeurs locaux labellisés Breizhmer (divers acteurs régionaux), mareyeurs et grossistes présents dans les criées de Lorient, Concarneau, Le Guilvinec, Roscoff, Saint‑Quay‑Portrieux, Audierne, Saint‑Guénolé, La Turballe (opérateurs intervenant en Bretagne)"},{"id":"M051","nom":"Marin de plaisance","secteur":"\"Sport, animation et loisir\", Tourisme","formation":"Navigateurs, Bac Pro Naviguant Pont et Machine","entreprises":"Armorique Diffusion, Royal Nautisme, CN Diffusion, Brest Ocean Boat, Multi-Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty"},{"id":"M052","nom":"Marin-pêcheur","secteur":"Agriculture et élevage, \"Sport, animation et loisir\", Commerce et distribution","formation":"\"Formations pêche, cultures marines, modules sûreté (STCW)\", POEC - PIC - compétences clés métier Matelot à la pêche, BTS Pêche et gestion de l'environnement marin (PGEM)","entreprises":"Armement Bigouden SA, Compagnie Française du Thon Océanique (CFT), Scapêche (Scapêche Bretagne Ouest), Pêcheries Celtiques, Pêcheries d’Armorique, Les Viviers du Guilvinec, Viviers Béganton, MM Fish, Sealeris / Brest Marée, Prod Atlantique, Luxi / Top Atlantique, Mareyage Brest Marée, Intermer, Les Viviers Quiberonnais, Les Viviers de l’Odet, Viviers d’Audierne, Criée du Guilvinec (opérateurs associés), Criée de Concarneau (opérateurs associés), Criée de Roscoff (opérateurs associés), Criée de Lorient / Keroman (opérateurs associés), Criée de Brest (opérateurs associés), Criée de Douarnenez (opérateurs associés), Armement Porcher, Armement Eouzan, Armement La Houle, Hent ar Bugale (armements locaux), Armement Antaeus (exemples d’armements finistériens), Bretagne Armor Pêche (structures publiques/SEM liées à la pêche), coopératives et mareyeurs locaux présents dans les criées de Saint‑Guénolé, Loctudy, Saint‑Quay‑Portrieux, Le Guilvinec, Concarneau, Roscoff, Audierne, La Turballe"},{"id":"M053","nom":"Matelot","secteur":"\"Service public, défense et sécurité\"","formation":"CAP matelot","entreprises":"Armées, Naval Group, Piriou, Socarenam, CMN (Constructions Mécaniques de Normandie), Ocea, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Compagnie Océane, Scapêche, Armement Bigouden, Armement Porcher, Armement Eouzan, Armement La Houle, Les Viviers du Guilvinec, Viviers Béganton, Brest Marée / Sealeris, Intermer, Prod Atlantique, MM Fish, Criée du Guilvinec (opérateurs associés), Criée de Concarneau (opérateurs associés), Criée de Roscoff (opérateurs associés), Criée de Lorient / Keroman (opérateurs associés), Criée de Brest (opérateurs associés), Chantiers de l’Odet, Chantiers du Guilvinec, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Sogestran, ports et capitaineries (Brest, Lorient, Concarneau, Saint‑Malo, Le Guilvinec, Roscoff, Audierne), sociétés de remorquage et lamanage locales, gestionnaires de yachts et marinas (Port du Crouesty, Lorient La Base), prestataires offshore et EMR locaux"},{"id":"M054","nom":"Matelot fusilier marin","secteur":"\"Service public, défense et sécurité\"","formation":"Officier marinier","entreprises":"Armées"},{"id":"M055","nom":"Matelot Marin-pompier","secteur":"\"Service public, défense et sécurité\"","formation":"\"Formations STCW (Basique sécurité, Survie, Lutte Incendie)\"","entreprises":"Armées"},{"id":"M056","nom":"Matelot opérations et navigation","secteur":"\"Service public, défense et sécurité\"","formation":"CAP matelot","entreprises":"Armées, Naval Group, Piriou, Socarenam, CMN, Ocea, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Armement Bigouden, Armement Porcher, Armement Eouzan, Armement La Houle, Les Viviers du Guilvinec, Viviers Béganton, Brest Marée / Sealeris, Intermer, Prod Atlantique, MM Fish, Criée du Guilvinec (opérateurs associés), Criée de Concarneau (opérateurs associés), Criée de Roscoff (opérateurs associés), Criée de Lorient / Keroman (opérateurs associés), Criée de Brest (opérateurs associés), Chantiers de l’Odet, Chantiers du Guilvinec, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Sogestran, Ports de Brest, Ports de Lorient, Port de Concarneau, Port de Saint‑Malo, Port du Guilvinec, Port de Roscoff, Port du Crouesty, remorqueurs et sociétés de lamanage locales, gestionnaires de marinas et opérateurs de superyachts (Lorient La Base, Crouesty), prestataires offshore et EMR opérant en Bretagne"},{"id":"M057","nom":"Mécanicien","secteur":"\"Maintenance, entretien et nettoyage\"","formation":"Mécanicien 250 kW, Mécanicien 750 kW, Mécanicien embarqué, Officier Chef Mécanicien Illimité, Formation chef mécanicien 3000kW, Formation chef mécanicien 8000kW, Formation chef mécanicien illimité, \"Master Mécanique, matériaux et génie civil\", Licence Mécanique","entreprises":"Armées, Naval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Chantiers de l’Odet, Chantiers du Guilvinec, Chantier Bretagne Sud (Belz), Chantier du Guip, Chantier Grand Largue, Pirio u Naval Services, Sogestran, Damen, Keroman (Lorient), Ports de Brest, Ports de Lorient, Port de Concarneau, Port du Guilvinec, Port de Roscoff, Port de Saint‑Malo, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Armement Bigouden, Les Viviers du Guilvinec, Viviers Béganton, Brest Marée / Sealeris, Intermer, Prod Atlantique, MM Fish, Remorquage et lamanage locaux (coopératives et prestataires), sociétés d’offshore et EMR opérant en Bretagne (prestataires MCO), entreprises de mécanique marine et motoristes locaux (Brest Marine Services, Assistance Méca Nautisme, Bretagne Marine), ateliers composites et chaudronnerie navale (Atelier Composite de la Baie, Agencement naval du Finistère), entreprises d’électronique et d’avionique embarquée intervenant en maintenance"},{"id":"M058","nom":"Mécanicien industriel en atelier naval","secteur":"\"Maintenance, entretien et nettoyage\", Industries","formation":"Formation chef mécanicien illimité, Formation chef mécanicien 8000kW, Formation chef mécanicien 3000kW, Officier Chef Mécanicien Illimité, Mécanicien 750 kW, Mécanicien 250 kW, \"Master Mécanique, matériaux et génie civil\"","entreprises":"Armées, Naval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Chantiers de l’Odet, Chantiers du Guilvinec, Chantier Bretagne Sud (Belz), Chantier du Guip, Chantier Grand Largue, Pirio u Naval Services, Sogestran, Damen, Keroman (Lorient), Ports de Brest, Ports de Lorient, Port de Concarneau, Port du Guilvinec, Port de Roscoff, Port de Saint‑Malo, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Armement Bigouden, Les Viviers du Guilvinec, Viviers Béganton, Brest Marée / Sealeris, Intermer, Prod Atlantique, MM Fish, Remorquage et lamanage locaux (coopératives et prestataires), sociétés d’offshore et EMR opérant en Bretagne (prestataires MCO), entreprises de mécanique marine et motoristes locaux (Brest Marine Services, Assistance Méca Nautisme, Bretagne Marine), ateliers composites et chaudronnerie navale (Atelier Composite de la Baie, Agencement naval du Finistère), entreprises d’électronique et d’avionique embarquée intervenant en maintenance"},{"id":"M059","nom":"Mécanicien marine","secteur":"\"Maintenance, entretien et nettoyage\"","formation":"Formation chef mécanicien 3000kW, Formation chef mécanicien 8000kW, Formation chef mécanicien illimité, Officier Chef Mécanicien Illimité","entreprises":"Armées, Armorique Diffusion, Pabouk Compagnie, Brest Ocean Boat, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt, Résumé rapide : je ne peux pas fournir une « liste strictement exhaustive et à jour » sans extraction SIRENE et vérifications, mais ci‑dessous vous avez une liste étendue d’entreprises maritimes en Bretagne employant des mécaniciens marine (noms séparés par des virgules), suivie d’une méthode précise et d’un script pour obtenir l’exhaustivité.\r\nNaval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Chantiers de l’Odet, Chantiers du Guilvinec, Chantier Bretagne Sud (Belz), Chantier du Guip, Chantier Grand Largue, Sogestran, Keroman (Keroman / Lorient), Ports de Brest, Ports de Lorient, Port de Concarneau, Port du Guilvinec, Port de Roscoff, Port de Saint‑Malo, Port du Crouesty, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Damen, Brest Marine Services, Assistance Méca Nautisme, Bretagne Marine, Ateliers Composite de la Baie, Agencement naval du Finistère, Brest Marée / Sealeris (services techniques embarqués), Intermer, Prod Atlantique, MM Fish, remorqueurs et sociétés de lamanage locales, prestataires offshore et EMR opérant en Bretagne, gestionnaires de marinas et chantiers nautiques locaux"},{"id":"M060","nom":"Mécanicien naval","secteur":"\"Maintenance, entretien et nettoyage\", Industries","formation":"Formation chef mécanicien 3000kW, Formation chef mécanicien 8000kW, Formation chef mécanicien illimité","entreprises":"Armées, Armorique Diffusion, Pabouk Compagnie, Brest Ocean Boat, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt"},{"id":"M061","nom":"Mécatronicien naval","secteur":"Industries","formation":"BTS Mécatronique navale","entreprises":"Naval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Chantiers de l’Odet, Chantiers du Guilvinec, Chantier Bretagne Sud (Belz), Chantier du Guip, Chantier Grand Largue, Sogestran, Keroman (Lorient), Ports de Brest, Ports de Lorient, Port de Concarneau, Port du Guilvinec, Port de Roscoff, Port de Saint‑Malo, Port du Crouesty, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Brest Marine Services, Assistance Méca Nautisme, Bretagne Marine, AML Mécanique, Ateliers Composite de la Baie, Agencement Naval du Finistère, Sealeris / Brest Marée, Intermer, Prod Atlantique, MM Fish, remorqueurs et sociétés de remorquage locales, sociétés d’offshore et EMR opérant en Bretagne, gestionnaires de marinas et chantiers nautiques locaux"},{"id":"M062","nom":"Menuisier naval","secteur":"Industries, Industrie - Bois","formation":"BTS CICN - Conception et Industrialisation en Construction Navale, LPRO MINM - Métiers de l'Industrie - Industrie navale et maritime - Parcours Construction Navale, Licence Professionnelle Métiers de l'Industrie Navale et Maritime (MINM) - Parcours Métiers de l'Industrie et la Construction Navale","entreprises":"Pabouk Compagnie, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt, Piriou, Socarenam, CMN, Ocea, Naval Group (sites Brest/Lorient), Damen Shiprepair Brest, Brest Naval Services, Les Ateliers et Chantiers de Bretagne, Chantiers de l’Odet, Chantiers du Guilvinec, Chantier Bretagne Sud (Belz), Chantier du Guip, Chantier Grand Largue, Chantier Naval Yvin (Roscoff), Chantier AJP (Saint‑Malo), Qualinautic / groupement (Concarneau et Finistère Sud : Agencement Naval du Finistère, Rider Marine, Atelier Horn, etc.), Ateliers Composite de la Baie, Agencement naval du Finistère, Atelier HORN, SELLERIE / TAPISSERIE Francis Bénard (réfection intérieure), Brest Marine Services, Assistance Méca Nautisme, Keroman (Lorient – ateliers et refit), Ports de Brest, Ports de Lorient (zones de refit et entreprises associées), chantiers nautiques et refit du Crouesty, chantiers et artisans listés par l’annuaire IPC (Concarneau), chantiers de plaisance et refit autour de Quimperlé / Lorient / Concarneau / Roscoff / Saint‑Malo, petites entreprises artisanales de menuiserie navale référencées par Qualinautic et les pôles locaux (réseaux de refit)"},{"id":"M063","nom":"Météorologiste - océanographe","secteur":"Environnement, Recherche","formation":"Master Sciences des Données Océanographiques, Master Physique de l'Océan et du Climat, Master Physique Parcours Physique océan et climat","entreprises":"Ifremer, Météo‑France (services marins régionaux), Actimar (filiale SUEZ / océanographie opérationnelle), DynamOcean, SETEC In Vivo, Genavir, Mercator Ocean International (implantations et collaborations régionales), CLS / Collecte Localisation Satellites (activités océanographiques), OceanDataLab, OceanWise France (prestataires de données marines), EOMYS (modélisation), Enaleia (projets d’observation), Pôle Mer Bretagne Atlantique (adhérents techniques), bureaux d’études locaux en océanographie et météo‑marine (ex. bureaux d’études listés par BPN), sociétés de monitoring et instrumentation (bouées, ADCP) et prestataires de services météo‑océanographiques pour l’offshore et les EMR opérant en Bretagne"},{"id":"M064","nom":"Moniteur d'activités nautiques","secteur":"Tourisme, \"Sport, animation et loisir\"","formation":"BPJEPS spécialité éducateur sportif mention activités physiques pour tous, \"Diplôme d’État de la Jeunesse, de l’Éducation Populaire et du Sport (DEJEPS)\"","entreprises":"Bretagne Info Nautisme (annuaire régional), écoles et bases nautiques municipales (ex. écoles de voile des ports de Brest, Lorient, Concarneau, Le Guilvinec, Saint‑Malo), centres nautiques départementaux (Morbihan, Finistère, Côtes‑d’Armor, Ille‑et‑Vilaine), clubs de voile et dériveur (Yacht Club de Carnac; clubs de la rade de Brest; clubs de la baie de Morlaix), écoles de kitesurf et windsurf locales, écoles de plongée professionnelles (ports de Brest, Roscoff, Concarneau), sociétés de location et charter (ports de plaisance du Crouesty, La Trinité‑sur‑Mer, Lorient La Base), opérateurs de loisirs insulaires (navettes et activités aux îles), associations de loisirs nautiques et centres de formation BPJEPS/DEJEPS en nautisme"},{"id":"M065","nom":"Moniteur d'entraînement physique militaire et sportif","secteur":"\"Service public, défense et sécurité\", \"Sport, animation et loisir\"","formation":"BPJEPS spécialité éducateur sportif mention activités physiques pour tous, \"Diplôme d’État de la Jeunesse, de l’Éducation Populaire et du Sport (DEJEPS)\"","entreprises":"Armées"},{"id":"M066","nom":"Mytiliculteur","secteur":"Agriculture et élevage, Environnement, Commerce et distribution","formation":"BTS AQUACOLE, Master Biologie Parcours Sciences halieutiques et aquacoles (SHA), Bac Pro Cultures Marines","entreprises":"Cultimer (producteurs associés), Société Nouvelle Mytilus, Les Boucholeurs (Pénestin), Les Moules de Bouchot de la Baie de Saint‑Brieuc (producteurs locaux), producteurs de la Baie de Saint‑Brieuc (zone mytilicole), producteurs de Pénestin (Morbihan), producteurs de la Rade de Brest et rade de Morlaix (producteurs locaux), mytiliculteurs de la baie de Cancale / baie du Mont‑Saint‑Michel (côté Ille‑et‑Vilaine / Manche), producteurs du Pays de Dol / Dol‑de‑Bretagne, groupements et coopératives locales (structures de commercialisation et expédition), petites exploitations artisanales du Finistère sud (Concarneau / Audierne), exploitations du Golfe du Morbihan"},{"id":"M067","nom":"Navigateur timonier","secteur":"\"Service public, défense et sécurité\"","formation":"Navigateurs, Bac Pro Naviguant Pont et Machine","entreprises":"Armées"},{"id":"M068","nom":"Océanographe","secteur":"Recherche, Environnement","formation":"Master Sciences des Données Océanographiques, Master Physique de l'Océan et du Climat, Master Physique Parcours Physique océan et climat, \"Master Sciences de la Terre et des planètes, Environnement Parcours Géosciences Océan\"","entreprises":"Armées, Ifremer, Actimar, SETEC In Vivo, Mercator Ocean (collaborations régionales), CLS (Collecte Localisation Satellites), bureaux d’études et prestataires privés listés par le Pôle Mer Bretagne Atlantique (adhérents spécialisés en océanographie et modélisation), startups et PME locales en modélisation et instrumentation marine (ex. fournisseurs de bouées, radars HF et ADCP)"},{"id":"M069","nom":"Officier adjoint moyens et exploitations portuaires","secteur":"Logistique et transport, \"Service public, défense et sécurité\"","formation":"\"Master Mécanique, matériaux et génie civil\", Licence Génie civil, Officier marinier, Officier de carrière, Officiers sous contrat long","entreprises":"Armées"},{"id":"M070","nom":"Officier analyste en communication et environnement informationnel","secteur":"\"Service public, défense et sécurité\", Informatique et télécommunication","formation":"Officier de carrière, Officiers sous contrat long","entreprises":"Armées"},{"id":"M071","nom":"Officier biodiversité","secteur":"Environnement, \"Service public, défense et sécurité\"","formation":"Officier de carrière, Officiers sous contrat long, Officier marinier","entreprises":"Armées"},{"id":"M072","nom":"Officier chargé de communication","secteur":"Communication et marketing, \"Service public, défense et sécurité\"","formation":"Officier de carrière, Officiers sous contrat long, Officier marinier","entreprises":"Armées"},{"id":"M073","nom":"Officier Data","secteur":"Informatique et télécommunication, \"Service public, défense et sécurité\"","formation":"Officier de carrière, Officiers sous contrat long, Officier marinier","entreprises":"Armées"},{"id":"M074","nom":"Officier de marine (informatique et telecom)","secteur":"Informatique et télécommunication, \"Service public, défense et sécurité\"","formation":"Officier marinier","entreprises":"Armées"},{"id":"M075","nom":"Officier de marine (nucléaire)","secteur":"\"Service public, défense et sécurité\"","formation":"Officier de carrière, Officiers sous contrat long","entreprises":"Armées"},{"id":"M076","nom":"Officier de marine (opérations maritimes et aéronautiques)","secteur":"\"Service public, défense et sécurité\"","formation":"Officier de carrière, Officiers sous contrat long","entreprises":"Armées"},{"id":"M077","nom":"Officier de marine marchande - machine","secteur":"\"Service public, défense et sécurité\"","formation":"Officier chef de quart machine, officier de la marine marchande, Formation probatoire officier chef de quart machine, Formation officier chef de quart machine","entreprises":"Armées"},{"id":"M078","nom":"Officier de marine marchande - pont","secteur":"\"Service public, défense et sécurité\"","formation":"Officier chef de quart machine, officier de la marine marchande, Formation probatoire officier chef de quart machine, Formation officier chef de quart machine","entreprises":"Armées"},{"id":"M079","nom":"Officier de port","secteur":"Gestion administrative et ressources humaines","formation":"\"Officier chef de quart machine, officier de la marine marchande\"","entreprises":"Port de Brest (capitainerie et services portuaires), Port de Lorient Keroman, Port de Saint‑Malo, Port de Roscoff‑Bloscon, Port de Concarneau, Port du Légué (Saint‑Brieuc), Port du Guilvinec, Port du Crouesty (La Trinité‑sur‑Mer), Port de La Trinité‑sur‑Mer, Port d’Audierne, Port de Douarnenez, Port de Saint‑Quay‑Portrieux, Capitaineries départementales et municipales (nombreuses petites places), Directions de ports de commerce et terminaux (Brest, Lorient, Saint‑Malo, Roscoff, Concarneau), gestionnaires de marinas et ports de plaisance (ex. Crouesty, Lorient La Base), concessionnaires de terminaux et opérateurs de manutention, compagnies de ferry et passagers (Brittany Ferries, compagnies de desserte insulaire), sociétés de remorquage et lamanage opérant sous contrat portuaire, autorités portuaires locales et délégataires de service public"},{"id":"M080","nom":"Officier de renseignement","secteur":"\"Service public, défense et sécurité\"","formation":"Officiers sous contrat long, Officier de carrière, Officier marinier","entreprises":"Armées"},{"id":"M081","nom":"Officier management de l'information opérationnelle","secteur":"Gestion administrative et ressources humaines, \"Service public, défense et sécurité\"","formation":"Officier de carrière, Officiers sous contrat long, Officier marinier","entreprises":"Armées"},{"id":"M082","nom":"Officier opérations guerre des mines","secteur":"\"Service public, défense et sécurité\"","formation":"Officier de carrière, Officiers sous contrat long, Officier marinier","entreprises":"Armées"},{"id":"M083","nom":"Officier sous contrat Branche Etat-Major","secteur":"\"Service public, défense et sécurité\"","formation":"Officiers sous contrat long","entreprises":"Armées"},{"id":"M084","nom":"Officier sous contrat Opérations","secteur":"\"Service public, défense et sécurité\"","formation":"Officiers sous contrat long","entreprises":"Armées"},{"id":"M085","nom":"Officier spécialiste en analyse géo-spatiale","secteur":"\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Recherche","formation":"Officiers sous contrat long, Officier de carrière","entreprises":"Armées"},{"id":"M086","nom":"Officier traitant en lutte informatique d'influence","secteur":"\"Service public, défense et sécurité\", Informatique et télécommunication","formation":"Officier de carrière, Officiers sous contrat long","entreprises":"Armées"},{"id":"M087","nom":"Officier traitant SSI","secteur":"\"Service public, défense et sécurité\", Informatique et télécommunication","formation":"Officier de carrière, Officiers sous contrat long, Officier marinier, BTS Services Informatiques aux Organisations, BTS Services Informatiques aux Organisations - Option SISR","entreprises":"Armées"},{"id":"M088","nom":"Opérateur d'écoute","secteur":"\"Service public, défense et sécurité\", Recherche","formation":"Officier marinier","entreprises":"Armées"},{"id":"M089","nom":"Opérateur de maintenance aéronautique","secteur":"\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Recherche","formation":"BTS Aéronautique, Licence Professionnelle Aéronautique","entreprises":"Armées, Sabena Technics DNR, Safran Landing Systems Services (Dinard / Saint‑Lunaire), AIRMAIN (Saint‑Brieuc / Trémuson), Rennes Maintenance, Exail (Brest), Technimer, Bretagne Aero, Cailabs, Dronotique, diverses PME et sous‑traitants membres du cluster Bretagne Aerospace (sous‑traitance aéronautique régionale)"},{"id":"M090","nom":"Opérateur de manutention des aéronefs","secteur":"\"Maintenance, entretien et nettoyage\", Industries, Recherche, \"Service public, défense et sécurité\"","formation":"CAP matelot, Officier marinier","entreprises":"Armées, Brest Bretagne Handling, Finist'Air, Osprey Flight Solutions, Continental Jet Services, Jetex Flight Support, CJS Flight Support, Groupe Europe Handling (GEH), Victor / handling locaux, Euro Jet Intercontinental, fournisseurs et handlers listés sur les fiches aéroportuaires de Brest Bretagne"},{"id":"M091","nom":"Opérateur en bureau de piste","secteur":"\"Service public, défense et sécurité\", Gestion administrative et ressources humaines","formation":"Pas de formation en Bretagne","entreprises":"Armées"},{"id":"M092","nom":"Opérateur industriel en atelier naval","secteur":"Industries, \"Maintenance, entretien et nettoyage\"","formation":"Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Conduite des systèmes mécaniques navals, Licence Professionnelle Métiers de l'industrie : industrie aéronautique Parcours Industrie aéronautique, Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Conduite des systèmes électriques navals, Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Conduite des opérations navales, Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Maintenance Portuaire et Navale, Licence Professionnelle Métiers de l'Industrie Navale et Maritime (MINM) - Parcours Métiers de l'Industrie et la Construction Navale","entreprises":"Pabouk Compagnie, Naviwatt,Damen Shiprepair Brest, Piriou / Piriou Naval Services, Socarenam, Naval Group (sites Brest / Lorient), CMN (Constructions Mécaniques de Normandie), Ocea, Les Ateliers et Chantiers de Bretagne, Chantiers de l’Odet, Chantiers du Guilvinec, Brest Naval Services, CNN‑MCO, Sud Moteurs Atlantique, Pirio u Naval Services (P.N.S Brest), Fourelagadec (chaudronnerie & refit), Keroman (Lorient / Keroman yards), Chantier Bretagne Sud (Belz), Chantier du Guip, Chantier Grand Largue, Ateliers Mécaniques Lorientais (AML), Sogestran (services et maintenance embarquée), chantiers nautiques locaux (Crouesty, Concarneau, Roscoff), entreprises d’accastillage et sellerie navale locales"},{"id":"M093","nom":"Opérateur linguiste d'interception","secteur":"Recherche","formation":"Officier marinier","entreprises":"Armées"},{"id":"M094","nom":"Opérateur Pont-Navire / Aide-manoeuvrier","secteur":"\"Service public, défense et sécurité\"","formation":"CAP matelot","entreprises":"Armées, Naval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Sogestran, Keroman (Lorient), Ports de Brest, Ports de Lorient, Port de Concarneau, Port du Guilvinec, Port de Roscoff, Port de Saint‑Malo, Port du Crouesty, armements locaux (ex. armement Bigouden, armement Porcher), sociétés de remorquage et lamanage locales, compagnies de navettes et vedettes côtières, gestionnaires de marinas et chantiers nautiques, opérateurs offshore/EMR et prestataires de maintenance embarquée"},{"id":"M095","nom":"Opérateur systèmes d'information, réseaux et télécommunications","secteur":"Informatique et télécommunication","formation":"Ingénieur Systèmes embarqués, Master Systèmes embarqués / systèmes intégrés, Master Cyber-Sécurité des Systèmes Embarqués","entreprises":"Armées"},{"id":"M096","nom":"Ouvrier aquacole","secteur":"Agriculture et élevage, Environnement, Commerce et distribution","formation":"BTS AQUACOLE, Master Biologie Parcours Sciences halieutiques et aquacoles (SHA)","entreprises":"Les Viviers Quiberonnais, Pêcheries Celtiques, Les Pêcheries de l’Odet, Viviers Quiberon, Brest Marée, Top Atlantique, Moulin Lorient Marée, Thaeron Frères, Bretagne Spiruline, Pisciculture des Étangs de Simon, Pisciculture du Leff, Pisciculture de Kerauter, GAEC Du Rivage, Établissements Thaeron, diverses piscicultures et fermes aquacoles référencées sur EPRO et Kompass (≈500+ exploitations en Bretagne)"},{"id":"M097","nom":"Pêcheur","secteur":"Agriculture et élevage, Commerce et distribution","formation":"\"Formations pêche, cultures marines, modules sûreté (STCW)\", BTS Pêche et gestion de l'environnement marin (PGEM), POEC - PIC - compétences clés métier Matelot à la pêche","entreprises":"Arcobreizh, APAK (Keroman), Armement Bigouden, Armement Porcher, Armement L’Océmery, Armement Maya, Armement VAG, Scapêche, Pêcheries Celtiques, Les Viviers Quiberonnais, Top Atlantique, Brest Marée, Moulin Lorient Marée, SAS Pêcheries Celtiques, Les Pêcheries de l’Odet, Viviers Quiberon, Pêcheries du Guilvinec, Armement Océane, Acarmor, Arcoma, La Criée du Guilvinec, Criée de Concarneau, Criée de Lorient Keroman, Criée de Saint‑Guénolé (Penmarc’h), Criée de Douarnenez, Criée de Loctudy, Criée de Roscoff, Criée de Brest, La Criée Rennaise, Armements et mareyeurs du Guilvinec, Concarneau, Loctudy, Le Guilvinec, Saint‑Guénolé, Douarnenez, Roscoff, Saint‑Quay‑Portrieux, Erquy, ports artisanaux et coopératives locales (nombreuses TPE/armements artisanaux non listés individuellement)"},{"id":"M098","nom":"Peintre en construction navale","secteur":"Industries","formation":"CAP Peintre applicateur de revêtements","entreprises":"Pabouk Compagnie, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt"},{"id":"M099","nom":"Personnel navigant tactique","secteur":"\"Service public, défense et sécurité\"","formation":"Concours Elève Officier Pilote de l'Aéronautique Navale","entreprises":"Armées"},{"id":"M100","nom":"Personnel navigant technique","secteur":"\"Service public, défense et sécurité\"","formation":"Concours Elève Officier Pilote de l'Aéronautique Navale","entreprises":"Armées"},{"id":"M101","nom":"Pilote","secteur":"\"Sport, animation et loisir\"","formation":"Capitaine 500, Capitaine 200","entreprises":"Syndicat des Pilotes Station de Brest, Station de pilotage Brest–Concarneau–Odet, Syndicat Pilotes Station de Saint‑Malo, SYN PRO PILOTES STATION COTES D'ARMOR (Saint‑Brieuc), Station de pilotage / pilotine du Port de Concarneau, Syndicat des pilotes (stations locales liées aux ports de Roscoff, Lorient/Keroman, Douarnenez)"},{"id":"M102","nom":"Pilote de l'aéronautique navale","secteur":"\"Service public, défense et sécurité\"","formation":"Concours Elève Officier Pilote de l'Aéronautique Navale","entreprises":"Armées"},{"id":"M103","nom":"Pisciculteur","secteur":"Agriculture et élevage, Commerce et distribution","formation":"BTS AQUACOLE, Master Biologie Parcours Sciences halieutiques et aquacoles (SHA)","entreprises":"Aquaculture Naturellement, Piscicultures de la Douffine, SARL Milin Nevez, Pisciculture de Kerauter, Le Bourdoux, Pisciculture du Leff, Pisciculture des Étangs de Simon, La Cancalaise, Les Viviers Quiberonnais, Pêcheries Celtiques, Les Pêcheries de l’Odet, Viviers Quiberon, Pisciculture de Brasparts, Pisciculture de Plouvorn, Pisciculture de Plouigneau, Pisciculture de Melrand, Pisciculture de Sainte‑Trephine, Pisciculture du Guilvinec (viviers locaux), coopératives et ateliers de transformation locaux"},{"id":"M104","nom":"Plongeur-démineur","secteur":"\"Service public, défense et sécurité\", \"Sport, animation et loisir\"","formation":"Officier marinier, CAP matelot","entreprises":"Armées"},{"id":"M105","nom":"Poissonnier","secteur":"Agriculture et élevage, Commerce et distribution","formation":"CAP Poissonnier écailler","entreprises":"Criée du Guilvinec, Criée de Concarneau, Criée de Lorient Keroman, Criée de Saint‑Guénolé (Penmarc’h), Criée de Douarnenez, Criée de Loctudy, Criée de Roscoff, Criée de Brest, La Criée Rennaise, Les Viviers Quiberonnais, Top Atlantique, Moulin Lorient Marée, Pêcheries Celtiques, Les Pêcheries de l’Odet, Les Viviers de Penfoulic, Marée Bretagne, Brest Marée, Les Viviers Quiberonnais, SAS Pêcheries Celtiques, Armement Bigouden, Armement Porcher, Armement Scapêche, APAK (Keroman), Armement L’Océmery, Armement La Capricieuse, Armement Maya, Pêcheries Celtiques, Les Viviers Quiberonnais Marée, Poissonnerie La Roche Concarneau, Poissonnerie Le Meur (Concarneau), Aux Viviers de Penfoulic, Les Viviers Quiberonnais, Les Pêcheries de l’Odet, Viviers Quiberon, Pêcheries du Guilvinec, Mareyage Brest Marée, Top Atlantique (mareyage/logistique)"},{"id":"M106","nom":"Psychologue","secteur":"Santé","formation":"Master mention Psychologie","entreprises":"Armées, Naval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Keroman, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Sogestran, Ifremer (Plouzané/Brest), CLS, Compuships, Ports de Brest, Ports de Lorient, Port de Saint‑Malo, Port de Roscoff, Port de Concarneau, Port du Crouesty, Chantiers du Guilvinec, Chantiers de Concarneau, Chantier Bretagne Sud (Belz), armements locaux (Guilvinec, Concarneau, Loctudy), SNSM (bases locales), criées et mareyeurs majeurs (Guilvinec, Concarneau, Keroman, Roscoff), gestionnaires de marinas (La Trinité‑sur‑Mer, Le Crouesty), prestataires O&M éolien/EMR opérant depuis ports bretons"},{"id":"M107","nom":"Remorqueur","secteur":"Commerce et distribution","formation":"BTS Pêche et gestion de l'environnement marin (PGEM), Bac Pro CGEM","entreprises":"Pabouk Compagnie, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt"},{"id":"M108","nom":"Reporter d'Images Marines (REPIM)","secteur":"Communication et marketing","formation":"Diplôme d'Université - Mer et Médias","entreprises":"Armées, Ewan Lebourdais, Cécile Hoynant, Azra Photographie, Encre Marine, Photographe Nautique Bretagne (agences locales), Studio Mer (prestataires photo/vidéo nautique), Photographie Nautique Lorient (indépendants), Photographe Mer & Voile (prestataires événementiels régates), agences de communication maritime locales (Brest, Lorient, Concarneau), vidéastes freelance spécialisés mer et plongée, collectifs photo‑marins exposant en Bretagne"},{"id":"M109","nom":"Responsable énergie propulsion nucléaire à bord des sous-marin","secteur":"Énergie, \"Service public, défense et sécurité\"","formation":"Officier marinier, Officiers sous contrat long, Officier de carrière","entreprises":"Armées"},{"id":"M110","nom":"Responsable tactique d'aeronef","secteur":"\"Service public, défense et sécurité\"","formation":"Officier de carrière, Officiers sous contrat long, Officier marinier","entreprises":"Armées"},{"id":"M111","nom":"Scaphandrier","secteur":"Recherche, \"Service public, défense et sécurité\"","formation":"Certificat d'Aptitude à l'Hyperbarie","entreprises":"Armées, Travaux Sous‑Marins Bretagne (TSMB), Plongée Pro Services, Océan Travaux Services, Travaux Sous‑Marins Bretagne (Saint‑Malo / TSMB), Plongée Pro Services (Bretagne), Entreprise de Travaux Sous‑Marins (divers prestataires locaux), Travaux Sous Marins & Services (prestataires régionaux), sociétés de travaux maritimes et dragage proposant équipes hyperbares, entreprises de renflouage et découpage sous‑marin locales, chantiers portuaires disposant d’équipes scaphandriers (bases à Brest, Lorient, Saint‑Malo, Concarneau), sociétés de maintenance portuaire offrant plongée industrielle (prestataires de nettoyage d’hélice, anodes, mouillages)"},{"id":"M112","nom":"Skipper","secteur":"\"Sport, animation et loisir\", Tourisme","formation":"Capitaine 200, Capitaine 500","entreprises":""},{"id":"M113","nom":"Soudeur","secteur":"Industrie - Métallurgie","formation":"CAP RICS Chaudronnerie - Réalisations Industrielles en Chaudronnerie ou Soudage, Certificat de Spécialisation - Tehnicien en soudage, \"LPRO MIMMS - Métiers de l'Industrie - Métallurgie, mise en forme des matériaux et soudage\"","entreprises":"Pabouk Compagnie, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt"},{"id":"M114","nom":"Soudeur naval","secteur":"Industries, Industrie - Métallurgie","formation":"Certificat de Spécialisation - Tehnicien en soudage, CAP RICS Chaudronnerie - Réalisations Industrielles en Chaudronnerie ou Soudage, \"LPRO MIMMS - Métiers de l'Industrie - Métallurgie, mise en forme des matériaux et soudage\"","entreprises":"Pabouk Compagnie, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt"},{"id":"M115","nom":"Stratifieur","secteur":"Industrie - Bois, Industrie - Métallurgie, Industries","formation":"Master Eco-Conception des Polymères et Composites","entreprises":"Pabouk Compagnie, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt"},{"id":"M116","nom":"Technicien aéronautique","secteur":"Recherche, \"Maintenance, entretien et nettoyage\"","formation":"Licence Professionnelle Métiers de l'industrie : industrie aéronautique Parcours Industrie aéronautique, BTS Aéronautique, Licence Professionnelle Aéronautique, BUT Génie Mécanique et Productique, BUT Génie Électrique et Informatique Industrielle","entreprises":"Armées"},{"id":"M117","nom":"Technicien aéronautique - avionique","secteur":"\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Recherche","formation":"BTS Aéronautique, Licence Professionnelle Aéronautique","entreprises":"Armées"},{"id":"M118","nom":"Technicien armes et munition","secteur":"\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\"","formation":"Officier marinier","entreprises":"Armées"},{"id":"M119","nom":"Technicien comptabilité et logistique","secteur":"Activités juridiques et comptables, Logistique et transport","formation":"BTS Comptabilité & Gestion","entreprises":"Armées, Naval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Keroman, Chantier Bretagne Sud (Belz), Chantiers du Guilvinec, Chantiers de Concarneau, Sabena Technics (sites régionaux), Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Sogestran, Compuships (S.F.E.C.), CLS (Collecte Localisation Satellites), Ifremer (Plouzané/Brest), Mercator Ocean (collaborations), KENTA Technologies, SIECMI, Boralex (opérations portuaires/maintenance), Elicio, Valorem, ENGIE Green (prestataires régionaux), BPN adhérents chaudronnerie/atelier (FOURE LAGADEC, BST), ports et directions portuaires (Ports de Brest, Ports de Lorient, Port de Saint‑Malo, Port de Roscoff, Port de Concarneau, Port du Crouesty), gestionnaires de marinas et chantiers nautiques (La Trinité‑sur‑Mer, Le Crouesty, Concarneau), sociétés de remorquage et lamanage locales, transitaires et commissionnaires de transport portuaire (ex. manutentionnaires référencés BrestPort), opérateurs EMR et prestataires O&M locaux, nombreuses PME artisanales de réparation navale et sous‑traitants logistiques"},{"id":"M120","nom":"Technicien de conduite et de maintenace nucléaire","secteur":"\"Maintenance, entretien et nettoyage\", Recherche, \"Service public, défense et sécurité\", Énergie","formation":"BTS Électrotechnique, BTS électrotechnique, Formation officier électrotechnicien, BTS MS SP - Maintenance des Systèmes, Licence pro mention maintenance et technologie : systèmes pluritechniques","entreprises":"Armées"},{"id":"M121","nom":"Technicien de maintenance éolien","secteur":"Industries, Énergie, \"Maintenance, entretien et nettoyage\"","formation":"Bac Pro Electronique marine","entreprises":"Armées, Boralex (centre de maintenance Plerneuf), PLASTEOL, Eno Energy / Energie Eolienne France, Elicio, Valorem, Astenn Avel (consortium), ENGIE Green (interventions régionales), EDF Renewables (prestataires locaux), NetWind (prestations), ENERCON prestataires locaux, sociétés d’exploitation et maintenance locales et régionales référencées dans l’annuaire Bretagne Ocean Power, prestataires de réparation de pales et plateformes (entreprises de travaux en hauteur et cordistes), entreprises de logistique portuaire et bases opérationnelles sur Brest, Saint‑Brieuc, Lorient, Le Crouesty, ports et bases d’appui pour O&M"},{"id":"M122","nom":"Technicien de maintenance navale","secteur":"\"Maintenance, entretien et nettoyage\"","formation":"Mastère spécialisé Management de projets maritimes – maintenance des navires, Bac Pro Maintenance Nautique","entreprises":"Armées, Pabouk Compagnie, Brest Ocean Boat, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt, Naval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Keroman, Chantier Bretagne Sud (Belz), Chantiers du Guilvinec, Chantiers de Concarneau, Chantier du Guip, Chantier Grand Largue, Sabena Technics (sites régionaux), FOURE LAGADEC, BST, Sogestran, Scapêche, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Apak, Eouzan, Armement Bigouden, Armement Porcher, Ateliers et sous‑traitants de chaudronnerie/tuyauterie locaux, nombreux chantiers nautiques artisanaux (Concarneau, Douarnenez, Audierne, Roscoff, Le Crouesty)"},{"id":"M123","nom":"Technicien en \"opérations aéromaritimes\"","secteur":"\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\"","formation":"Officier marinier","entreprises":"Armées"},{"id":"M124","nom":"Technicien en maîtrise des risques nucléaires","secteur":"\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Énergie","formation":"BTS Électrotechnique","entreprises":"Armées"},{"id":"M125","nom":"Technicien exploitation système","secteur":"\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Informatique et télécommunication","formation":"Ingénieur Systèmes embarqués, Master Systèmes embarqués / systèmes intégrés, Master Cyber-Sécurité des Systèmes Embarqués","entreprises":"Armées"},{"id":"M126","nom":"Technicien opérations sur sous-marin","secteur":"\"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\"","formation":"Capitaine 200, Officier marinier","entreprises":"Armées"},{"id":"M127","nom":"Technicien pont navire","secteur":"\"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\"","formation":"BTS Pêche et gestion de l'environnement marin (PGEM), Officier marinier, CAP matelot","entreprises":"Armées, Naval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Keroman, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Sogestran, Armement Bigouden, Armement Porcher, Apak, Eouzan, Chantiers du Guilvinec, Chantiers de Concarneau, Chantier Bretagne Sud (Belz), Chantiers de l’Odet, Damen, FOURE LAGADEC, BST, Socarenam Concarneau, Piriou Naval Services"},{"id":"M128","nom":"Technicien systèmes d'armes","secteur":"Industrie - Électronique, \"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\"","formation":"Ingénieur des Etudes et Techniques de l'Armement (IETA)","entreprises":"Armées"},{"id":"M129","nom":"Technicien systèmes d'information, réseaux et télécommunications","secteur":"Informatique et télécommunication","formation":"Ingénieur Systèmes embarqués, Master Systèmes embarqués / systèmes intégrés, Master Cyber-Sécurité des Systèmes Embarqués","entreprises":"Armées, Naval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Keroman (Lorient), Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Sogestran, CLS Collecte Localisation Satellites, Mercator Ocean (collaborations), Ifremer (Plouzané/Brest), Compuships (S.F.E.C.), KENTA Technologies, SIECMI, Francbord / ex‑Ecomer, Exail (Brest), fournisseurs SATCOM et intégrateurs VHF locaux, opérateurs EMR et intégrateurs IoT adhérents Pôle Mer Bretagne Atlantique, ports et directions portuaires (Ports de Brest, Ports de Lorient, Port de Saint‑Malo, Port de Roscoff, Port de Concarneau, Port du Crouesty)"},{"id":"M130","nom":"Technicien systèmes numériques","secteur":"Informatique et télécommunication","formation":"BTS Services Informatiques aux Organisations - Option SISR, BTS Services Informatiques aux Organisations, BTS CIEL","entreprises":"Armées, Naval Group, Piriou, Socarenam, CMN, Ocea, Damen Shiprepair Brest, Brest Naval Services, Ateliers Mécaniques Lorientais (AML), Les Ateliers et Chantiers de Bretagne, Keroman (Lorient), Chantier Bretagne Sud (Belz), Chantiers du Guilvinec, Chantiers de l’Odet, Brittany Ferries, Ponant, Compagnie Maritime Nantaise, Scapêche, Sogestran, Genavir, CLS (Collecte Localisation Satellites), Mercator Ocean (collaborateurs régionaux), Ifremer (sites Plouzané/Brest), KENTA Technologies, SIECMI, Compuships (S.F.E.C.), Francbord / ex‑Ecomer (groupe industriel maritime), Enag, Sabena Technics (sites régionaux / prestataires), Safran Landing Systems (implantations régionales), Exail (Brest), ATR Bretagne, Finist’Air, Brest Bretagne Handling, Kerlink (solutions IoT maritimes), OceanDataLab, OceanWise France (prestataires de données marines), sociétés d’intégration SATCOM et VHF locales, fournisseurs de connectivité et cybersécurité maritime, opérateurs offshore/EMR et intégrateurs IoT adhérents au Pôle Mer Bretagne Atlantique, ports et directions portuaires (Ports de Brest, Ports de Lorient, Port de Saint‑Malo, Port de Roscoff, Port de Concarneau, Port du Crouesty), gestionnaires de marinas et chantiers nautiques (La Trinité‑sur‑Mer, Le Crouesty, Concarneau)"},{"id":"M131","nom":"Tuyauteur","secteur":"Industrie - Métallurgie","formation":"CAP RICS Chaudronnerie - Réalisations Industrielles en Chaudronnerie ou Soudage, Certificat de Spécialisation - Tehnicien en soudage, \"LPRO MIMMS - Métiers de l'Industrie - Métallurgie, mise en forme des matériaux et soudage\"","entreprises":"FOURE LAGADEC, BST, AML (Ateliers Mécaniques Lorientais), SNIG"},{"id":"M132","nom":"Voilier sellier","secteur":"Industrie - Textile et mode, \"Artisanat d'art, audiovisuel et spectacle\"","formation":"CAP Sellerie Générale","entreprises":"Pabouk Compagnie, Multi-Nautique, Philnautic, Comptoir Nautique, Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty, Naviwatt"},{"id":"M133","nom":"","secteur":"","formation":"","entreprises":""},{"id":"M134","nom":"","secteur":"","formation":"","entreprises":""},{"id":"M135","nom":"","secteur":"","formation":"","entreprises":""},{"id":"M136","nom":"","secteur":"","formation":"","entreprises":""},{"id":"M137","nom":"","secteur":"","formation":"","entreprises":""},{"id":"M138","nom":"","secteur":"","formation":"","entreprises":""},{"id":"M139","nom":"","secteur":"","formation":"","entreprises":""},{"id":"M140","nom":"","secteur":"","formation":"","entreprises":""},{"id":"M141","nom":"","secteur":"","formation":"Snip Yachting, Arzal Nautique, Chantier Naval du Lindin, Chantier Maritime du Crouesty","entreprises":""}]
+[
+  {
+    "id": "M001",
+    "nom": "Accastilleur",
+    "secteur": "Industries"
+  },
+  {
+    "id": "M002",
+    "nom": "Acheteur-fileteur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M003",
+    "nom": "Affréteur",
+    "secteur": "Commerce et distribution, Gestion administrative et ressources humaines"
+  },
+  {
+    "id": "M004",
+    "nom": "Agent de maintenance en marine de plaisance",
+    "secteur": "\"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M005",
+    "nom": "Agent de protection des navires",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M006",
+    "nom": "Agent maritime / consignataire de navire",
+    "secteur": "Commerce et distribution, Gestion administrative et ressources humaines"
+  },
+  {
+    "id": "M007",
+    "nom": "Agent polyvalent de restauration",
+    "secteur": "Hôtellerie et restauration"
+  },
+  {
+    "id": "M008",
+    "nom": "Algoculteur",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M009",
+    "nom": "Analyste du renseignement d'origine électromagnétique",
+    "secteur": "\"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M010",
+    "nom": "Analyste en renseignement d'origine image",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M011",
+    "nom": "Analyste renseignement",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M012",
+    "nom": "Analyste technique de systèmes d'information",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M013",
+    "nom": "Analyste technique sur les identités et les accès aux systèmes d'information",
+    "secteur": "Recherche, Informatique et télécommunication"
+  },
+  {
+    "id": "M014",
+    "nom": "Analyste traitant du renseignement",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M015",
+    "nom": "Architecte ingénieur naval",
+    "secteur": "\"Architecture, études et normes\", Industries, Recherche"
+  },
+  {
+    "id": "M016",
+    "nom": "Architecte naval",
+    "secteur": "Recherche"
+  },
+  {
+    "id": "M017",
+    "nom": "Armateur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M018",
+    "nom": "Atomicien de propulsion navale",
+    "secteur": "Énergie, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M019",
+    "nom": "Avitailleur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M020",
+    "nom": "Biologiste marin",
+    "secteur": "Recherche, Environnement"
+  },
+  {
+    "id": "M021",
+    "nom": "Capitaine de pêche",
+    "secteur": "Commerce et distribution, Logistique et transport, Agriculture et élevage"
+  },
+  {
+    "id": "M022",
+    "nom": "Chaudronnier",
+    "secteur": "Industrie - Métallurgie"
+  },
+  {
+    "id": "M023",
+    "nom": "Conchyliculteur",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M024",
+    "nom": "Contrôleur aérien",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M025",
+    "nom": "Contrôleur des opérations aériennes",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M026",
+    "nom": "Courtier maritime",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M027",
+    "nom": "Data analyst",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M028",
+    "nom": "Déctecteur anti sous-marins",
+    "secteur": "\"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M029",
+    "nom": "Détecteur",
+    "secteur": "Recherche, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M030",
+    "nom": "Détecteur analyste des signaux électromagnétiques",
+    "secteur": "\"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M031",
+    "nom": "Electromécanicien naval",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industrie - Électronique"
+  },
+  {
+    "id": "M032",
+    "nom": "Electromécanicien sur sous-marin",
+    "secteur": "Industrie - Électronique, \"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M033",
+    "nom": "Equipier mécanique et électricité",
+    "secteur": "Industrie - Électronique, \"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M034",
+    "nom": "Equipier naval",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M035",
+    "nom": "Expert cybersécurité",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M036",
+    "nom": "Exploitant d'aérodrome et coordonnateur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M037",
+    "nom": "Fileteur",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M038",
+    "nom": "Géologue",
+    "secteur": "Environnement, Recherche"
+  },
+  {
+    "id": "M039",
+    "nom": "Gérant d'établissement de restauration collective",
+    "secteur": "Hôtellerie et restauration"
+  },
+  {
+    "id": "M040",
+    "nom": "Gestionnaire de ressources humaines",
+    "secteur": "Gestion administrative et ressources humaines"
+  },
+  {
+    "id": "M041",
+    "nom": "Guetteur de flotte",
+    "secteur": "Recherche, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M042",
+    "nom": "Hydrographe",
+    "secteur": "Environnement, Recherche"
+  },
+  {
+    "id": "M043",
+    "nom": "Infirmier",
+    "secteur": "Santé, Service à la personne"
+  },
+  {
+    "id": "M044",
+    "nom": "Informaticien",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M045",
+    "nom": "Ingénieur en génie maritime",
+    "secteur": "Industries, \"Architecture, études et normes\""
+  },
+  {
+    "id": "M046",
+    "nom": "Instructeur de plongée",
+    "secteur": "\"Sport, animation et loisir\""
+  },
+  {
+    "id": "M047",
+    "nom": "Lamaneur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M048",
+    "nom": "Maintenance aéronautique ",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industries, Recherche"
+  },
+  {
+    "id": "M049",
+    "nom": "Maître d'hotel - majordome",
+    "secteur": "Hôtellerie et restauration"
+  },
+  {
+    "id": "M050",
+    "nom": "Mareyeur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M051",
+    "nom": "Marin de plaisance",
+    "secteur": "\"Sport, animation et loisir\", Tourisme"
+  },
+  {
+    "id": "M052",
+    "nom": "Marin-pêcheur",
+    "secteur": "Agriculture et élevage, \"Sport, animation et loisir\", Commerce et distribution"
+  },
+  {
+    "id": "M053",
+    "nom": "Matelot",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M054",
+    "nom": "Matelot fusilier marin",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M055",
+    "nom": "Matelot Marin-pompier",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M056",
+    "nom": "Matelot opérations et navigation",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M057",
+    "nom": "Matelot Opérations Navales",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M058",
+    "nom": "Mécanicien",
+    "secteur": "\"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M059",
+    "nom": "Mécanicien industriel en atelier naval",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industries"
+  },
+  {
+    "id": "M060",
+    "nom": "Mécanicien marine",
+    "secteur": "\"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M061",
+    "nom": "Mécanicien naval",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industries"
+  },
+  {
+    "id": "M062",
+    "nom": "Mécatronicien naval",
+    "secteur": "Industries"
+  },
+  {
+    "id": "M063",
+    "nom": "Menuisier naval",
+    "secteur": "Industries, Industrie - Bois"
+  },
+  {
+    "id": "M064",
+    "nom": "Météorologiste - océanographe",
+    "secteur": "Environnement, Recherche"
+  },
+  {
+    "id": "M065",
+    "nom": "Moniteur d'activités nautiques",
+    "secteur": "Tourisme, \"Sport, animation et loisir\""
+  },
+  {
+    "id": "M066",
+    "nom": "Moniteur d'entraînement physique militaire et sportif",
+    "secteur": "\"Service public, défense et sécurité\", \"Sport, animation et loisir\""
+  },
+  {
+    "id": "M067",
+    "nom": "Muyticulteur",
+    "secteur": "Agriculture et élevage, Environnement, Commerce et distribution"
+  },
+  {
+    "id": "M068",
+    "nom": "Navigateur timonier",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M069",
+    "nom": "Océanographe",
+    "secteur": "Recherche, Environnement"
+  },
+  {
+    "id": "M070",
+    "nom": "Officier adjoint moyens et exploitations portuaires",
+    "secteur": "Logistique et transport, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M071",
+    "nom": "Officier analyste en communication et environnement informationnel",
+    "secteur": "\"Service public, défense et sécurité\", Informatique et télécommunication"
+  },
+  {
+    "id": "M072",
+    "nom": "Officier biodiversité",
+    "secteur": "Environnement, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M073",
+    "nom": "Officier chargé de communication",
+    "secteur": "Communication et marketing, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M074",
+    "nom": "Officier Data",
+    "secteur": "Informatique et télécommunication, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M075",
+    "nom": "Officier de marine (informatique et telecom)",
+    "secteur": "Informatique et télécommunication, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M076",
+    "nom": "Officier de marine (nucléaire)",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M077",
+    "nom": "Officier de marine (opérations maritimes et aéronautiques)",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M078",
+    "nom": "Officier de marine marchande - machine",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M079",
+    "nom": "Officier de marine marchande - pont",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M080",
+    "nom": "Officier de port",
+    "secteur": "Gestion administrative et ressources humaines"
+  },
+  {
+    "id": "M081",
+    "nom": "Officier de renseignement",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M082",
+    "nom": "Officier management de l'information opérationnelle",
+    "secteur": "Gestion administrative et ressources humaines, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M083",
+    "nom": "Officier opérations guerre des mines",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M084",
+    "nom": "Officier sous contrat Branche Etat-Major",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M085",
+    "nom": "Officier sous contrat Opérations",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M086",
+    "nom": "Officier spécialiste en analyse géo-spatiale",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M087",
+    "nom": "Officier traitant en lutte informatique d'influence",
+    "secteur": "\"Service public, défense et sécurité\", Informatique et télécommunication"
+  },
+  {
+    "id": "M088",
+    "nom": "Officier traitant SSI",
+    "secteur": "\"Service public, défense et sécurité\", Informatique et télécommunication"
+  },
+  {
+    "id": "M089",
+    "nom": "Opérateur d'écoute",
+    "secteur": "\"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M090",
+    "nom": "Opérateur de maintenance aéronautique",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M091",
+    "nom": "Opérateur de manutention des aéronefs",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industries, Recherche, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M092",
+    "nom": "Opérateur en bureau de piste",
+    "secteur": "\"Service public, défense et sécurité\", Gestion administrative et ressources humaines"
+  },
+  {
+    "id": "M093",
+    "nom": "Opérateur industriel en atelier naval",
+    "secteur": "Industries, \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M094",
+    "nom": "Opérateur linguiste d'interception",
+    "secteur": "Recherche"
+  },
+  {
+    "id": "M095",
+    "nom": "Opérateur maintenance aéronautique",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industries, Recherche"
+  },
+  {
+    "id": "M096",
+    "nom": "Opérateur Pont-Navire / Aide-manoeuvrier",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M097",
+    "nom": "Opérateur systèmes d'information, réseaux et télécommunications",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M098",
+    "nom": "Ouvrier aquacole",
+    "secteur": "Agriculture et élevage, Environnement, Commerce et distribution"
+  },
+  {
+    "id": "M099",
+    "nom": "Pêcheur",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M100",
+    "nom": "Peintre en construction navale",
+    "secteur": "Industries"
+  },
+  {
+    "id": "M101",
+    "nom": "Personnel navigant tactique",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M102",
+    "nom": "Personnel navigant technique",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M103",
+    "nom": "Pilote",
+    "secteur": "\"Sport, animation et loisir\""
+  },
+  {
+    "id": "M104",
+    "nom": "Pilote de l'aéronautique navale",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M105",
+    "nom": "Pisciculteur",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M106",
+    "nom": "Plongeur-démineur",
+    "secteur": "\"Service public, défense et sécurité\", \"Sport, animation et loisir\""
+  },
+  {
+    "id": "M107",
+    "nom": "Poissonnier",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M108",
+    "nom": "Psychologue",
+    "secteur": "Santé"
+  },
+  {
+    "id": "M109",
+    "nom": "Remorqueur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M110",
+    "nom": "Reporter d'Images Marines (REPIM)",
+    "secteur": "Communication et marketing"
+  },
+  {
+    "id": "M111",
+    "nom": "Responsable énergie propulsion nucléaire à bord des sous-marin",
+    "secteur": "Énergie, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M112",
+    "nom": "Responsable tactique d'aeronef",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M113",
+    "nom": "Restaurateur / Matelot restaurateur / Matelot cuisinier",
+    "secteur": "Hôtellerie et restauration"
+  },
+  {
+    "id": "M114",
+    "nom": "Scaphandrier",
+    "secteur": "Recherche, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M115",
+    "nom": "Skipper",
+    "secteur": "\"Sport, animation et loisir\", Tourisme"
+  },
+  {
+    "id": "M116",
+    "nom": "Soudeur",
+    "secteur": "Industrie - Métallurgie"
+  },
+  {
+    "id": "M117",
+    "nom": "Soudeur naval",
+    "secteur": "Industries, Industrie - Métallurgie"
+  },
+  {
+    "id": "M118",
+    "nom": "Stratifieur",
+    "secteur": "Industrie - Bois, Industrie - Métallurgie, Industries"
+  },
+  {
+    "id": "M119",
+    "nom": "Technicien aéronautique",
+    "secteur": "Recherche, \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M120",
+    "nom": "Technicien aéronautique - avionique",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M121",
+    "nom": "Technicien armes et munition",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M122",
+    "nom": "Technicien comptabilité et logistique",
+    "secteur": "Activités juridiques et comptables, Logistique et transport"
+  },
+  {
+    "id": "M123",
+    "nom": "Technicien de conduite et de maintenace nucléaire",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Recherche, \"Service public, défense et sécurité\", Énergie"
+  },
+  {
+    "id": "M124",
+    "nom": "Technicien de maintenance éolien",
+    "secteur": "Industries, Énergie, \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M125",
+    "nom": "Technicien de maintenance navale",
+    "secteur": "\"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M126",
+    "nom": "Technicien en \"opérations aéromaritimes\"",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M127",
+    "nom": "Technicien en maîtrise des risques nucléaires",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Énergie"
+  },
+  {
+    "id": "M128",
+    "nom": "Technicien exploitation système",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Informatique et télécommunication"
+  },
+  {
+    "id": "M129",
+    "nom": "Technicien opérations sur sous-marin",
+    "secteur": "\"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M130",
+    "nom": "Technicien pont navire",
+    "secteur": "\"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M131",
+    "nom": "Technicien réseaux et télécommunications",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M132",
+    "nom": "Technicien système numérique",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M133",
+    "nom": "Technicien systèmes d'armes",
+    "secteur": "Industrie - Électronique, \"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M134",
+    "nom": "Technicien systèmes d'information, réseaux et télécommunications",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M135",
+    "nom": "Technicien systèmes numériques",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M136",
+    "nom": "Tuyauteur",
+    "secteur": "Industrie - Métallurgie"
+  },
+  {
+    "id": "M137",
+    "nom": "Voilier sellier",
+    "secteur": "Industrie - Textile et mode, \"Artisanat d'art, audiovisuel et spectacle\""
+  }
+]
