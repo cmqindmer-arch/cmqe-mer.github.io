@@ -1,0 +1,687 @@
+[
+  {
+    "id": "M001",
+    "nom": "Accastilleur",
+    "secteur": "Industries"
+  },
+  {
+    "id": "M002",
+    "nom": "Acheteur-fileteur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M003",
+    "nom": "Affréteur",
+    "secteur": "Commerce et distribution, Gestion administrative et ressources humaines"
+  },
+  {
+    "id": "M004",
+    "nom": "Agent de maintenance en marine de plaisance",
+    "secteur": "\"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M005",
+    "nom": "Agent de protection des navires",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M006",
+    "nom": "Agent maritime / consignataire de navire",
+    "secteur": "Commerce et distribution, Gestion administrative et ressources humaines"
+  },
+  {
+    "id": "M007",
+    "nom": "Agent polyvalent de restauration",
+    "secteur": "Hôtellerie et restauration"
+  },
+  {
+    "id": "M008",
+    "nom": "Algoculteur",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M009",
+    "nom": "Analyste du renseignement d'origine électromagnétique",
+    "secteur": "\"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M010",
+    "nom": "Analyste en renseignement d'origine image",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M011",
+    "nom": "Analyste renseignement",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M012",
+    "nom": "Analyste technique de systèmes d'information",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M013",
+    "nom": "Analyste technique sur les identités et les accès aux systèmes d'information",
+    "secteur": "Recherche, Informatique et télécommunication"
+  },
+  {
+    "id": "M014",
+    "nom": "Analyste traitant du renseignement",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M015",
+    "nom": "Architecte ingénieur naval",
+    "secteur": "\"Architecture, études et normes\", Industries, Recherche"
+  },
+  {
+    "id": "M016",
+    "nom": "Architecte naval",
+    "secteur": "Recherche"
+  },
+  {
+    "id": "M017",
+    "nom": "Armateur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M018",
+    "nom": "Atomicien de propulsion navale",
+    "secteur": "Énergie, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M019",
+    "nom": "Avitailleur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M020",
+    "nom": "Biologiste marin",
+    "secteur": "Recherche, Environnement"
+  },
+  {
+    "id": "M021",
+    "nom": "Capitaine de pêche",
+    "secteur": "Commerce et distribution, Logistique et transport, Agriculture et élevage"
+  },
+  {
+    "id": "M022",
+    "nom": "Chaudronnier",
+    "secteur": "Industrie - Métallurgie"
+  },
+  {
+    "id": "M023",
+    "nom": "Conchyliculteur",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M024",
+    "nom": "Contrôleur aérien",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M025",
+    "nom": "Contrôleur des opérations aériennes",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M026",
+    "nom": "Courtier maritime",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M027",
+    "nom": "Data analyst",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M028",
+    "nom": "Déctecteur anti sous-marins",
+    "secteur": "\"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M029",
+    "nom": "Détecteur",
+    "secteur": "Recherche, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M030",
+    "nom": "Détecteur analyste des signaux électromagnétiques",
+    "secteur": "\"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M031",
+    "nom": "Electromécanicien naval",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industrie - Électronique"
+  },
+  {
+    "id": "M032",
+    "nom": "Electromécanicien sur sous-marin",
+    "secteur": "Industrie - Électronique, \"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M033",
+    "nom": "Equipier mécanique et électricité",
+    "secteur": "Industrie - Électronique, \"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M034",
+    "nom": "Equipier naval",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M035",
+    "nom": "Expert cybersécurité",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M036",
+    "nom": "Exploitant d'aérodrome et coordonnateur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M037",
+    "nom": "Fileteur",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M038",
+    "nom": "Géologue",
+    "secteur": "Environnement, Recherche"
+  },
+  {
+    "id": "M039",
+    "nom": "Gérant d'établissement de restauration collective",
+    "secteur": "Hôtellerie et restauration"
+  },
+  {
+    "id": "M040",
+    "nom": "Gestionnaire de ressources humaines",
+    "secteur": "Gestion administrative et ressources humaines"
+  },
+  {
+    "id": "M041",
+    "nom": "Guetteur de flotte",
+    "secteur": "Recherche, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M042",
+    "nom": "Hydrographe",
+    "secteur": "Environnement, Recherche"
+  },
+  {
+    "id": "M043",
+    "nom": "Infirmier",
+    "secteur": "Santé, Service à la personne"
+  },
+  {
+    "id": "M044",
+    "nom": "Informaticien",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M045",
+    "nom": "Ingénieur en génie maritime",
+    "secteur": "Industries, \"Architecture, études et normes\""
+  },
+  {
+    "id": "M046",
+    "nom": "Instructeur de plongée",
+    "secteur": "\"Sport, animation et loisir\""
+  },
+  {
+    "id": "M047",
+    "nom": "Lamaneur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M048",
+    "nom": "Maintenance aéronautique ",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industries, Recherche"
+  },
+  {
+    "id": "M049",
+    "nom": "Maître d'hotel - majordome",
+    "secteur": "Hôtellerie et restauration"
+  },
+  {
+    "id": "M050",
+    "nom": "Mareyeur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M051",
+    "nom": "Marin de plaisance",
+    "secteur": "\"Sport, animation et loisir\", Tourisme"
+  },
+  {
+    "id": "M052",
+    "nom": "Marin-pêcheur",
+    "secteur": "Agriculture et élevage, \"Sport, animation et loisir\", Commerce et distribution"
+  },
+  {
+    "id": "M053",
+    "nom": "Matelot",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M054",
+    "nom": "Matelot fusilier marin",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M055",
+    "nom": "Matelot Marin-pompier",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M056",
+    "nom": "Matelot opérations et navigation",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M057",
+    "nom": "Matelot Opérations Navales",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M058",
+    "nom": "Mécanicien",
+    "secteur": "\"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M059",
+    "nom": "Mécanicien industriel en atelier naval",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industries"
+  },
+  {
+    "id": "M060",
+    "nom": "Mécanicien marine",
+    "secteur": "\"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M061",
+    "nom": "Mécanicien naval",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industries"
+  },
+  {
+    "id": "M062",
+    "nom": "Mécatronicien naval",
+    "secteur": "Industries"
+  },
+  {
+    "id": "M063",
+    "nom": "Menuisier naval",
+    "secteur": "Industries, Industrie - Bois"
+  },
+  {
+    "id": "M064",
+    "nom": "Météorologiste - océanographe",
+    "secteur": "Environnement, Recherche"
+  },
+  {
+    "id": "M065",
+    "nom": "Moniteur d'activités nautiques",
+    "secteur": "Tourisme, \"Sport, animation et loisir\""
+  },
+  {
+    "id": "M066",
+    "nom": "Moniteur d'entraînement physique militaire et sportif",
+    "secteur": "\"Service public, défense et sécurité\", \"Sport, animation et loisir\""
+  },
+  {
+    "id": "M067",
+    "nom": "Muyticulteur",
+    "secteur": "Agriculture et élevage, Environnement, Commerce et distribution"
+  },
+  {
+    "id": "M068",
+    "nom": "Navigateur timonier",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M069",
+    "nom": "Océanographe",
+    "secteur": "Recherche, Environnement"
+  },
+  {
+    "id": "M070",
+    "nom": "Officier adjoint moyens et exploitations portuaires",
+    "secteur": "Logistique et transport, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M071",
+    "nom": "Officier analyste en communication et environnement informationnel",
+    "secteur": "\"Service public, défense et sécurité\", Informatique et télécommunication"
+  },
+  {
+    "id": "M072",
+    "nom": "Officier biodiversité",
+    "secteur": "Environnement, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M073",
+    "nom": "Officier chargé de communication",
+    "secteur": "Communication et marketing, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M074",
+    "nom": "Officier Data",
+    "secteur": "Informatique et télécommunication, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M075",
+    "nom": "Officier de marine (informatique et telecom)",
+    "secteur": "Informatique et télécommunication, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M076",
+    "nom": "Officier de marine (nucléaire)",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M077",
+    "nom": "Officier de marine (opérations maritimes et aéronautiques)",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M078",
+    "nom": "Officier de marine marchande - machine",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M079",
+    "nom": "Officier de marine marchande - pont",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M080",
+    "nom": "Officier de port",
+    "secteur": "Gestion administrative et ressources humaines"
+  },
+  {
+    "id": "M081",
+    "nom": "Officier de renseignement",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M082",
+    "nom": "Officier management de l'information opérationnelle",
+    "secteur": "Gestion administrative et ressources humaines, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M083",
+    "nom": "Officier opérations guerre des mines",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M084",
+    "nom": "Officier sous contrat Branche Etat-Major",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M085",
+    "nom": "Officier sous contrat Opérations",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M086",
+    "nom": "Officier spécialiste en analyse géo-spatiale",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M087",
+    "nom": "Officier traitant en lutte informatique d'influence",
+    "secteur": "\"Service public, défense et sécurité\", Informatique et télécommunication"
+  },
+  {
+    "id": "M088",
+    "nom": "Officier traitant SSI",
+    "secteur": "\"Service public, défense et sécurité\", Informatique et télécommunication"
+  },
+  {
+    "id": "M089",
+    "nom": "Opérateur d'écoute",
+    "secteur": "\"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M090",
+    "nom": "Opérateur de maintenance aéronautique",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M091",
+    "nom": "Opérateur de manutention des aéronefs",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industries, Recherche, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M092",
+    "nom": "Opérateur en bureau de piste",
+    "secteur": "\"Service public, défense et sécurité\", Gestion administrative et ressources humaines"
+  },
+  {
+    "id": "M093",
+    "nom": "Opérateur industriel en atelier naval",
+    "secteur": "Industries, \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M094",
+    "nom": "Opérateur linguiste d'interception",
+    "secteur": "Recherche"
+  },
+  {
+    "id": "M095",
+    "nom": "Opérateur maintenance aéronautique",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Industries, Recherche"
+  },
+  {
+    "id": "M096",
+    "nom": "Opérateur Pont-Navire / Aide-manoeuvrier",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M097",
+    "nom": "Opérateur systèmes d'information, réseaux et télécommunications",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M098",
+    "nom": "Ouvrier aquacole",
+    "secteur": "Agriculture et élevage, Environnement, Commerce et distribution"
+  },
+  {
+    "id": "M099",
+    "nom": "Pêcheur",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M100",
+    "nom": "Peintre en construction navale",
+    "secteur": "Industries"
+  },
+  {
+    "id": "M101",
+    "nom": "Personnel navigant tactique",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M102",
+    "nom": "Personnel navigant technique",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M103",
+    "nom": "Pilote",
+    "secteur": "\"Sport, animation et loisir\""
+  },
+  {
+    "id": "M104",
+    "nom": "Pilote de l'aéronautique navale",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M105",
+    "nom": "Pisciculteur",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M106",
+    "nom": "Plongeur-démineur",
+    "secteur": "\"Service public, défense et sécurité\", \"Sport, animation et loisir\""
+  },
+  {
+    "id": "M107",
+    "nom": "Poissonnier",
+    "secteur": "Agriculture et élevage, Commerce et distribution"
+  },
+  {
+    "id": "M108",
+    "nom": "Psychologue",
+    "secteur": "Santé"
+  },
+  {
+    "id": "M109",
+    "nom": "Remorqueur",
+    "secteur": "Commerce et distribution"
+  },
+  {
+    "id": "M110",
+    "nom": "Reporter d'Images Marines (REPIM)",
+    "secteur": "Communication et marketing"
+  },
+  {
+    "id": "M111",
+    "nom": "Responsable énergie propulsion nucléaire à bord des sous-marin",
+    "secteur": "Énergie, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M112",
+    "nom": "Responsable tactique d'aeronef",
+    "secteur": "\"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M113",
+    "nom": "Restaurateur / Matelot restaurateur / Matelot cuisinier",
+    "secteur": "Hôtellerie et restauration"
+  },
+  {
+    "id": "M114",
+    "nom": "Scaphandrier",
+    "secteur": "Recherche, \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M115",
+    "nom": "Skipper",
+    "secteur": "\"Sport, animation et loisir\", Tourisme"
+  },
+  {
+    "id": "M116",
+    "nom": "Soudeur",
+    "secteur": "Industrie - Métallurgie"
+  },
+  {
+    "id": "M117",
+    "nom": "Soudeur naval",
+    "secteur": "Industries, Industrie - Métallurgie"
+  },
+  {
+    "id": "M118",
+    "nom": "Stratifieur",
+    "secteur": "Industrie - Bois, Industrie - Métallurgie, Industries"
+  },
+  {
+    "id": "M119",
+    "nom": "Technicien aéronautique",
+    "secteur": "Recherche, \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M120",
+    "nom": "Technicien aéronautique - avionique",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Recherche"
+  },
+  {
+    "id": "M121",
+    "nom": "Technicien armes et munition",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M122",
+    "nom": "Technicien comptabilité et logistique",
+    "secteur": "Activités juridiques et comptables, Logistique et transport"
+  },
+  {
+    "id": "M123",
+    "nom": "Technicien de conduite et de maintenace nucléaire",
+    "secteur": "\"Maintenance, entretien et nettoyage\", Recherche, \"Service public, défense et sécurité\", Énergie"
+  },
+  {
+    "id": "M124",
+    "nom": "Technicien de maintenance éolien",
+    "secteur": "Industries, Énergie, \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M125",
+    "nom": "Technicien de maintenance navale",
+    "secteur": "\"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M126",
+    "nom": "Technicien en \"opérations aéromaritimes\"",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M127",
+    "nom": "Technicien en maîtrise des risques nucléaires",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Énergie"
+  },
+  {
+    "id": "M128",
+    "nom": "Technicien exploitation système",
+    "secteur": "\"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\", Informatique et télécommunication"
+  },
+  {
+    "id": "M129",
+    "nom": "Technicien opérations sur sous-marin",
+    "secteur": "\"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M130",
+    "nom": "Technicien pont navire",
+    "secteur": "\"Service public, défense et sécurité\", \"Maintenance, entretien et nettoyage\""
+  },
+  {
+    "id": "M131",
+    "nom": "Technicien réseaux et télécommunications",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M132",
+    "nom": "Technicien système numérique",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M133",
+    "nom": "Technicien systèmes d'armes",
+    "secteur": "Industrie - Électronique, \"Maintenance, entretien et nettoyage\", \"Service public, défense et sécurité\""
+  },
+  {
+    "id": "M134",
+    "nom": "Technicien systèmes d'information, réseaux et télécommunications",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M135",
+    "nom": "Technicien systèmes numériques",
+    "secteur": "Informatique et télécommunication"
+  },
+  {
+    "id": "M136",
+    "nom": "Tuyauteur",
+    "secteur": "Industrie - Métallurgie"
+  },
+  {
+    "id": "M137",
+    "nom": "Voilier sellier",
+    "secteur": "Industrie - Textile et mode, \"Artisanat d'art, audiovisuel et spectacle\""
+  }
+]

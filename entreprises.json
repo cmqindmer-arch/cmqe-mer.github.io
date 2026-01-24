@@ -1,1339 +1,1339 @@
 [
-  {
-    "id": "E001",
-    "nom": "Armorique Diffusion",
-    "activites": "Vente, préparation et maintenance de navires de plaisance",
-    "localisation": "La Trinité-sur-Mer (56), Quiberon (56), Auray (56)",
-    "site": "http://www.ad56.fr/"
-  },
-  {
-    "id": "E002",
-    "nom": "Royal Nautisme",
-    "activites": "Achat, vente et location de navires de plaisance",
-    "localisation": "La Forêt Fouesnant (29), Saint Pierre Quiberon (56)",
-    "site": "https://www.royal-nautisme.fr/"
-  },
-  {
-    "id": "E003",
-    "nom": "CN Diffusion",
-    "activites": "Achat, vente, location et maintenance de navires de plaisance",
-    "localisation": "Concarneau (29), Port La Forêt (29), Bénodet (29), Loctudy (29)",
-    "site": "https://www.cndiffusion.com/"
-  },
-  {
-    "id": "E004",
-    "nom": "Pabouk Compagnie",
-    "activites": "Fabrication de navires de plaisance",
-    "localisation": "Gouesnac'h (29)",
-    "site": "https://www.lapaboukcompagnie.com/"
-  },
-  {
-    "id": "E005",
-    "nom": "Brest Ocean Boat",
-    "activites": "Achat, vente, location et maintenance de navires de plaisance",
-    "localisation": "Brest (29)",
-    "site": "https://www.brest-ocean-boat.fr/"
-  },
-  {
-    "id": "E006",
-    "nom": "Multi-Nautique",
-    "activites": "Vente et maintenance de navires",
-    "localisation": "Nivillac(56)",
-    "site": "https://multi-nautique.com/"
-  },
-  {
-    "id": "E007",
-    "nom": "Philnautic",
-    "activites": "Maintenance de navires",
-    "localisation": "Nivillac(56)",
-    "site": "https://philnautic.fr/"
-  },
-  {
-    "id": "E008",
-    "nom": "Comptoir Nautique",
-    "activites": "Maintenance de navires",
-    "localisation": "La Roche Bernard (56)",
-    "site": "https://www.comptoirnautique.com/"
-  },
-  {
-    "id": "E009",
-    "nom": "Snip Yachting",
-    "activites": "Vente et maintenance de navires",
-    "localisation": "Arzal (56)",
-    "site": "https://www.snip-yachting.com/"
-  },
-  {
-    "id": "E010",
-    "nom": "Arzal Nautique",
-    "activites": "Vente et maintenance de navires",
-    "localisation": "Arzal (56)",
-    "site": "https://www.arzal-nautique.fr/"
-  },
-  {
-    "id": "E011",
-    "nom": "Chantier Naval du Lindin",
-    "activites": "Vente et maintenance de navires",
-    "localisation": "Sarzeau (56)",
-    "site": "https://chantierdulindin.com/"
-  },
-  {
-    "id": "E012",
-    "nom": "Chantier Maritime du Crouesty",
-    "activites": "Vente et maintenance de navires",
-    "localisation": "Arzon (56)",
-    "site": "https://chantiermaritimeducrouesty.fr/"
-  },
-  {
-    "id": "E013",
-    "nom": "Naviwatt",
-    "activites": "Construction et entretien de navires électriques",
-    "localisation": "Arzon (56)",
-    "site": "https://www.naviwatt.com/"
-  },
-  {
-    "id": "E014",
-    "nom": "Marinarzon",
-    "activites": "Construction, vente, location et maintenance de navires de plaisance",
-    "localisation": "Arzon (56)",
-    "site": "https://www.marinarzon.fr/"
-  },
-  {
-    "id": "E015",
-    "nom": "Marine Composite",
-    "activites": "Construction, vente et hivernage de navires",
-    "localisation": "Arzon (56)",
-    "site": "https://www.marine-composite.fr/"
-  },
-  {
-    "id": "E016",
-    "nom": "Chantier du Redo",
-    "activites": "Vente et maintenance de navires",
-    "localisation": "Arzon (56)",
-    "site": "http://www.chantier-du-redo.com/"
-  },
-  {
-    "id": "E017",
-    "nom": "Chantier Naval Guillemot",
-    "activites": "Maintenance de navires",
-    "localisation": "Larmor-Baden (56)",
-    "site": "https://www.larmor-baden-nautique.fr/"
-  },
-  {
-    "id": "E018",
-    "nom": "Infinity Nautique",
-    "activites": "Vente, maintenance et hivernage de navires",
-    "localisation": "Baden (56)",
-    "site": "https://infinitynautique.com/"
-  },
-  {
-    "id": "E019",
-    "nom": "Cardot Marine",
-    "activites": "Maintenance et hivernage de navires",
-    "localisation": "Saint-Philibert (56)",
-    "site": "https://www.cardotmarine.fr/"
-  },
-  {
-    "id": "E020",
-    "nom": "No Limit Yacht",
-    "activites": "Vente, location et hivernage de navires",
-    "localisation": "Quiberon (56), Saint-Philbert (56)",
-    "site": "https://nolimityacht.fr/"
-  },
-  {
-    "id": "E021",
-    "nom": "Chantier Nava Kervilor",
-    "activites": "Maintenance et hivernage de navires",
-    "localisation": "Saint-Philibert (56)",
-    "site": "https://www.chantiernavalkervilor.com/"
-  },
-  {
-    "id": "E022",
-    "nom": "Nautic Sport",
-    "activites": "Vente, location, hivernage et maintenance de navires",
-    "localisation": "La Trinité-sur-Mer (56), Carnac Plage (56)",
-    "site": "https://www.nautic-sport.com/"
-  },
-  {
-    "id": "E023",
-    "nom": "Technologie Marine",
-    "activites": "Vente, construction, entretien de navires, fabrication de navires, de pièces composites...",
-    "localisation": "Saint-Philibert (56)",
-    "site": "https://www.technologiemarine.com/"
-  },
-  {
-    "id": "E024",
-    "nom": "Escale Technique",
-    "activites": "Réparation, maintenance, vente, hivernage de navires",
-    "localisation": "Saint-Philibert (56)",
-    "site": "https://escaletechnique.com/"
-  },
-  {
-    "id": "E025",
-    "nom": "Quiberon Nautic",
-    "activites": "Vente, location, hivernage et maintenance de navires",
-    "localisation": "Saint Pierre Quiberon (56)",
-    "site": "https://www.quiberon-nautic.com/accueil/"
-  },
-  {
-    "id": "E026",
-    "nom": "Astus Boats",
-    "activites": "Construction de navires",
-    "localisation": "Brech (56)",
-    "site": "https://www.astusboats.com/"
-  },
-  {
-    "id": "E027",
-    "nom": "Naval Group",
-    "activites": "Construction de bâtiments de guerre, système embarqués, drones militaires",
-    "localisation": "Lorient (56), Brest (29), Guipavas (29)",
-    "site": "https://www.naval-group.com/fr"
-  },
-  {
-    "id": "E028",
-    "nom": "Marine West",
-    "activites": "Vente, location, hivernage et maintenance de navires",
-    "localisation": "Lorient (56), Locmiquélic (56), Bénodet (29), Port La Forêt (29)",
-    "site": "https://www.marine-west.com/"
-  },
-  {
-    "id": "E029",
-    "nom": "SailWood",
-    "activites": "Menuiserie et chantier naval",
-    "localisation": "Lorient (56)",
-    "site": "https://sailwood.fr/"
-  },
-  {
-    "id": "E030",
-    "nom": "Pouldu Naval Bateaux",
-    "activites": "Maintenance et hivernage de navires",
-    "localisation": "Clohars-Carnoët (29)",
-    "site": "https://www.pouldu-naval-bateau.fr/"
-  },
-  {
-    "id": "E031",
-    "nom": "Aven Belon Marine",
-    "activites": "Vente, maintenance et hivernage de navires",
-    "localisation": "Riec-sur-Bélon (29)",
-    "site": "https://www.avenbelonmarine.com/"
-  },
-  {
-    "id": "E032",
-    "nom": "Armor kte",
-    "activites": "Fabrication de navires de plaisance",
-    "localisation": "Névez (29)",
-    "site": "https://www.armorkite.fr/"
-  },
-  {
-    "id": "E033",
-    "nom": "Marée Haute",
-    "activites": "Fabrication, vente, location, maintenance et hivernage de navires",
-    "localisation": "Trégunc (29), Moëlan-Sur-Mer (29), Concarneau (29)",
-    "site": "https://www.mareehaute.fr/"
-  },
-  {
-    "id": "E034",
-    "nom": "JFA Yachts",
-    "activites": "Fabrication et rénovation de navires",
-    "localisation": "Concarneau (29) ",
-    "site": "https://www.jfa-yachts.com/en/"
-  },
-  {
-    "id": "E035",
-    "nom": "Actemium Marine",
-    "activites": "Maintenance électrique et électronique marine",
-    "localisation": "Concarneau (29), Lorient (56)",
-    "site": "https://www.actemium-marine.com/fr/accueil-2/"
-  },
-  {
-    "id": "E036",
-    "nom": "IDB Marine",
-    "activites": "Fabrication et vente de navires",
-    "localisation": "Concarneau (29)",
-    "site": "http://www.idbmarine.fr/"
-  },
-  {
-    "id": "E037",
-    "nom": "Piriou",
-    "activites": "Construction et maintenance de navires",
-    "localisation": "Brest (29), Concarneau (29), Lorient (56)",
-    "site": "https://www.piriou.com/"
-  },
-  {
-    "id": "E038",
-    "nom": "Mer Concept",
-    "activites": "Construction et R&D pour la course au large",
-    "localisation": "Concarneau (29) ",
-    "site": "https://merconcept.com/"
-  },
-  {
-    "id": "E039",
-    "nom": "Port de Concarneau",
-    "activites": "Construction et maintenance navale",
-    "localisation": "Concarneau (29)",
-    "site": "https://www.port-plaisance-concarneau.fr/"
-  },
-  {
-    "id": "E040",
-    "nom": "PL Yachting",
-    "activites": "Vente et maintenance de navires",
-    "localisation": "La Forêt Fouesnant (29)",
-    "site": "https://plyachting.fr/"
-  },
-  {
-    "id": "E041",
-    "nom": "Extrado Yachting",
-    "activites": "Vente, location, hivernage et maintenance de navires",
-    "localisation": "La Forêt Fouesnant (29)",
-    "site": "https://www.extrado.fr/"
-  },
-  {
-    "id": "E042",
-    "nom": "CDK Technologies",
-    "activites": "Construction et vente de navires",
-    "localisation": "La Forêt Fouesnant (29), Lorient (56)",
-    "site": "https://www.cdk-technologies.com/"
-  },
-  {
-    "id": "E043",
-    "nom": "CNSM",
-    "activites": "Location de navires et formations",
-    "localisation": "Combrit (29)",
-    "site": "https://www.cnsm.fr/"
-  },
-  {
-    "id": "E044",
-    "nom": "Pogo Structures",
-    "activites": "Fabrication de navires",
-    "localisation": "Combrit (29)",
-    "site": "https://www.pogostructures.com/"
-  },
-  {
-    "id": "E045",
-    "nom": "Loc Marine Service",
-    "activites": "Vente, maintenance et hivernage de navires",
-    "localisation": "Loctudy (29)",
-    "site": "https://www.locmarineservice.com/"
-  },
-  {
-    "id": "E046",
-    "nom": "Chantier Naval Glehen",
-    "activites": "Construction et réparation de navires",
-    "localisation": "Le Guilvinech (29), Douardenez (29), Loctudy (29)",
-    "site": "https://www.chantier-glehen.com/"
-  },
-  {
-    "id": "E047",
-    "nom": "CCM",
-    "activites": "Construction et réparation de navires",
-    "localisation": "Plobannalec-Lesconil (29)",
-    "site": "https://www.capcavalmarine.fr/"
-  },
-  {
-    "id": "E048",
-    "nom": "Chantier Naval Stratagème",
-    "activites": "Construction, réparation et hivernage de navires",
-    "localisation": "Penmarch (29)",
-    "site": "https://www.chantiernavalstratageme.fr/"
-  },
-  {
-    "id": "E049",
-    "nom": "Plastimer Chantier Naval",
-    "activites": "Construction et réparation de navires",
-    "localisation": "Penmarch (29)",
-    "site": "https://plastimer.com/"
-  },
-  {
-    "id": "E050",
-    "nom": "L'Atelier Du Marin",
-    "activites": "Construction et entretien mécanique de navires",
-    "localisation": "Plozévet (29)",
-    "site": "https://www.latelierdumarin.bzh/"
-  },
-  {
-    "id": "E051",
-    "nom": "Armen Initiative",
-    "activites": "Fabrication de navires",
-    "localisation": "Audierne (29)",
-    "site": "https://armen-initiative.fr/"
-  },
-  {
-    "id": "E052",
-    "nom": "Marine Service",
-    "activites": "Vente, entretien et hivernage de navires",
-    "localisation": "Douardenez (29)",
-    "site": "https://www.marine-service-douarnenez.com/"
-  },
-  {
-    "id": "E053",
-    "nom": "Fondation Tara Océan",
-    "activites": "Navigation, recherche",
-    "localisation": "",
-    "site": "https://fondationtaraocean.org/"
-  },
-  {
-    "id": "E054",
-    "nom": "La Scapêche (fiière pêche du groupe Mousquetaires)",
-    "activites": "Pêche",
-    "localisation": "Lorient (56)",
-    "site": "https://www.mousquetaires.com/nos-filiales/agromousquetaires/nos-poles-de-performance/la-filiere-peche-agromousquetaires/"
-  },
-  {
-    "id": "E055",
-    "nom": "Ponant",
-    "activites": "Croisières",
-    "localisation": "",
-    "site": "https://www.ponant.com/"
-  },
-  {
-    "id": "E056",
-    "nom": "Genavir",
-    "activites": "Navigation, recherche",
-    "localisation": "Plouzané (29)",
-    "site": "https://www.genavir.fr/"
-  },
-  {
-    "id": "E057",
-    "nom": "Socarenam ",
-    "activites": "Fabrication de navires (civils, militaires, recherche)",
-    "localisation": "Saint-Malo (35)",
-    "site": "https://socarenam.com/fr/"
-  },
-  {
-    "id": "E058",
-    "nom": "Coprexma",
-    "activites": "Conception et fabrication de navires",
-    "localisation": "Pont L'abbé (29)",
-    "site": "https://www.coprexma.fr/"
-  },
-  {
-    "id": "E059",
-    "nom": "Vedettes de l'Odet",
-    "activites": "Croisières",
-    "localisation": "Bénodet (29), Concarneau (29), La Forêt-Fouesnant (29), Beg Meil (29), Sainte Marine (29), Loctudy (29), Île-Tudy (29)",
-    "site": "https://www.vedettes-odet.com/"
-  },
-  {
-    "id": "E060",
-    "nom": "Chantier Naval Hénaff",
-    "activites": "Construction et réparation de navires",
-    "localisation": "Le Guilvinec (29)",
-    "site": "https://www.chantier-naval-henaff.fr/"
-  },
-  {
-    "id": "E061",
-    "nom": "Compagnie Maritime BreizhGo Penn Ar Bed",
-    "activites": "Croisières, navigation",
-    "localisation": "Brest (29)",
-    "site": "https://pennarbed.breizhgo.bzh/"
-  },
-  {
-    "id": "E062",
-    "nom": "Ateliers Mécaniques Lorientais",
-    "activites": "Industrie navale",
-    "localisation": "Lorient (56)",
-    "site": "https://aml-naval-industrie.com/"
-  },
-  {
-    "id": "E063",
-    "nom": "Chantier du Guip",
-    "activites": "Menuiserie navale",
-    "localisation": "Brest (29), Île aux Moines (56)",
-    "site": "https://chantierduguip.com/accueil/accueil/"
-  },
-  {
-    "id": "E064",
-    "nom": "Mauric",
-    "activites": "Ingénierie navale",
-    "localisation": "Brest (29), Lannion (22)",
-    "site": "https://www.mauric.com/"
-  },
-  {
-    "id": "E065",
-    "nom": "Brittany Ferries",
-    "activites": "Croisières",
-    "localisation": "Roscoff (29)",
-    "site": "https://www.brittany-ferries.fr/"
-  },
-  {
-    "id": "E066",
-    "nom": "Tria Vela",
-    "activites": "Croisières",
-    "localisation": "Trébeurden (22)",
-    "site": "https://www.tria-vela.com/"
-  },
-  {
-    "id": "E067",
-    "nom": "Compagnie Française du Thon Océanique",
-    "activites": "Compagnie de pêche",
-    "localisation": "Concarneau (29)",
-    "site": "https://cfto.eu/"
-  },
-  {
-    "id": "E068",
-    "nom": "ADD Technologies",
-    "activites": "Ingénierie navale",
-    "localisation": "Lorient (56)",
-    "site": "https://add-modules.com/fr"
-  },
-  {
-    "id": "E069",
-    "nom": "Agence Maritime de l'Ouest",
-    "activites": "Manutention maritme",
-    "localisation": "Paimpol (22)",
-    "site": "https://www.amo-ship.com/"
-  },
-  {
-    "id": "E070",
-    "nom": "Ship ST",
-    "activites": "Etudes et conception navale",
-    "localisation": "Lorient (56)",
-    "site": "https://www.ship-st.com/"
-  },
-  {
-    "id": "E071",
-    "nom": "Agir",
-    "activites": "Recherche et développement, étude et conception",
-    "localisation": "Brest (29), Lanester (56)",
-    "site": "https://agir-ingenierie.fr/"
-  },
-  {
-    "id": "E072",
-    "nom": "Ailes Marines (Iberdrola)",
-    "activites": "Energie éolienne en mer",
-    "localisation": "Saint-Brieuc (22)",
-    "site": "https://ailes-marines.bzh/"
-  },
-  {
-    "id": "E073",
-    "nom": "Alpha Techniques",
-    "activites": "Ingénierie navale",
-    "localisation": "Brest (29)",
-    "site": "https://www.alpha-techniques.com/"
-  },
-  {
-    "id": "E074",
-    "nom": "Anemo ",
-    "activites": "Ingénierie navale",
-    "localisation": "Lorient (56)",
-    "site": "https://www.cabinet-anemo.fr/"
-  },
-  {
-    "id": "E075",
-    "nom": "Armoric Concept",
-    "activites": "Cabinet d'expertise maritime",
-    "localisation": "Muzillac (56)",
-    "site": "https://armoric-concept.com/"
-  },
-  {
-    "id": "E076",
-    "nom": "Berthelot Shipchandler",
-    "activites": "Manutention offshore",
-    "localisation": "Brest (29)",
-    "site": "https://www.berthelot.fr/fr/accueil"
-  },
-  {
-    "id": "E077",
-    "nom": "Blue Water Shipping",
-    "activites": "Manutention offshore",
-    "localisation": "Brest (29)",
-    "site": "https://www.bws.net/"
-  },
-  {
-    "id": "E078",
-    "nom": "Bopp",
-    "activites": "Equipementier de navires (systèmes hydrauliques et électriques)",
-    "localisation": "Lanveoc (29)",
-    "site": "https://www.bopp.fr/"
-  },
-  {
-    "id": "E079",
-    "nom": "Bord à Bord",
-    "activites": "Fabrication de navires",
-    "localisation": "Plestin-les-Grèves (22)",
-    "site": "https://bord-a-bord-boat.com/"
-  },
-  {
-    "id": "E080",
-    "nom": "Bronswerk",
-    "activites": "Ingénierie navale",
-    "localisation": "Lorient (56), Quimper (29)",
-    "site": "https://bronswerkgroup.com/"
-  },
-  {
-    "id": "E081",
-    "nom": "CMV Amphibie",
-    "activites": "Construction et maintenance navale",
-    "localisation": "Le Vivier-sur-Mer (35)",
-    "site": "http://www.cmv-amphibie.com/fr/"
-  },
-  {
-    "id": "E082",
-    "nom": "CNN MCO",
-    "activites": "Construction et maintenance navale",
-    "localisation": "Guipavas (29)",
-    "site": "https://www.cnn-mco.fr/"
-  },
-  {
-    "id": "E083",
-    "nom": "CT Mer Forte",
-    "activites": "Ingénierie et architecture navale",
-    "localisation": "La Forêt-Fousnant (29)",
-    "site": "https://www.merforte.com/"
-  },
-  {
-    "id": "E084",
-    "nom": "CTL (Groupe Hervé)",
-    "activites": "Montage de chaudronnerie et structures métalliques pour la construction navale militaire",
-    "localisation": "Caudan (56)",
-    "site": "https://www.ctl-lorient.fr/"
-  },
-  {
-    "id": "E085",
-    "nom": "DynamOcean",
-    "activites": "Bureau d’études spécialisé en océanographie",
-    "localisation": "Lannion (22)",
-    "site": "https://www.dynamocean.com/fr"
-  },
-  {
-    "id": "E086",
-    "nom": "Efinor",
-    "activites": "Conception et fabrication de navires",
-    "localisation": "Paimpol (22)",
-    "site": "https://www.efinor.com/"
-  },
-  {
-    "id": "E087",
-    "nom": "Emeraude Moteus Systèmes",
-    "activites": "Motorisation navale",
-    "localisation": "Miniac-Morvan (35)",
-    "site": "https://www.emeraudemoteurs.fr/"
-  },
-  {
-    "id": "E088",
-    "nom": "ENAG",
-    "activites": "Ingénierie navale",
-    "localisation": "Quimper (29)",
-    "site": "https://www.enag.fr/"
-  },
-  {
-    "id": "E089",
-    "nom": "Fonderie Hellin",
-    "activites": "Industrie navale",
-    "localisation": "Kervignac (56)",
-    "site": "https://www.fonderie-hellin.fr/"
-  },
-  {
-    "id": "E090",
-    "nom": "France Helices",
-    "activites": "Industrie navale",
-    "localisation": "Concarneau (29)",
-    "site": "https://www.francehelices.fr/"
-  },
-  {
-    "id": "E091",
-    "nom": "Gaïa - Terre bleue",
-    "activites": "Bureau d'études",
-    "localisation": "Concarneau (29)",
-    "site": "https://www.gaia-terrebleue.fr/"
-  },
-  {
-    "id": "E092",
-    "nom": "GSEA Design",
-    "activites": "Conception et ingénierie navale",
-    "localisation": "Lorient (56)",
-    "site": "https://www.gseadesign.com/"
-  },
-  {
-    "id": "E093",
-    "nom": "Hydrau - Pêche",
-    "activites": "Industrie de pêche",
-    "localisation": "Quimper (29)",
-    "site": "https://hydrau-peche.com/"
-  },
-  {
-    "id": "E094",
-    "nom": "Hydrocorp",
-    "activites": "Ingénierie hydraulique",
-    "localisation": "Lorient (56), Queven (56), Rennes (35)",
-    "site": "https://www.hydrocorp.fr/"
-  },
-  {
-    "id": "E095",
-    "nom": "Hydrofluid Technologies",
-    "activites": "Ingénierie hydraulique",
-    "localisation": "Caudan (56), Lorient (56), Brest (29)",
-    "site": "https://www.hydrofluidtechnologies.com/"
-  },
-  {
-    "id": "E096",
-    "nom": "Ingeliance",
-    "activites": "Conception, contruction et ingénierie navale",
-    "localisation": "Lorient (56), Brest (29), Morlaix (29)",
-    "site": "https://ingeliance.com/"
-  },
-  {
-    "id": "E097",
-    "nom": "Inyanga Marine",
-    "activites": "Manutention offshore",
-    "localisation": "Rennes (35)",
-    "site": "https://www.inyangamarine.com/"
-  },
-  {
-    "id": "E098",
-    "nom": "TSM",
-    "activites": "Assistance en mer, études maritimes",
-    "localisation": "Brest (29)",
-    "site": "https://www.tsmgroup.eu/"
-  },
-  {
-    "id": "E099",
-    "nom": "Société Ismer",
-    "activites": "Travaux maritimes et sous-marins, inspection maritime",
-    "localisation": "Lanester (56)",
-    "site": "https://societe-ismer.com/"
-  },
-  {
-    "id": "E100",
-    "nom": "Kerboat Services",
-    "activites": "Croisière, course au large",
-    "localisation": "Saint-Malo (35), Dinard (35), Cancale (35), Brest (29)",
-    "site": "https://www.kerboat.com/"
-  },
-  {
-    "id": "E101",
-    "nom": "Le Gac",
-    "activites": "Mécanique navale",
-    "localisation": "Baud (56), Lorient (56)",
-    "site": "https://legac-materiaux.com/"
-  },
-  {
-    "id": "E102",
-    "nom": "Le Pocher",
-    "activites": "Motorisation navale",
-    "localisation": "Mellac (29)",
-    "site": "https://www.lepocher.fr/"
-  },
-  {
-    "id": "E103",
-    "nom": "Manifeste",
-    "activites": "Bureau d'études en énergie marine",
-    "localisation": "Brest (29)",
-    "site": "https://www.manifeste-energie.com/"
-  },
-  {
-    "id": "E104",
-    "nom": "Marinelec",
-    "activites": "Equipementier électronique pour la marine",
-    "localisation": "Quimper (29)",
-    "site": "https://www.marinelec.com/fr/"
-  },
-  {
-    "id": "E105",
-    "nom": "ML Littoral",
-    "activites": "Fourniture d’équipement maritime et de levage",
-    "localisation": "Hennebont (56)",
-    "site": "https://ml-littoral.fr/"
-  },
-  {
-    "id": "E106",
-    "nom": "Groupe Metalenergy",
-    "activites": "Industrie navale, mécanique navale, manutention",
-    "localisation": "Lorient (56), Brest (29)",
-    "site": "https://metalenergy.fr/"
-  },
-  {
-    "id": "E107",
-    "nom": "Navaleo",
-    "activites": "Dépollution et déconstruction navale",
-    "localisation": "Guipavas (29)",
-    "site": "https://www.navaleo.fr/"
-  },
-  {
-    "id": "E108",
-    "nom": "NavOcean",
-    "activites": "Shipmanagement & crewmanagement",
-    "localisation": "Concarneau (29)",
-    "site": "https://www.compagnie-navocean.com/"
-  },
-  {
-    "id": "E109",
-    "nom": "Nemo Engineering",
-    "activites": "Ingénierie marine",
-    "localisation": "Lorient (56)",
-    "site": "https://nemo-engineering.eu/"
-  },
-  {
-    "id": "E110",
-    "nom": "Ouest Sécurité Marine",
-    "activites": "Service de sécurité maritime",
-    "localisation": "Pont L'abbé (29), Lorient (56), Saint-Malo (35)",
-    "site": "https://ouestsecuritemarine.com/"
-  },
-  {
-    "id": "E111",
-    "nom": "Brest Port",
-    "activites": "Exploitation du port de Brest",
-    "localisation": "Brest (29)",
-    "site": "https://www.brest.port.bzh/"
-  },
-  {
-    "id": "E112",
-    "nom": "Prestia",
-    "activites": "Industrie navale",
-    "localisation": "Val d'Oust (56), Hanvec (29)",
-    "site": "https://www.prestia.fr/"
-  },
-  {
-    "id": "E113",
-    "nom": "Prolarge",
-    "activites": "Opérateur de projets maritimes",
-    "localisation": "Ploemeur (56)",
-    "site": "https://www.prolarge.fr/index.php/fr/"
-  },
-  {
-    "id": "E114",
-    "nom": "Quay Point Sollutions",
-    "activites": "Transport maritime",
-    "localisation": "Ergué-Gabéric (29)",
-    "site": "https://www.quay-point-solutions.com/"
-  },
-  {
-    "id": "E115",
-    "nom": "Echafaudages Abarnou",
-    "activites": "Confinement de bâtiment naval",
-    "localisation": "Plabennec (29), Guidel, (56), Plerneuf (22), Tregunc (29)",
-    "site": "https://www.abarnou-montages.com/"
-  },
-  {
-    "id": "E116",
-    "nom": "Sea Side Tech",
-    "activites": "Electronique maritime",
-    "localisation": "Mellac (29)",
-    "site": "https://www.seasidetech.net/"
-  },
-  {
-    "id": "E117",
-    "nom": "Segula Technologies",
-    "activites": "Industrie, ingénierie navale",
-    "localisation": "Bruz(35), Saint-Jacques-de-la-Lande (35), Lanester (56), ",
-    "site": "https://www.segulatechnologies.com/fr/"
-  },
-  {
-    "id": "E118",
-    "nom": "Comité Départemental des pêches maritimes et des élevages marins",
-    "activites": "Industrie de pêche",
-    "localisation": "Auray (56), Lorient (56)",
-    "site": "https://www.comite-peches.fr/"
-  },
-  {
-    "id": "E119",
-    "nom": "Ifremer",
-    "activites": "Recherche marine",
-    "localisation": "Plouzané (29)",
-    "site": "https://www.ifremer.fr/fr"
-  },
-  {
-    "id": "E120",
-    "nom": "IDmer",
-    "activites": "Recherche en biologie et agroalimentaire marin",
-    "localisation": "Lorient (56)",
-    "site": "https://www.idmer.com/"
-  },
-  {
-    "id": "E121",
-    "nom": "Ship As A Service",
-    "activites": "Opérateur de projets maritimes",
-    "localisation": "Lorient (56)",
-    "site": "https://www.shipasaservice.fr/"
-  },
-  {
-    "id": "E122",
-    "nom": "SLPN",
-    "activites": "Peinture marine ",
-    "localisation": "Brest (29), Lorient (56)",
-    "site": "http://www.slpn.fr/"
-  },
-  {
-    "id": "E123",
-    "nom": "SMM Composites",
-    "activites": "Industrie navale",
-    "localisation": "Lanester (56)",
-    "site": "https://smm-composites.com/"
-  },
-  {
-    "id": "E124",
-    "nom": "SNEF",
-    "activites": "Industrie navale",
-    "localisation": "Rennes (35), Brest (29), Caudan (56), Lanester (56), Quimper (29), Concarneau (29)",
-    "site": "https://www.snef.fr/"
-  },
-  {
-    "id": "E125",
-    "nom": "Solorpec",
-    "activites": "Peinture marine ",
-    "localisation": "Brest (29), Lorient (56)",
-    "site": "https://solorpec.fr/"
-  },
-  {
-    "id": "E126",
-    "nom": "SPRD",
-    "activites": "Manutention navale, industrie, mécanique",
-    "localisation": "Brest (29), Noyal sur Vilaine (35), Lorient, 56)",
-    "site": "https://m.sprd-bretagne.fr/"
-  },
-  {
-    "id": "E127",
-    "nom": "Studec",
-    "activites": "Informatique industrielle",
-    "localisation": "Brest (29)",
-    "site": "https://www.studec.fr/"
-  },
-  {
-    "id": "E128",
-    "nom": "Technorope",
-    "activites": "Construction navale",
-    "localisation": "Lorient (56)",
-    "site": "https://tecnorope.com/"
-  },
-  {
-    "id": "E129",
-    "nom": "Talos",
-    "activites": "Solutions digitales maritimes",
-    "localisation": "Ploemeur (56)",
-    "site": "https://www.thalos.fr/"
-  },
-  {
-    "id": "E130",
-    "nom": "WICS",
-    "activites": "Management de projet navals",
-    "localisation": "Brest (29)",
-    "site": "https://www.wics.eu/"
-  },
-  {
-    "id": "E131",
-    "nom": "Fouré Lagadec",
-    "activites": "Conception, construction et maintenance industrielle",
-    "localisation": "Brest (29)",
-    "site": "https://fourelagadec.com/"
-  },
-  {
-    "id": "E132",
-    "nom": "Kerlann Marine",
-    "activites": "Travaux subaquatiques",
-    "localisation": "Surzur (56)",
-    "site": "https://www.kerlann-marine.fr/"
-  },
-  {
-    "id": "E133",
-    "nom": "NPI Ouest",
-    "activites": "Nettoyage en réparation navale, maintenance pétrolière",
-    "localisation": "Brest (29)",
-    "site": "https://www.npiouest.fr/"
-  },
-  {
-    "id": "E134",
-    "nom": "Ekium",
-    "activites": "Stratégie industrielle, la conception de leurs équipements et bâtiments, la gestion de la construction, le pilotage de la production et la maintenance des installations",
-    "localisation": "Brest (29), Lorient (56)",
-    "site": "https://www.ekium.eu/"
-  },
-  {
-    "id": "E135",
-    "nom": "Eolink",
-    "activites": "Recherche et innovation en énergie éolienne ",
-    "localisation": "Brest (29)",
-    "site": "https://eolink.fr/"
-  },
-  {
-    "id": "E136",
-    "nom": "Guinard Energies Nouvelles",
-    "activites": "Concepteur d’hydroliennes et de solutions énergétiques renouvelables",
-    "localisation": "Brest (29)",
-    "site": "https://www.guinard-energies.bzh/fr/guinard-energies/"
-  },
-  {
-    "id": "E137",
-    "nom": "Entech",
-    "activites": "Energie marine",
-    "localisation": "Quimper (29)",
-    "site": "https://entech-se.com/"
-  },
-  {
-    "id": "E138",
-    "nom": "Sabella",
-    "activites": "Energie marine",
-    "localisation": "Quimper (29)",
-    "site": "https://www.sabella.fr/"
-  },
-  {
-    "id": "E139",
-    "nom": "France Energies Marines",
-    "activites": "Energie marine",
-    "localisation": "Plouzané (29)",
-    "site": "https://www.france-energies-marines.org/"
-  },
-  {
-    "id": "E140",
-    "nom": "Ocean Data Lab",
-    "activites": "Centre de recherche",
-    "localisation": "Plouzané (29)",
-    "site": "https://www.oceandatalab.com/home"
-  },
-  {
-    "id": "E141",
-    "nom": "Actimar",
-    "activites": "Océanographie",
-    "localisation": "Brest (29)",
-    "site": "https://www.actimar.fr/fr/accueil/"
-  },
-  {
-    "id": "E142",
-    "nom": "TBM Environnement",
-    "activites": "Océanographie",
-    "localisation": "Plougoumelen (56)",
-    "site": "https://tbm-environnement.com/"
-  },
-  {
-    "id": "E143",
-    "nom": "Le Floch Dépollution",
-    "activites": "Dépollution marine",
-    "localisation": "Sainte-Sève (29)",
-    "site": "https://www.leflochdepollution.com/"
-  },
-  {
-    "id": "E144",
-    "nom": "Office Français de la Biodiversité",
-    "activites": "Recherche marine",
-    "localisation": "Vannes (56), Brest (29), Plouzané (29), Quimper (29), Concarneau (29), Saint-Brieuc (22), Saint-Malo (35), Rennes (35)",
-    "site": "https://ofb.gouv.fr/"
-  },
-  {
-    "id": "E145",
-    "nom": "CEDRE",
-    "activites": "Expert en pollution accidentelle des eaux",
-    "localisation": "Brest (29)",
-    "site": "https://wwz.cedre.fr/Qui-sommes-nous"
-  },
-  {
-    "id": "E146",
-    "nom": "Cerema",
-    "activites": "Amenagement et protection du territoire",
-    "localisation": "Plouzané (29), Saint-Brieuc (22)",
-    "site": "https://www.cerema.fr/fr"
-  },
-  {
-    "id": "E147",
-    "nom": "Ceva",
-    "activites": "Centre d'études des algues",
-    "localisation": "Pleubian (22)",
-    "site": "https://www.ceva-algues.com/"
-  },
-  {
-    "id": "E148",
-    "nom": "IRD",
-    "activites": "Institut de recherche",
-    "localisation": "Plouzané (29)",
-    "site": "https://www.ird.fr/"
-  },
-  {
-    "id": "E149",
-    "nom": "Institut polaire Français",
-    "activites": "Institut de recherche",
-    "localisation": "Plouzané (29)",
-    "site": "https://institut-polaire.fr/fr/"
-  },
-  {
-    "id": "E150",
-    "nom": "Laboratoire de Physiologie et Génomique des Poissons",
-    "activites": "Institut de recherche",
-    "localisation": "Rennes (35)",
-    "site": "https://lpgp.rennes.hub.inrae.fr/"
-  },
-  {
-    "id": "E151",
-    "nom": "Labocéa",
-    "activites": "Laboratoire de recherche environnementale",
-    "localisation": "Brest (29), Combourg (35), Quimper (29), Fougères(35), Saint-Brieuc (22)",
-    "site": "https://www.labocea.fr/"
-  },
-  {
-    "id": "E152",
-    "nom": "EHM",
-    "activites": "Motorisation navale",
-    "localisation": "Chateaulin (29)",
-    "site": "https://www.ehm.bzh/"
-  },
-  {
-    "id": "E153",
-    "nom": "Fairscope",
-    "activites": "Institut de recherche",
-    "localisation": "Saint-Martin des Champs (29)",
-    "site": "https://www.fairscope.com/"
-  },
-  {
-    "id": "E154",
-    "nom": "Heol Sailing - Chantier Naval de la Passagère",
-    "activites": "Construction et innovation navale, fret ",
-    "localisation": "Saint-Malo (35)",
-    "site": "https://www.heol.bzh/"
-  },
-  {
-    "id": "E155",
-    "nom": "Groupe Maritime Kuhn",
-    "activites": "Manutention, transit, affrètement",
-    "localisation": "Brest (29), Concarneau (29), Lorient (56), Saint-Malo (35), Saint-Brieuc (22)",
-    "site": "https://maritimekuhn.com/"
-  },
-  {
-    "id": "E156",
-    "nom": "Sellor",
-    "activites": "Gestion de ports de plaisance",
-    "localisation": "Lorient (56)",
-    "site": "https://www.sellor.com/"
-  },
-  {
-    "id": "E157",
-    "nom": "ORC",
-    "activites": "Construction et innovation navale",
-    "localisation": "Lorient (56)",
-    "site": "https://ocean-rider-catamarans.com/"
-  },
-  {
-    "id": "E158",
-    "nom": "Marsaudon Composites",
-    "activites": "Construction et innovation navale",
-    "localisation": "Lorient (56)",
-    "site": "https://ocean-rider-catamarans.com/"
-  },
-  {
-    "id": "E159",
-    "nom": "Etoile Marine Croisière",
-    "activites": "Croisières",
-    "localisation": "Saint-Malo (35)",
-    "site": "https://www.etoile-marine.com/"
-  },
-  {
-    "id": "E160",
-    "nom": "Ouest Composites",
-    "activites": "Industrie navale",
-    "localisation": "Auray (56) ",
-    "site": "https://www.ouest-composites.com/"
-  },
-  {
-    "id": "E161",
-    "nom": "Multiplast",
-    "activites": "Industrie navale",
-    "localisation": "Vannes (56) ",
-    "site": "https://www.multiplast.eu/"
-  },
-  {
-    "id": "E162",
-    "nom": "Oxymax",
-    "activites": "Industrie navale",
-    "localisation": "Sizun (29)",
-    "site": "https://www.oxymax.fr/"
-  },
-  {
-    "id": "E163",
-    "nom": "Cité Marine",
-    "activites": "Industrie et services navals",
-    "localisation": "Kervignac (56)",
-    "site": "https://www.cite-marine.fr/"
-  },
-  {
-    "id": "E164",
-    "nom": "Protecno",
-    "activites": "Electronique maritime",
-    "localisation": "Brest (29)",
-    "site": "https://protecno.fr/"
-  },
-  {
-    "id": "E165",
-    "nom": "Exail",
-    "activites": "Industrie technologique",
-    "localisation": "Brest (29), Lannion (22)",
-    "site": "https://www.exail-technologies.com/fr/"
-  },
-  {
-    "id": "E166",
-    "nom": "Damen ",
-    "activites": "Maintenance navale, logiciels",
-    "localisation": "Brest (29)",
-    "site": "https://www.damen.com/"
-  },
-  {
-    "id": "E167",
-    "nom": "Thales",
-    "activites": "Ingénierie",
-    "localisation": "Rennes (35), Brest (29) ",
-    "site": "https://www.thalesgroup.com/fr"
-  },
-  {
-    "id": "E168",
-    "nom": "Reboat",
-    "activites": "Construction navale",
-    "localisation": "Lorient (56)",
-    "site": "https://reboat.com/"
-  },
-  {
-    "id": "E169",
-    "nom": "Tricat",
-    "activites": "Construction navale",
-    "localisation": "Vannes (56)",
-    "site": "https://www.trimaran-tricat.com/"
-  },
-  {
-    "id": "E170",
-    "nom": "Gourenez Nautic",
-    "activites": "Maintenance navale et location de navires",
-    "localisation": "Lézardieux (22)",
-    "site": "https://gourenez-nautic.com/"
-  },
-  {
-    "id": "E171",
-    "nom": "Dream Racer Boat",
-    "activites": "Maintenance navale",
-    "localisation": "Quimperlé (29)",
-    "site": "https://dreamracerboats.com/en/"
-  },
-  {
-    "id": "E172",
-    "nom": "ADN Yachts",
-    "activites": "Maintenance navale, vente et location de navires",
-    "localisation": "Arzon (56), La Trinité sur Mer (56)",
-    "site": "https://www.adn-yachts.com/"
-  },
-  {
-    "id": "E173",
-    "nom": "Ufast ",
-    "activites": "Construction navale",
-    "localisation": "Quimper (29)",
-    "site": "https://www.ufast-shipyard.com/"
-  },
-  {
-    "id": "E174",
-    "nom": "Rider Marine",
-    "activites": "Conception et construction navale",
-    "localisation": "Quimperlé (29)",
-    "site": "https://www.rider-marine.fr/"
-  },
-  {
-    "id": "E175",
-    "nom": "Fil Marine",
-    "activites": "Maintenance navale, vente et location de navires",
-    "localisation": "Saint-Cast-le-Guildo (22)",
-    "site": "https://www.fil-marine.com/"
-  },
-  {
-    "id": "E176",
-    "nom": "Atlantic Assistance Marine",
-    "activites": "Maintenance navale et dépannage",
-    "localisation": "Lorient (56)",
-    "site": "https://www.atlantic-assistance-marine.com/"
-  },
-  {
-    "id": "E177",
-    "nom": "Plasmor",
-    "activites": "Construction navale",
-    "localisation": "Bains sur Oust (35)",
-    "site": "https://www.plasmor.fr/"
-  },
-  {
-    "id": "E178",
-    "nom": "JPK",
-    "activites": "Conception et construction navale",
-    "localisation": "Larmor-Plage (56)",
-    "site": "https://www.jpk.fr/"
-  },
-  {
-    "id": "E179",
-    "nom": "Boreal Yachts",
-    "activites": "Conception et construction navale",
-    "localisation": "Minihy - Tréguier (22)",
-    "site": "https://www.boreal-yachts.com/"
-  },
-  {
-    "id": "E180",
-    "nom": "Futuna Yachts",
-    "activites": "Conception et construction navale",
-    "localisation": "Bruz (35)",
-    "site": "http://www.futuna-yachts.com/fr/"
-  },
-  {
-    "id": "E181",
-    "nom": "Kership",
-    "activites": "Conception et construction navale",
-    "localisation": "Concarneau (29)",
-    "site": "https://www.kership.com/"
-  },
-  {
-    "id": "E182",
-    "nom": "Ocean Data System",
-    "activites": "Electronique marine",
-    "localisation": "Ploemeur (56)",
-    "site": "https://www.oceandatasystem.com/"
-  },
-  {
-    "id": "E183",
-    "nom": "DK Innovation",
-    "activites": "Electronique marine",
-    "localisation": "Plérin (22)",
-    "site": "https://www.dkinnovation.fr/"
-  },
-  {
-    "id": "E184",
-    "nom": "Heol Design",
-    "activites": "Electronique marine",
-    "localisation": "Pleumeur (22)",
-    "site": "https://www.heoldesign.com/"
-  },
-  {
-    "id": "E185",
-    "nom": "NKE Marine Electronics",
-    "activites": "Electronique marine",
-    "localisation": "Hennebont (56)",
-    "site": "https://nke-marine-electronics.fr/"
-  },
-  {
-    "id": "E186",
-    "nom": "Seatronic",
-    "activites": "Electricité et informatique marine",
-    "localisation": "Saint-Malo (35)",
-    "site": "https://www.seatronic.fr/"
-  },
-  {
-    "id": "E187",
-    "nom": "Navicom",
-    "activites": "Electronique marine",
-    "localisation": "Quimper (29)",
-    "site": "https://www.navicom.fr/"
-  },
-  {
-    "id": "E188",
-    "nom": "Dep'tron",
-    "activites": "Electronique marine",
-    "localisation": "Arzon (56) ",
-    "site": "https://www.deptron.fr/"
-  },
-  {
-    "id": "E189",
-    "nom": "Nautic Groupe",
-    "activites": "Electronique marine",
-    "localisation": "Brest (29), Carantec (29), Morlaix (29)",
-    "site": "https://www.nauticgroupe.fr/"
-  },
-  {
-    "id": "E190",
-    "nom": "Elekty",
-    "activites": "Electricité marine",
-    "localisation": "Pédernec (22)",
-    "site": "https://www.elekty.bzh/"
-  },
-  {
-    "id": "E191",
-    "nom": "Pixel sur mer",
-    "activites": "Electronique marine",
-    "localisation": "Lorient (56), Brest (29)",
-    "site": "https://www.pixelsurmer.com/fr/"
-  }
+    {
+        "id": "E001",
+        "nom": "Armorique Diffusion",
+        "activites": "Vente, préparation et maintenance de navires de plaisance",
+        "localisation": "La Trinité-sur-Mer (56), Quiberon (56), Auray (56)",
+        "site": "http://www.ad56.fr/"
+    },
+    {
+        "id": "E002",
+        "nom": "Royal Nautisme",
+        "activites": "Achat, vente et location de navires de plaisance",
+        "localisation": "La Forêt Fouesnant (29), Saint Pierre Quiberon (56)",
+        "site": "https://www.royal-nautisme.fr/"
+    },
+    {
+        "id": "E003",
+        "nom": "CN Diffusion",
+        "activites": "Achat, vente, location et maintenance de navires de plaisance",
+        "localisation": "Concarneau (29), Port La Forêt (29), Bénodet (29), Loctudy (29)",
+        "site": "https://www.cndiffusion.com/"
+    },
+    {
+        "id": "E004",
+        "nom": "Pabouk Compagnie",
+        "activites": "Fabrication de navires de plaisance",
+        "localisation": "Gouesnac'h (29)",
+        "site": "https://www.lapaboukcompagnie.com/"
+    },
+    {
+        "id": "E005",
+        "nom": "Brest Ocean Boat",
+        "activites": "Achat, vente, location et maintenance de navires de plaisance",
+        "localisation": "Brest (29)",
+        "site": "https://www.brest-ocean-boat.fr/"
+    },
+    {
+        "id": "E006",
+        "nom": "Multi-Nautique",
+        "activites": "Vente et maintenance de navires",
+        "localisation": "Nivillac(56)",
+        "site": "https://multi-nautique.com/"
+    },
+    {
+        "id": "E007",
+        "nom": "Philnautic",
+        "activites": "Maintenance de navires",
+        "localisation": "Nivillac(56)",
+        "site": "https://philnautic.fr/"
+    },
+    {
+        "id": "E008",
+        "nom": "Comptoir Nautique",
+        "activites": "Maintenance de navires",
+        "localisation": "La Roche Bernard (56)",
+        "site": "https://www.comptoirnautique.com/"
+    },
+    {
+        "id": "E009",
+        "nom": "Snip Yachting",
+        "activites": "Vente et maintenance de navires",
+        "localisation": "Arzal (56)",
+        "site": "https://www.snip-yachting.com/"
+    },
+    {
+        "id": "E010",
+        "nom": "Arzal Nautique",
+        "activites": "Vente et maintenance de navires",
+        "localisation": "Arzal (56)",
+        "site": "https://www.arzal-nautique.fr/"
+    },
+    {
+        "id": "E011",
+        "nom": "Chantier Naval du Lindin",
+        "activites": "Vente et maintenance de navires",
+        "localisation": "Sarzeau (56)",
+        "site": "https://chantierdulindin.com/"
+    },
+    {
+        "id": "E012",
+        "nom": "Chantier Maritime du Crouesty",
+        "activites": "Vente et maintenance de navires",
+        "localisation": "Arzon (56)",
+        "site": "https://chantiermaritimeducrouesty.fr/"
+    },
+    {
+        "id": "E013",
+        "nom": "Naviwatt",
+        "activites": "Construction et entretien de navires électriques",
+        "localisation": "Arzon (56)",
+        "site": "https://www.naviwatt.com/"
+    },
+    {
+        "id": "E014",
+        "nom": "Marinarzon",
+        "activites": "Construction, vente, location et maintenance de navires de plaisance",
+        "localisation": "Arzon (56)",
+        "site": "https://www.marinarzon.fr/"
+    },
+    {
+        "id": "E015",
+        "nom": "Marine Composite",
+        "activites": "Construction, vente et hivernage de navires",
+        "localisation": "Arzon (56)",
+        "site": "https://www.marine-composite.fr/"
+    },
+    {
+        "id": "E016",
+        "nom": "Chantier du Redo",
+        "activites": "Vente et maintenance de navires",
+        "localisation": "Arzon (56)",
+        "site": "http://www.chantier-du-redo.com/"
+    },
+    {
+        "id": "E017",
+        "nom": "Chantier Naval Guillemot",
+        "activites": "Maintenance de navires",
+        "localisation": "Larmor-Baden (56)",
+        "site": "https://www.larmor-baden-nautique.fr/"
+    },
+    {
+        "id": "E018",
+        "nom": "Infinity Nautique",
+        "activites": "Vente, maintenance et hivernage de navires",
+        "localisation": "Baden (56)",
+        "site": "https://infinitynautique.com/"
+    },
+    {
+        "id": "E019",
+        "nom": "Cardot Marine",
+        "activites": "Maintenance et hivernage de navires",
+        "localisation": "Saint-Philibert (56)",
+        "site": "https://www.cardotmarine.fr/"
+    },
+    {
+        "id": "E020",
+        "nom": "No Limit Yacht",
+        "activites": "Vente, location et hivernage de navires",
+        "localisation": "Quiberon (56), Saint-Philbert (56)",
+        "site": "https://nolimityacht.fr/"
+    },
+    {
+        "id": "E021",
+        "nom": "Chantier Nava Kervilor",
+        "activites": "Maintenance et hivernage de navires",
+        "localisation": "Saint-Philibert (56)",
+        "site": "https://www.chantiernavalkervilor.com/"
+    },
+    {
+        "id": "E022",
+        "nom": "Nautic Sport",
+        "activites": "Vente, location, hivernage et maintenance de navires",
+        "localisation": "La Trinité-sur-Mer (56), Carnac Plage (56)",
+        "site": "https://www.nautic-sport.com/"
+    },
+    {
+        "id": "E023",
+        "nom": "Technologie Marine",
+        "activites": "Vente, construction, entretien de navires, fabrication de navires, de pièces composites...",
+        "localisation": "Saint-Philibert (56)",
+        "site": "https://www.technologiemarine.com/"
+    },
+    {
+        "id": "E024",
+        "nom": "Escale Technique",
+        "activites": "Réparation, maintenance, vente, hivernage de navires",
+        "localisation": "Saint-Philibert (56)",
+        "site": "https://escaletechnique.com/"
+    },
+    {
+        "id": "E025",
+        "nom": "Quiberon Nautic",
+        "activites": "Vente, location, hivernage et maintenance de navires",
+        "localisation": "Saint Pierre Quiberon (56)",
+        "site": "https://www.quiberon-nautic.com/accueil/"
+    },
+    {
+        "id": "E026",
+        "nom": "Astus Boats",
+        "activites": "Construction de navires",
+        "localisation": "Brech (56)",
+        "site": "https://www.astusboats.com/"
+    },
+    {
+        "id": "E027",
+        "nom": "Naval Group",
+        "activites": "Construction de bâtiments de guerre, système embarqués, drones militaires",
+        "localisation": "Lorient (56), Brest (29), Guipavas (29)",
+        "site": "https://www.naval-group.com/fr"
+    },
+    {
+        "id": "E028",
+        "nom": "Marine West",
+        "activites": "Vente, location, hivernage et maintenance de navires",
+        "localisation": "Lorient (56), Locmiquélic (56), Bénodet (29), Port La Forêt (29)",
+        "site": "https://www.marine-west.com/"
+    },
+    {
+        "id": "E029",
+        "nom": "SailWood",
+        "activites": "Menuiserie et chantier naval",
+        "localisation": "Lorient (56)",
+        "site": "https://sailwood.fr/"
+    },
+    {
+        "id": "E030",
+        "nom": "Pouldu Naval Bateaux",
+        "activites": "Maintenance et hivernage de navires",
+        "localisation": "Clohars-Carnoët (29)",
+        "site": "https://www.pouldu-naval-bateau.fr/"
+    },
+    {
+        "id": "E031",
+        "nom": "Aven Belon Marine",
+        "activites": "Vente, maintenance et hivernage de navires",
+        "localisation": "Riec-sur-Bélon (29)",
+        "site": "https://www.avenbelonmarine.com/"
+    },
+    {
+        "id": "E032",
+        "nom": "Armor kte",
+        "activites": "Fabrication de navires de plaisance",
+        "localisation": "Névez (29)",
+        "site": "https://www.armorkite.fr/"
+    },
+    {
+        "id": "E033",
+        "nom": "Marée Haute",
+        "activites": "Fabrication, vente, location, maintenance et hivernage de navires",
+        "localisation": "Trégunc (29), Moëlan-Sur-Mer (29), Concarneau (29)",
+        "site": "https://www.mareehaute.fr/"
+    },
+    {
+        "id": "E034",
+        "nom": "JFA Yachts",
+        "activites": "Fabrication et rénovation de navires",
+        "localisation": "Concarneau (29) ",
+        "site": "https://www.jfa-yachts.com/en/"
+    },
+    {
+        "id": "E035",
+        "nom": "Actemium Marine",
+        "activites": "Maintenance électrique et électronique marine",
+        "localisation": "Concarneau (29), Lorient (56)",
+        "site": "https://www.actemium-marine.com/fr/accueil-2/"
+    },
+    {
+        "id": "E036",
+        "nom": "IDB Marine",
+        "activites": "Fabrication et vente de navires",
+        "localisation": "Concarneau (29)",
+        "site": "http://www.idbmarine.fr/"
+    },
+    {
+        "id": "E037",
+        "nom": "Piriou",
+        "activites": "Construction et maintenance de navires",
+        "localisation": "Brest (29), Concarneau (29), Lorient (56)",
+        "site": "https://www.piriou.com/"
+    },
+    {
+        "id": "E038",
+        "nom": "Mer Concept",
+        "activites": "Construction et R&D pour la course au large",
+        "localisation": "Concarneau (29) ",
+        "site": "https://merconcept.com/"
+    },
+    {
+        "id": "E039",
+        "nom": "Port de Concarneau",
+        "activites": "Construction et maintenance navale",
+        "localisation": "Concarneau (29)",
+        "site": "https://www.port-plaisance-concarneau.fr/"
+    },
+    {
+        "id": "E040",
+        "nom": "PL Yachting",
+        "activites": "Vente et maintenance de navires",
+        "localisation": "La Forêt Fouesnant (29)",
+        "site": "https://plyachting.fr/"
+    },
+    {
+        "id": "E041",
+        "nom": "Extrado Yachting",
+        "activites": "Vente, location, hivernage et maintenance de navires",
+        "localisation": "La Forêt Fouesnant (29)",
+        "site": "https://www.extrado.fr/"
+    },
+    {
+        "id": "E042",
+        "nom": "CDK Technologies",
+        "activites": "Construction et vente de navires",
+        "localisation": "La Forêt Fouesnant (29), Lorient (56)",
+        "site": "https://www.cdk-technologies.com/"
+    },
+    {
+        "id": "E043",
+        "nom": "CNSM",
+        "activites": "Location de navires et formations",
+        "localisation": "Combrit (29)",
+        "site": "https://www.cnsm.fr/"
+    },
+    {
+        "id": "E044",
+        "nom": "Pogo Structures",
+        "activites": "Fabrication de navires",
+        "localisation": "Combrit (29)",
+        "site": "https://www.pogostructures.com/"
+    },
+    {
+        "id": "E045",
+        "nom": "Loc Marine Service",
+        "activites": "Vente, maintenance et hivernage de navires",
+        "localisation": "Loctudy (29)",
+        "site": "https://www.locmarineservice.com/"
+    },
+    {
+        "id": "E046",
+        "nom": "Chantier Naval Glehen",
+        "activites": "Construction et réparation de navires",
+        "localisation": "Le Guilvinech (29), Douardenez (29), Loctudy (29)",
+        "site": "https://www.chantier-glehen.com/"
+    },
+    {
+        "id": "E047",
+        "nom": "CCM",
+        "activites": "Construction et réparation de navires",
+        "localisation": "Plobannalec-Lesconil (29)",
+        "site": "https://www.capcavalmarine.fr/"
+    },
+    {
+        "id": "E048",
+        "nom": "Chantier Naval Stratagème",
+        "activites": "Construction, réparation et hivernage de navires",
+        "localisation": "Penmarch (29)",
+        "site": "https://www.chantiernavalstratageme.fr/"
+    },
+    {
+        "id": "E049",
+        "nom": "Plastimer Chantier Naval",
+        "activites": "Construction et réparation de navires",
+        "localisation": "Penmarch (29)",
+        "site": "https://plastimer.com/"
+    },
+    {
+        "id": "E050",
+        "nom": "L'Atelier Du Marin",
+        "activites": "Construction et entretien mécanique de navires",
+        "localisation": "Plozévet (29)",
+        "site": "https://www.latelierdumarin.bzh/"
+    },
+    {
+        "id": "E051",
+        "nom": "Armen Initiative",
+        "activites": "Fabrication de navires",
+        "localisation": "Audierne (29)",
+        "site": "https://armen-initiative.fr/"
+    },
+    {
+        "id": "E052",
+        "nom": "Marine Service",
+        "activites": "Vente, entretien et hivernage de navires",
+        "localisation": "Douardenez (29)",
+        "site": "https://www.marine-service-douarnenez.com/"
+    },
+    {
+        "id": "E053",
+        "nom": "Fondation Tara Océan",
+        "activites": "Navigation, recherche",
+        "localisation": "",
+        "site": "https://fondationtaraocean.org/"
+    },
+    {
+        "id": "E054",
+        "nom": "La Scapêche (fiière pêche du groupe Mousquetaires)",
+        "activites": "Pêche",
+        "localisation": "Lorient (56)",
+        "site": "https://www.mousquetaires.com/nos-filiales/agromousquetaires/nos-poles-de-performance/la-filiere-peche-agromousquetaires/"
+    },
+    {
+        "id": "E055",
+        "nom": "Ponant",
+        "activites": "Croisières",
+        "localisation": "",
+        "site": "https://www.ponant.com/"
+    },
+    {
+        "id": "E056",
+        "nom": "Genavir",
+        "activites": "Navigation, recherche",
+        "localisation": "Plouzané (29)",
+        "site": "https://www.genavir.fr/"
+    },
+    {
+        "id": "E057",
+        "nom": "Socarenam ",
+        "activites": "Fabrication de navires (civils, militaires, recherche)",
+        "localisation": "Saint-Malo (35)",
+        "site": "https://socarenam.com/fr/"
+    },
+    {
+        "id": "E058",
+        "nom": "Coprexma",
+        "activites": "Conception et fabrication de navires",
+        "localisation": "Pont L'abbé (29)",
+        "site": "https://www.coprexma.fr/"
+    },
+    {
+        "id": "E059",
+        "nom": "Vedettes de l'Odet",
+        "activites": "Croisières",
+        "localisation": "Bénodet (29), Concarneau (29), La Forêt-Fouesnant (29), Beg Meil (29), Sainte Marine (29), Loctudy (29), Île-Tudy (29)",
+        "site": "https://www.vedettes-odet.com/"
+    },
+    {
+        "id": "E060",
+        "nom": "Chantier Naval Hénaff",
+        "activites": "Construction et réparation de navires",
+        "localisation": "Le Guilvinec (29)",
+        "site": "https://www.chantier-naval-henaff.fr/"
+    },
+    {
+        "id": "E061",
+        "nom": "Compagnie Maritime BreizhGo Penn Ar Bed",
+        "activites": "Croisières, navigation",
+        "localisation": "Brest (29)",
+        "site": "https://pennarbed.breizhgo.bzh/"
+    },
+    {
+        "id": "E062",
+        "nom": "Ateliers Mécaniques Lorientais",
+        "activites": "Industrie navale",
+        "localisation": "Lorient (56)",
+        "site": "https://aml-naval-industrie.com/"
+    },
+    {
+        "id": "E063",
+        "nom": "Chantier du Guip",
+        "activites": "Menuiserie navale",
+        "localisation": "Brest (29), Île aux Moines (56)",
+        "site": "https://chantierduguip.com/accueil/accueil/"
+    },
+    {
+        "id": "E064",
+        "nom": "Mauric",
+        "activites": "Ingénierie navale",
+        "localisation": "Brest (29), Lannion (22)",
+        "site": "https://www.mauric.com/"
+    },
+    {
+        "id": "E065",
+        "nom": "Brittany Ferries",
+        "activites": "Croisières",
+        "localisation": "Roscoff (29)",
+        "site": "https://www.brittany-ferries.fr/"
+    },
+    {
+        "id": "E066",
+        "nom": "Tria Vela",
+        "activites": "Croisières",
+        "localisation": "Trébeurden (22)",
+        "site": "https://www.tria-vela.com/"
+    },
+    {
+        "id": "E067",
+        "nom": "Compagnie Française du Thon Océanique",
+        "activites": "Compagnie de pêche",
+        "localisation": "Concarneau (29)",
+        "site": "https://cfto.eu/"
+    },
+    {
+        "id": "E068",
+        "nom": "ADD Technologies",
+        "activites": "Ingénierie navale",
+        "localisation": "Lorient (56)",
+        "site": "https://add-modules.com/fr"
+    },
+    {
+        "id": "E069",
+        "nom": "Agence Maritime de l'Ouest",
+        "activites": "Manutention maritme",
+        "localisation": "Paimpol (22)",
+        "site": "https://www.amo-ship.com/"
+    },
+    {
+        "id": "E070",
+        "nom": "Ship ST",
+        "activites": "Etudes et conception navale",
+        "localisation": "Lorient (56)",
+        "site": "https://www.ship-st.com/"
+    },
+    {
+        "id": "E071",
+        "nom": "Agir",
+        "activites": "Recherche et développement, étude et conception",
+        "localisation": "Brest (29), Lanester (56)",
+        "site": "https://agir-ingenierie.fr/"
+    },
+    {
+        "id": "E072",
+        "nom": "Ailes Marines (Iberdrola)",
+        "activites": "Energie éolienne en mer",
+        "localisation": "Saint-Brieuc (22)",
+        "site": "https://ailes-marines.bzh/"
+    },
+    {
+        "id": "E073",
+        "nom": "Alpha Techniques",
+        "activites": "Ingénierie navale",
+        "localisation": "Brest (29)",
+        "site": "https://www.alpha-techniques.com/"
+    },
+    {
+        "id": "E074",
+        "nom": "Anemo ",
+        "activites": "Ingénierie navale",
+        "localisation": "Lorient (56)",
+        "site": "https://www.cabinet-anemo.fr/"
+    },
+    {
+        "id": "E075",
+        "nom": "Armoric Concept",
+        "activites": "Cabinet d'expertise maritime",
+        "localisation": "Muzillac (56)",
+        "site": "https://armoric-concept.com/"
+    },
+    {
+        "id": "E076",
+        "nom": "Berthelot Shipchandler",
+        "activites": "Manutention offshore",
+        "localisation": "Brest (29)",
+        "site": "https://www.berthelot.fr/fr/accueil"
+    },
+    {
+        "id": "E077",
+        "nom": "Blue Water Shipping",
+        "activites": "Manutention offshore",
+        "localisation": "Brest (29)",
+        "site": "https://www.bws.net/"
+    },
+    {
+        "id": "E078",
+        "nom": "Bopp",
+        "activites": "Equipementier de navires (systèmes hydrauliques et électriques)",
+        "localisation": "Lanveoc (29)",
+        "site": "https://www.bopp.fr/"
+    },
+    {
+        "id": "E079",
+        "nom": "Bord à Bord",
+        "activites": "Fabrication de navires",
+        "localisation": "Plestin-les-Grèves (22)",
+        "site": "https://bord-a-bord-boat.com/"
+    },
+    {
+        "id": "E080",
+        "nom": "Bronswerk",
+        "activites": "Ingénierie navale",
+        "localisation": "Lorient (56), Quimper (29)",
+        "site": "https://bronswerkgroup.com/"
+    },
+    {
+        "id": "E081",
+        "nom": "CMV Amphibie",
+        "activites": "Construction et maintenance navale",
+        "localisation": "Le Vivier-sur-Mer (35)",
+        "site": "http://www.cmv-amphibie.com/fr/"
+    },
+    {
+        "id": "E082",
+        "nom": "CNN MCO",
+        "activites": "Construction et maintenance navale",
+        "localisation": "Guipavas (29)",
+        "site": "https://www.cnn-mco.fr/"
+    },
+    {
+        "id": "E083",
+        "nom": "CT Mer Forte",
+        "activites": "Ingénierie et architecture navale",
+        "localisation": "La Forêt-Fousnant (29)",
+        "site": "https://www.merforte.com/"
+    },
+    {
+        "id": "E084",
+        "nom": "CTL (Groupe Hervé)",
+        "activites": "Montage de chaudronnerie et structures métalliques pour la construction navale militaire",
+        "localisation": "Caudan (56)",
+        "site": "https://www.ctl-lorient.fr/"
+    },
+    {
+        "id": "E085",
+        "nom": "DynamOcean",
+        "activites": "Bureau d’études spécialisé en océanographie",
+        "localisation": "Lannion (22)",
+        "site": "https://www.dynamocean.com/fr"
+    },
+    {
+        "id": "E086",
+        "nom": "Efinor",
+        "activites": "Conception et fabrication de navires",
+        "localisation": "Paimpol (22)",
+        "site": "https://www.efinor.com/"
+    },
+    {
+        "id": "E087",
+        "nom": "Emeraude Moteus Systèmes",
+        "activites": "Motorisation navale",
+        "localisation": "Miniac-Morvan (35)",
+        "site": "https://www.emeraudemoteurs.fr/"
+    },
+    {
+        "id": "E088",
+        "nom": "ENAG",
+        "activites": "Ingénierie navale",
+        "localisation": "Quimper (29)",
+        "site": "https://www.enag.fr/"
+    },
+    {
+        "id": "E089",
+        "nom": "Fonderie Hellin",
+        "activites": "Industrie navale",
+        "localisation": "Kervignac (56)",
+        "site": "https://www.fonderie-hellin.fr/"
+    },
+    {
+        "id": "E090",
+        "nom": "France Helices",
+        "activites": "Industrie navale",
+        "localisation": "Concarneau (29)",
+        "site": "https://www.francehelices.fr/"
+    },
+    {
+        "id": "E091",
+        "nom": "Gaïa - Terre bleue",
+        "activites": "Bureau d'études",
+        "localisation": "Concarneau (29)",
+        "site": "https://www.gaia-terrebleue.fr/"
+    },
+    {
+        "id": "E092",
+        "nom": "GSEA Design",
+        "activites": "Conception et ingénierie navale",
+        "localisation": "Lorient (56)",
+        "site": "https://www.gseadesign.com/"
+    },
+    {
+        "id": "E093",
+        "nom": "Hydrau - Pêche",
+        "activites": "Industrie de pêche",
+        "localisation": "Quimper (29)",
+        "site": "https://hydrau-peche.com/"
+    },
+    {
+        "id": "E094",
+        "nom": "Hydrocorp",
+        "activites": "Ingénierie hydraulique",
+        "localisation": "Lorient (56), Queven (56), Rennes (35)",
+        "site": "https://www.hydrocorp.fr/"
+    },
+    {
+        "id": "E095",
+        "nom": "Hydrofluid Technologies",
+        "activites": "Ingénierie hydraulique",
+        "localisation": "Caudan (56), Lorient (56), Brest (29)",
+        "site": "https://www.hydrofluidtechnologies.com/"
+    },
+    {
+        "id": "E096",
+        "nom": "Ingeliance",
+        "activites": "Conception, contruction et ingénierie navale",
+        "localisation": "Lorient (56), Brest (29), Morlaix (29)",
+        "site": "https://ingeliance.com/"
+    },
+    {
+        "id": "E097",
+        "nom": "Inyanga Marine",
+        "activites": "Manutention offshore",
+        "localisation": "Rennes (35)",
+        "site": "https://www.inyangamarine.com/"
+    },
+    {
+        "id": "E098",
+        "nom": "TSM",
+        "activites": "Assistance en mer, études maritimes",
+        "localisation": "Brest (29)",
+        "site": "https://www.tsmgroup.eu/"
+    },
+    {
+        "id": "E099",
+        "nom": "Société Ismer",
+        "activites": "Travaux maritimes et sous-marins, inspection maritime",
+        "localisation": "Lanester (56)",
+        "site": "https://societe-ismer.com/"
+    },
+    {
+        "id": "E100",
+        "nom": "Kerboat Services",
+        "activites": "Croisière, course au large",
+        "localisation": "Saint-Malo (35), Dinard (35), Cancale (35), Brest (29)",
+        "site": "https://www.kerboat.com/"
+    },
+    {
+        "id": "E101",
+        "nom": "Le Gac",
+        "activites": "Mécanique navale",
+        "localisation": "Baud (56), Lorient (56)",
+        "site": "https://legac-materiaux.com/"
+    },
+    {
+        "id": "E102",
+        "nom": "Le Pocher",
+        "activites": "Motorisation navale",
+        "localisation": "Mellac (29)",
+        "site": "https://www.lepocher.fr/"
+    },
+    {
+        "id": "E103",
+        "nom": "Manifeste",
+        "activites": "Bureau d'études en énergie marine",
+        "localisation": "Brest (29)",
+        "site": "https://www.manifeste-energie.com/"
+    },
+    {
+        "id": "E104",
+        "nom": "Marinelec",
+        "activites": "Equipementier électronique pour la marine",
+        "localisation": "Quimper (29)",
+        "site": "https://www.marinelec.com/fr/"
+    },
+    {
+        "id": "E105",
+        "nom": "ML Littoral",
+        "activites": "Fourniture d’équipement maritime et de levage",
+        "localisation": "Hennebont (56)",
+        "site": "https://ml-littoral.fr/"
+    },
+    {
+        "id": "E106",
+        "nom": "Groupe Metalenergy",
+        "activites": "Industrie navale, mécanique navale, manutention",
+        "localisation": "Lorient (56), Brest (29)",
+        "site": "https://metalenergy.fr/"
+    },
+    {
+        "id": "E107",
+        "nom": "Navaleo",
+        "activites": "Dépollution et déconstruction navale",
+        "localisation": "Guipavas (29)",
+        "site": "https://www.navaleo.fr/"
+    },
+    {
+        "id": "E108",
+        "nom": "NavOcean",
+        "activites": "Shipmanagement & crewmanagement",
+        "localisation": "Concarneau (29)",
+        "site": "https://www.compagnie-navocean.com/"
+    },
+    {
+        "id": "E109",
+        "nom": "Nemo Engineering",
+        "activites": "Ingénierie marine",
+        "localisation": "Lorient (56)",
+        "site": "https://nemo-engineering.eu/"
+    },
+    {
+        "id": "E110",
+        "nom": "Ouest Sécurité Marine",
+        "activites": "Service de sécurité maritime",
+        "localisation": "Pont L'abbé (29), Lorient (56), Saint-Malo (35)",
+        "site": "https://ouestsecuritemarine.com/"
+    },
+    {
+        "id": "E111",
+        "nom": "Brest Port",
+        "activites": "Exploitation du port de Brest",
+        "localisation": "Brest (29)",
+        "site": "https://www.brest.port.bzh/"
+    },
+    {
+        "id": "E112",
+        "nom": "Prestia",
+        "activites": "Industrie navale",
+        "localisation": "Val d'Oust (56), Hanvec (29)",
+        "site": "https://www.prestia.fr/"
+    },
+    {
+        "id": "E113",
+        "nom": "Prolarge",
+        "activites": "Opérateur de projets maritimes",
+        "localisation": "Ploemeur (56)",
+        "site": "https://www.prolarge.fr/index.php/fr/"
+    },
+    {
+        "id": "E114",
+        "nom": "Quay Point Sollutions",
+        "activites": "Transport maritime",
+        "localisation": "Ergué-Gabéric (29)",
+        "site": "https://www.quay-point-solutions.com/"
+    },
+    {
+        "id": "E115",
+        "nom": "Echafaudages Abarnou",
+        "activites": "Confinement de bâtiment naval",
+        "localisation": "Plabennec (29), Guidel, (56), Plerneuf (22), Tregunc (29)",
+        "site": "https://www.abarnou-montages.com/"
+    },
+    {
+        "id": "E116",
+        "nom": "Sea Side Tech",
+        "activites": "Electronique maritime",
+        "localisation": "Mellac (29)",
+        "site": "https://www.seasidetech.net/"
+    },
+    {
+        "id": "E117",
+        "nom": "Segula Technologies",
+        "activites": "Industrie, ingénierie navale",
+        "localisation": "Bruz(35), Saint-Jacques-de-la-Lande (35), Lanester (56), ",
+        "site": "https://www.segulatechnologies.com/fr/"
+    },
+    {
+        "id": "E118",
+        "nom": "Comité Départemental des pêches maritimes et des élevages marins",
+        "activites": "Industrie de pêche",
+        "localisation": "Auray (56), Lorient (56)",
+        "site": "https://www.comite-peches.fr/"
+    },
+    {
+        "id": "E119",
+        "nom": "Ifremer",
+        "activites": "Recherche marine",
+        "localisation": "Plouzané (29)",
+        "site": "https://www.ifremer.fr/fr"
+    },
+    {
+        "id": "E120",
+        "nom": "IDmer",
+        "activites": "Recherche en biologie et agroalimentaire marin",
+        "localisation": "Lorient (56)",
+        "site": "https://www.idmer.com/"
+    },
+    {
+        "id": "E121",
+        "nom": "Ship As A Service",
+        "activites": "Opérateur de projets maritimes",
+        "localisation": "Lorient (56)",
+        "site": "https://www.shipasaservice.fr/"
+    },
+    {
+        "id": "E122",
+        "nom": "SLPN",
+        "activites": "Peinture marine ",
+        "localisation": "Brest (29), Lorient (56)",
+        "site": "http://www.slpn.fr/"
+    },
+    {
+        "id": "E123",
+        "nom": "SMM Composites",
+        "activites": "Industrie navale",
+        "localisation": "Lanester (56)",
+        "site": "https://smm-composites.com/"
+    },
+    {
+        "id": "E124",
+        "nom": "SNEF",
+        "activites": "Industrie navale",
+        "localisation": "Rennes (35), Brest (29), Caudan (56), Lanester (56), Quimper (29), Concarneau (29)",
+        "site": "https://www.snef.fr/"
+    },
+    {
+        "id": "E125",
+        "nom": "Solorpec",
+        "activites": "Peinture marine ",
+        "localisation": "Brest (29), Lorient (56)",
+        "site": "https://solorpec.fr/"
+    },
+    {
+        "id": "E126",
+        "nom": "SPRD",
+        "activites": "Manutention navale, industrie, mécanique",
+        "localisation": "Brest (29), Noyal sur Vilaine (35), Lorient, 56)",
+        "site": "https://m.sprd-bretagne.fr/"
+    },
+    {
+        "id": "E127",
+        "nom": "Studec",
+        "activites": "Informatique industrielle",
+        "localisation": "Brest (29)",
+        "site": "https://www.studec.fr/"
+    },
+    {
+        "id": "E128",
+        "nom": "Technorope",
+        "activites": "Construction navale",
+        "localisation": "Lorient (56)",
+        "site": "https://tecnorope.com/"
+    },
+    {
+        "id": "E129",
+        "nom": "Talos",
+        "activites": "Solutions digitales maritimes",
+        "localisation": "Ploemeur (56)",
+        "site": "https://www.thalos.fr/"
+    },
+    {
+        "id": "E130",
+        "nom": "WICS",
+        "activites": "Management de projet navals",
+        "localisation": "Brest (29)",
+        "site": "https://www.wics.eu/"
+    },
+    {
+        "id": "E131",
+        "nom": "Fouré Lagadec",
+        "activites": "Conception, construction et maintenance industrielle",
+        "localisation": "Brest (29)",
+        "site": "https://fourelagadec.com/"
+    },
+    {
+        "id": "E132",
+        "nom": "Kerlann Marine",
+        "activites": "Travaux subaquatiques",
+        "localisation": "Surzur (56)",
+        "site": "https://www.kerlann-marine.fr/"
+    },
+    {
+        "id": "E133",
+        "nom": "NPI Ouest",
+        "activites": "Nettoyage en réparation navale, maintenance pétrolière",
+        "localisation": "Brest (29)",
+        "site": "https://www.npiouest.fr/"
+    },
+    {
+        "id": "E134",
+        "nom": "Ekium",
+        "activites": "Stratégie industrielle, la conception de leurs équipements et bâtiments, la gestion de la construction, le pilotage de la production et la maintenance des installations",
+        "localisation": "Brest (29), Lorient (56)",
+        "site": "https://www.ekium.eu/"
+    },
+    {
+        "id": "E135",
+        "nom": "Eolink",
+        "activites": "Recherche et innovation en énergie éolienne ",
+        "localisation": "Brest (29)",
+        "site": "https://eolink.fr/"
+    },
+    {
+        "id": "E136",
+        "nom": "Guinard Energies Nouvelles",
+        "activites": "Concepteur d’hydroliennes et de solutions énergétiques renouvelables",
+        "localisation": "Brest (29)",
+        "site": "https://www.guinard-energies.bzh/fr/guinard-energies/"
+    },
+    {
+        "id": "E137",
+        "nom": "Entech",
+        "activites": "Energie marine",
+        "localisation": "Quimper (29)",
+        "site": "https://entech-se.com/"
+    },
+    {
+        "id": "E138",
+        "nom": "Sabella",
+        "activites": "Energie marine",
+        "localisation": "Quimper (29)",
+        "site": "https://www.sabella.fr/"
+    },
+    {
+        "id": "E139",
+        "nom": "France Energies Marines",
+        "activites": "Energie marine",
+        "localisation": "Plouzané (29)",
+        "site": "https://www.france-energies-marines.org/"
+    },
+    {
+        "id": "E140",
+        "nom": "Ocean Data Lab",
+        "activites": "Centre de recherche",
+        "localisation": "Plouzané (29)",
+        "site": "https://www.oceandatalab.com/home"
+    },
+    {
+        "id": "E141",
+        "nom": "Actimar",
+        "activites": "Océanographie",
+        "localisation": "Brest (29)",
+        "site": "https://www.actimar.fr/fr/accueil/"
+    },
+    {
+        "id": "E142",
+        "nom": "TBM Environnement",
+        "activites": "Océanographie",
+        "localisation": "Plougoumelen (56)",
+        "site": "https://tbm-environnement.com/"
+    },
+    {
+        "id": "E143",
+        "nom": "Le Floch Dépollution",
+        "activites": "Dépollution marine",
+        "localisation": "Sainte-Sève (29)",
+        "site": "https://www.leflochdepollution.com/"
+    },
+    {
+        "id": "E144",
+        "nom": "Office Français de la Biodiversité",
+        "activites": "Recherche marine",
+        "localisation": "Vannes (56), Brest (29), Plouzané (29), Quimper (29), Concarneau (29), Saint-Brieuc (22), Saint-Malo (35), Rennes (35)",
+        "site": "https://ofb.gouv.fr/"
+    },
+    {
+        "id": "E145",
+        "nom": "CEDRE",
+        "activites": "Expert en pollution accidentelle des eaux",
+        "localisation": "Brest (29)",
+        "site": "https://wwz.cedre.fr/Qui-sommes-nous"
+    },
+    {
+        "id": "E146",
+        "nom": "Cerema",
+        "activites": "Amenagement et protection du territoire",
+        "localisation": "Plouzané (29), Saint-Brieuc (22)",
+        "site": "https://www.cerema.fr/fr"
+    },
+    {
+        "id": "E147",
+        "nom": "Ceva",
+        "activites": "Centre d'études des algues",
+        "localisation": "Pleubian (22)",
+        "site": "https://www.ceva-algues.com/"
+    },
+    {
+        "id": "E148",
+        "nom": "IRD",
+        "activites": "Institut de recherche",
+        "localisation": "Plouzané (29)",
+        "site": "https://www.ird.fr/"
+    },
+    {
+        "id": "E149",
+        "nom": "Institut polaire Français",
+        "activites": "Institut de recherche",
+        "localisation": "Plouzané (29)",
+        "site": "https://institut-polaire.fr/fr/"
+    },
+    {
+        "id": "E150",
+        "nom": "Laboratoire de Physiologie et Génomique des Poissons",
+        "activites": "Institut de recherche",
+        "localisation": "Rennes (35)",
+        "site": "https://lpgp.rennes.hub.inrae.fr/"
+    },
+    {
+        "id": "E151",
+        "nom": "Labocéa",
+        "activites": "Laboratoire de recherche environnementale",
+        "localisation": "Brest (29), Combourg (35), Quimper (29), Fougères(35), Saint-Brieuc (22)",
+        "site": "https://www.labocea.fr/"
+    },
+    {
+        "id": "E152",
+        "nom": "EHM",
+        "activites": "Motorisation navale",
+        "localisation": "Chateaulin (29)",
+        "site": "https://www.ehm.bzh/"
+    },
+    {
+        "id": "E153",
+        "nom": "Fairscope",
+        "activites": "Institut de recherche",
+        "localisation": "Saint-Martin des Champs (29)",
+        "site": "https://www.fairscope.com/"
+    },
+    {
+        "id": "E154",
+        "nom": "Heol Sailing - Chantier Naval de la Passagère",
+        "activites": "Construction et innovation navale, fret ",
+        "localisation": "Saint-Malo (35)",
+        "site": "https://www.heol.bzh/"
+    },
+    {
+        "id": "E155",
+        "nom": "Groupe Maritime Kuhn",
+        "activites": "Manutention, transit, affrètement",
+        "localisation": "Brest (29), Concarneau (29), Lorient (56), Saint-Malo (35), Saint-Brieuc (22)",
+        "site": "https://maritimekuhn.com/"
+    },
+    {
+        "id": "E156",
+        "nom": "Sellor",
+        "activites": "Gestion de ports de plaisance",
+        "localisation": "Lorient (56)",
+        "site": "https://www.sellor.com/"
+    },
+    {
+        "id": "E157",
+        "nom": "ORC",
+        "activites": "Construction et innovation navale",
+        "localisation": "Lorient (56)",
+        "site": "https://ocean-rider-catamarans.com/"
+    },
+    {
+        "id": "E158",
+        "nom": "Marsaudon Composites",
+        "activites": "Construction et innovation navale",
+        "localisation": "Lorient (56)",
+        "site": "https://ocean-rider-catamarans.com/"
+    },
+    {
+        "id": "E159",
+        "nom": "Etoile Marine Croisière",
+        "activites": "Croisières",
+        "localisation": "Saint-Malo (35)",
+        "site": "https://www.etoile-marine.com/"
+    },
+    {
+        "id": "E160",
+        "nom": "Ouest Composites",
+        "activites": "Industrie navale",
+        "localisation": "Auray (56) ",
+        "site": "https://www.ouest-composites.com/"
+    },
+    {
+        "id": "E161",
+        "nom": "Multiplast",
+        "activites": "Industrie navale",
+        "localisation": "Vannes (56) ",
+        "site": "https://www.multiplast.eu/"
+    },
+    {
+        "id": "E162",
+        "nom": "Oxymax",
+        "activites": "Industrie navale",
+        "localisation": "Sizun (29)",
+        "site": "https://www.oxymax.fr/"
+    },
+    {
+        "id": "E163",
+        "nom": "Cité Marine",
+        "activites": "Industrie et services navals",
+        "localisation": "Kervignac (56)",
+        "site": "https://www.cite-marine.fr/"
+    },
+    {
+        "id": "E164",
+        "nom": "Protecno",
+        "activites": "Electronique maritime",
+        "localisation": "Brest (29)",
+        "site": "https://protecno.fr/"
+    },
+    {
+        "id": "E165",
+        "nom": "Exail",
+        "activites": "Industrie technologique",
+        "localisation": "Brest (29), Lannion (22)",
+        "site": "https://www.exail-technologies.com/fr/"
+    },
+    {
+        "id": "E166",
+        "nom": "Damen ",
+        "activites": "Maintenance navale, logiciels",
+        "localisation": "Brest (29)",
+        "site": "https://www.damen.com/"
+    },
+    {
+        "id": "E167",
+        "nom": "Thales",
+        "activites": "Ingénierie",
+        "localisation": "Rennes (35), Brest (29) ",
+        "site": "https://www.thalesgroup.com/fr"
+    },
+    {
+        "id": "E168",
+        "nom": "Reboat",
+        "activites": "Construction navale",
+        "localisation": "Lorient (56)",
+        "site": "https://reboat.com/"
+    },
+    {
+        "id": "E169",
+        "nom": "Tricat",
+        "activites": "Construction navale",
+        "localisation": "Vannes (56)",
+        "site": "https://www.trimaran-tricat.com/"
+    },
+    {
+        "id": "E170",
+        "nom": "Gourenez Nautic",
+        "activites": "Maintenance navale et location de navires",
+        "localisation": "Lézardieux (22)",
+        "site": "https://gourenez-nautic.com/"
+    },
+    {
+        "id": "E171",
+        "nom": "Dream Racer Boat",
+        "activites": "Maintenance navale",
+        "localisation": "Quimperlé (29)",
+        "site": "https://dreamracerboats.com/en/"
+    },
+    {
+        "id": "E172",
+        "nom": "ADN Yachts",
+        "activites": "Maintenance navale, vente et location de navires",
+        "localisation": "Arzon (56), La Trinité sur Mer (56)",
+        "site": "https://www.adn-yachts.com/"
+    },
+    {
+        "id": "E173",
+        "nom": "Ufast ",
+        "activites": "Construction navale",
+        "localisation": "Quimper (29)",
+        "site": "https://www.ufast-shipyard.com/"
+    },
+    {
+        "id": "E174",
+        "nom": "Rider Marine",
+        "activites": "Conception et construction navale",
+        "localisation": "Quimperlé (29)",
+        "site": "https://www.rider-marine.fr/"
+    },
+    {
+        "id": "E175",
+        "nom": "Fil Marine",
+        "activites": "Maintenance navale, vente et location de navires",
+        "localisation": "Saint-Cast-le-Guildo (22)",
+        "site": "https://www.fil-marine.com/"
+    },
+    {
+        "id": "E176",
+        "nom": "Atlantic Assistance Marine",
+        "activites": "Maintenance navale et dépannage",
+        "localisation": "Lorient (56)",
+        "site": "https://www.atlantic-assistance-marine.com/"
+    },
+    {
+        "id": "E177",
+        "nom": "Plasmor",
+        "activites": "Construction navale",
+        "localisation": "Bains sur Oust (35)",
+        "site": "https://www.plasmor.fr/"
+    },
+    {
+        "id": "E178",
+        "nom": "JPK",
+        "activites": "Conception et construction navale",
+        "localisation": "Larmor-Plage (56)",
+        "site": "https://www.jpk.fr/"
+    },
+    {
+        "id": "E179",
+        "nom": "Boreal Yachts",
+        "activites": "Conception et construction navale",
+        "localisation": "Minihy - Tréguier (22)",
+        "site": "https://www.boreal-yachts.com/"
+    },
+    {
+        "id": "E180",
+        "nom": "Futuna Yachts",
+        "activites": "Conception et construction navale",
+        "localisation": "Bruz (35)",
+        "site": "http://www.futuna-yachts.com/fr/"
+    },
+    {
+        "id": "E181",
+        "nom": "Kership",
+        "activites": "Conception et construction navale",
+        "localisation": "Concarneau (29)",
+        "site": "https://www.kership.com/"
+    },
+    {
+        "id": "E182",
+        "nom": "Ocean Data System",
+        "activites": "Electronique marine",
+        "localisation": "Ploemeur (56)",
+        "site": "https://www.oceandatasystem.com/"
+    },
+    {
+        "id": "E183",
+        "nom": "DK Innovation",
+        "activites": "Electronique marine",
+        "localisation": "Plérin (22)",
+        "site": "https://www.dkinnovation.fr/"
+    },
+    {
+        "id": "E184",
+        "nom": "Heol Design",
+        "activites": "Electronique marine",
+        "localisation": "Pleumeur (22)",
+        "site": "https://www.heoldesign.com/"
+    },
+    {
+        "id": "E185",
+        "nom": "NKE Marine Electronics",
+        "activites": "Electronique marine",
+        "localisation": "Hennebont (56)",
+        "site": "https://nke-marine-electronics.fr/"
+    },
+    {
+        "id": "E186",
+        "nom": "Seatronic",
+        "activites": "Electricité et informatique marine",
+        "localisation": "Saint-Malo (35)",
+        "site": "https://www.seatronic.fr/"
+    },
+    {
+        "id": "E187",
+        "nom": "Navicom",
+        "activites": "Electronique marine",
+        "localisation": "Quimper (29)",
+        "site": "https://www.navicom.fr/"
+    },
+    {
+        "id": "E188",
+        "nom": "Dep'tron",
+        "activites": "Electronique marine",
+        "localisation": "Arzon (56) ",
+        "site": "https://www.deptron.fr/"
+    },
+    {
+        "id": "E189",
+        "nom": "Nautic Groupe",
+        "activites": "Electronique marine",
+        "localisation": "Brest (29), Carantec (29), Morlaix (29)",
+        "site": "https://www.nauticgroupe.fr/"
+    },
+    {
+        "id": "E190",
+        "nom": "Elekty",
+        "activites": "Electricité marine",
+        "localisation": "Pédernec (22)",
+        "site": "https://www.elekty.bzh/"
+    },
+    {
+        "id": "E191",
+        "nom": "Pixel sur mer",
+        "activites": "Electronique marine",
+        "localisation": "Lorient (56), Brest (29)",
+        "site": "https://www.pixelsurmer.com/fr/"
+    }
 ]
