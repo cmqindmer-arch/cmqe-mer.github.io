@@ -24,14 +24,19 @@ void main() async {
   // Get the wanted sheets and convert them to csv
   final metierCsv = sheets["Métiers"]!.toCsv();
   final formationsCsv = sheets["Formations"]!.toCsv();
-  final entreprisesCsv = sheets["Entreprises"]!.toCsv();
+
+  // Unused for new version, entreprises are determined from metiers
+  // final entreprisesCsv = sheets["Entreprises"]!.toCsv();
 
   // Tranform the csv to json
   final metierJson = MetiersConverter().convertCsvToJson(metierCsv);
   final formationsJson = FormationsConverter().convertCsvToJson(formationsCsv);
-  final entreprisesJson = EntreprisesConverter().convertCsvToJson(
-    entreprisesCsv,
-  );
+
+  // Unused for new version
+  // final entreprisesJson = EntreprisesConverter().convertCsvToJson(
+  //   entreprisesCsv,
+  // );
+  final entreprisesJson = entreprisesFromMetier(metierJson: metierJson);
 
   // Generate the relations
   final relationsJson = generateRelations(
