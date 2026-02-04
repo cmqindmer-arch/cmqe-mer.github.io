@@ -1,1 +1,1090 @@
-[{"id":"F001","nom":"Bac Pro CGEM","niveau":"Bac Pro","etablissement":"Lycée Maritime de Guilvinech, Lycée Maritime de Paimpol, Lycée Maritime de Saint-Malo, CEFCM (Centre Européen de Formation Continue Maritime), Lycée maritime d'Etel","ville":"Guilvinec"},{"id":"F002","nom":"Bac Pro Cultures Marines","niveau":"Bac Pro","etablissement":"Lycée Maritime de Saint-Malo, Lycée maritime d'Etel","ville":"Saint-Malo"},{"id":"F003","nom":"Bac Pro Electromécanicien marine","niveau":"Bac Pro","etablissement":"Lycée Maritime de Guilvinech, Lycée Maritime de Saint-Malo","ville":"Guilvinec"},{"id":"F004","nom":"Bac Pro Electronique marine","niveau":"Bac Pro","etablissement":"Lycée Maritime de Paimpol","ville":"Paimpol"},{"id":"F005","nom":"Bac Pro Maintenance Nautique","niveau":"Bac Pro","etablissement":"GRETA CFA Bretagne Sud, Lycée Maritime de Paimpol","ville":"Lorient, Paimpol"},{"id":"F006","nom":"Bac Pro Naviguant Pont et Machine","niveau":"Bac Pro","etablissement":"Lycée maritime d'Etel","ville":"Etel"},{"id":"F007","nom":"BAC PRO TCI - Technicien en Chaudronnerie Industrielle","niveau":"Bac Pro","etablissement":"UIMM Bretagne, Lycées Bretagne","ville":"Bruz, Plérin, Lorient, Brest, Quimper, Rennes, Moalis, Saint-Malo, Guingamp, Vannes"},{"id":"F008","nom":"BPJEPS spécialité éducateur sportif mention activités physiques pour tous","niveau":"","etablissement":"IRSS","ville":"Rennes, Brest"},{"id":"F009","nom":"BTS Aéronautique","niveau":"BTS","etablissement":"Lycée Tristan Corbière","ville":"Morlaix"},{"id":"F010","nom":"BTS AQUACOLE","niveau":"BTS","etablissement":"CEFCM (Centre Européen de Formation Continue Maritime), Lycée Maritime de Saint-Malo","ville":"Saint-Malo"},{"id":"F011","nom":"BTS CICN - Conception et Industrialisation en Construction Navale","niveau":"BTS","etablissement":"UIMM Bretagne","ville":"Lorient"},{"id":"F012","nom":"BTS CIEL","niveau":"BTS","etablissement":"","ville":""},{"id":"F013","nom":"BTS Comptabilité & Gestion","niveau":"BTS","etablissement":"MAESTRIS Rennes, AFOREM Rennes, Faculté des Métiers, AFTEC Vannes, Lycée Saint-Paul Vannes, ...","ville":"Rennes, Vannes, Lorient, Brest"},{"id":"F014","nom":"BTS CRCI - Conception et Réalisation en Chaudronnerie Industrielle","niveau":"BTS","etablissement":"UIMM Bretagne","ville":""},{"id":"F015","nom":"BTS dans la Marine nationale","niveau":"BTS","etablissement":"Lycée Naval","ville":"Brest"},{"id":"F016","nom":"BTS Électrotechnique","niveau":"BTS","etablissement":"GRETA CFA Bretagne Sud, AREP","ville":"Lorient, Quimper"},{"id":"F017","nom":"BTS Management en hôtellerie et restauration","niveau":"BTS","etablissement":"GRETA CFA Est Bretagne","ville":"Rennes"},{"id":"F018","nom":"BTS MASEN","niveau":"BTS","etablissement":"Lycée Maritime de Saint-Malo, Lycée Maritime de Paimpol","ville":"Saint-Malo"},{"id":"F019","nom":"BTS Mécatronique navale","niveau":"BTS","etablissement":"Lycée Maritime de Paimpol, Lycée Maritime de Saint-Malo, Lycée Maritime de Guilvinech","ville":"Paimpol, Saint-Malo"},{"id":"F020","nom":"BTS MS SP - Maintenance des Systèmes","niveau":"Bac+3","etablissement":"UIMM Bretagne","ville":""},{"id":"F021","nom":"BTS Pêche et gestion de l'environnement marin (PGEM)","niveau":"BTS","etablissement":"Lycée Maritime de Guilvinech, Lycée Maritime de Saint-Malo","ville":"Guilvinec"},{"id":"F022","nom":"BTS Services Informatiques aux Organisations","niveau":"Bac+3","etablissement":"CMA Bretagne","ville":"Rennes"},{"id":"F023","nom":"BTS Services Informatiques aux Organisations - Option SISR","niveau":"Bac+3","etablissement":"GRETA CFA Bretagne Sud","ville":"Morlaix"},{"id":"F024","nom":"BTS Services Informatiques aux Organisations - Option SISR","niveau":"Bac+3","etablissement":"UIMM Bretagne","ville":"Rennes"},{"id":"F025","nom":"BUT Génie Électrique et Informatique Industrielle","niveau":"BUT","etablissement":"IUT de Rennes, IUT de Brest, Université de Bretagne Occidentale","ville":"Rennes, Brest"},{"id":"F026","nom":"BUT Génie Mécanique et Productique","niveau":"BUT","etablissement":"IUT de Rennes, IUT de Brest, Université de Bretagne Occidentale","ville":"Rennes, Brest"},{"id":"F027","nom":"BUT Sciences des Données","niveau":"BUT","etablissement":"IUT de Vannes","ville":"Vannes"},{"id":"F028","nom":"BUT spécialité génie industriel et maintenance parcours ingénierie des systèmes pluritechniques","niveau":"Bac+3","etablissement":"IUT de Lorient","ville":"Lorient"},{"id":"F029","nom":"BUT spécialité génie industriel et maintenance parcours ingénierie des systèmes pluritechniques","niveau":"Bac+3","etablissement":"IUT de Saint-Malo","ville":"Saint-Malo"},{"id":"F030","nom":"CAP Maintenance nautique","niveau":"CAP","etablissement":"GRETA CFA Bretagne Sud","ville":"Lorient"},{"id":"F031","nom":"CAP matelot","niveau":"CAP","etablissement":"Lycée Maritime de Guilvinech, Lycée Maritime de Paimpol, Lycée Maritime de Saint-Malo, CEFCM (Centre Européen de Formation Continue Maritime), Lycée maritime d'Etel","ville":"Guilvinec, Paimpol"},{"id":"F032","nom":"CAP Peintre applicateur de revêtements","niveau":"CAP","etablissement":"CMA Quimper, GRETA CFA Bretagne Sud, CMA Saint-Malo","ville":"Quimper, Lorient, Saint-Malo"},{"id":"F033","nom":"CAP Poissonnier écailler","niveau":"CAP","etablissement":"CMA Quimper","ville":"Quimper"},{"id":"F034","nom":"CAP RICS Chaudronnerie - Réalisations Industrielles en Chaudronnerie ou Soudage","niveau":"CAP","etablissement":"UIMM Bretagne","ville":""},{"id":"F035","nom":"CAP Sellerie Générale","niveau":"CAP ","etablissement":"","ville":""},{"id":"F036","nom":"Capitaine 200","niveau":"Brevet","etablissement":"CEFCM (Centre Européen de Formation Continue Maritime), Lycée Maritime de Guilvinech, Lycée maritime d'Etel","ville":"Concarneau/Saint-Malo/Brest/Lorient"},{"id":"F037","nom":"Capitaine 500","niveau":"Brevet","etablissement":"CEFCM (Centre Européen de Formation Continue Maritime), École Nationale Supérieure Maritime (ENSM)","ville":"Concarneau/Saint-Malo"},{"id":"F038","nom":"Certificat d'Aptitude à l'Hyperbarie","niveau":"Certificat","etablissement":"CAP Trébeurden, Arimair","ville":"Trébeurden, Plougastel"},{"id":"F039","nom":"Certificat de Spécialisation - Tehnicien en soudage","niveau":"CS","etablissement":"GRETA CFA Bretagne Sud","ville":"Lorient"},{"id":"F040","nom":"Chef de quart","niveau":"","etablissement":"Ecole Navale","ville":"Brest"},{"id":"F041","nom":"Concours Elève Officier Pilote de l'Aéronautique Navale","niveau":"","etablissement":"","ville":""},{"id":"F042","nom":"Cuisinier en restauration collective","niveau":"Titre","etablissement":"GRETA CFA Bretagne Sud","ville":"Lorient"},{"id":"F043","nom":"Diplôme d’État de la Jeunesse, de l’Éducation Populaire et du Sport (DEJEPS)","niveau":"Bac+3","etablissement":"CEMEA Bretagne","ville":""},{"id":"F044","nom":"Diplôme d'Université - Mer et Médias","niveau":"","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F045","nom":"DU Gestionnaire de ports de plaisance","niveau":"Bac+3","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F046","nom":"DU Mer et Médias","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F047","nom":"Formation chef mécanicien 3000kW","niveau":"","etablissement":"École Nationale Supérieure Maritime (ENSM)","ville":"Saint-Malo (Ille-et-Vilaine)"},{"id":"F048","nom":"Formation chef mécanicien 8000kW","niveau":"","etablissement":"École Nationale Supérieure Maritime (ENSM)","ville":"Saint-Malo (Ille-et-Vilaine)"},{"id":"F049","nom":"Formation chef mécanicien illimité","niveau":"","etablissement":"École Nationale Supérieure Maritime (ENSM)","ville":"Saint-Malo (Ille-et-Vilaine)"},{"id":"F050","nom":"Formation initiale","niveau":"","etablissement":"Ecole Navale","ville":"Brest"},{"id":"F051","nom":"Formation officier chef de quart machine","niveau":"","etablissement":"École Nationale Supérieure Maritime (ENSM)","ville":"Saint-Malo (Ille-et-Vilaine)"},{"id":"F052","nom":"Formation officier électrotechnicien","niveau":"","etablissement":"École Nationale Supérieure Maritime (ENSM)","ville":"Saint-Malo (Ille-et-Vilaine)"},{"id":"F053","nom":"Formation probatoire officier chef de quart machine","niveau":"","etablissement":"École Nationale Supérieure Maritime (ENSM)","ville":"Saint-Malo (Ille-et-Vilaine)"},{"id":"F054","nom":"Formations pêche, cultures marines, modules sûreté (STCW)","niveau":"Divers (certifs STCW, formations courtes)","etablissement":"CEFCM (Centre Européen de Formation Continue Maritime)","ville":"Lorient / Saint-Malo / centres (Bretagne)"},{"id":"F055","nom":"Formations STCW (Basique sécurité, Survie, Lutte Incendie)","niveau":"Certificat / STCW","etablissement":"CEFCM (Centre Européen de Formation Continue Maritime)","ville":"Concarneau (Finistère) — centres multiples"},{"id":"F056","nom":"Guetteurs","niveau":"","etablissement":"Ecole Navale","ville":"Brest"},{"id":"F057","nom":"Ingénieur Défense & Sécurité","niveau":"Bac+3","etablissement":"ENSTA Bretagne","ville":"Brest"},{"id":"F058","nom":"Ingénieur des Etudes et Techniques de l'Armement (IETA)","niveau":"Bac+3","etablissement":"ENSTA Bretagne","ville":"Brest"},{"id":"F059","nom":"Ingénieur en Conception mécanique","niveau":"Bac+3","etablissement":"ENSTA Bretagne","ville":"Brest"},{"id":"F060","nom":"Ingénieur Généraliste","niveau":"Bac+3","etablissement":"ENSTA Bretagne","ville":"Brest"},{"id":"F061","nom":"Ingénieur Spécialité Mécanique","niveau":"Bac+5","etablissement":"ENSTA Bretagne","ville":""},{"id":"F062","nom":"Ingénieur Systèmes embarqués","niveau":"Bac+3","etablissement":"ENSTA Bretagne","ville":"Brest"},{"id":"F063","nom":"Licence Biologie, Biotechnologies","niveau":"Bac+3","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F064","nom":"Licence Énergie et environnement","niveau":"Bac+3","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F065","nom":"Licence Génie civil","niveau":"Bac+3","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F066","nom":"Licence Gestion - parcours Ressources Humaines et Management Durable","niveau":"Bac+3","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F067","nom":"Licence Hydrographie SHOM","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F068","nom":"Licence Mécanique","niveau":"Bac+3","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F069","nom":"Licence mention Géographie et Aménagement Parcours Mer, environnement, tourisme, aménagement, littoral (METAL)","niveau":"Bac+3","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F070","nom":"Licence pro mention maintenance et technologie : systèmes pluritechniques","niveau":"Bac+3","etablissement":"IUT de Brest","ville":"Brest"},{"id":"F071","nom":"Licence Professionnelle Aéronautique","niveau":"Bac+3","etablissement":"IUT de Brest, Université de Bretagne Occidentale","ville":"Brest"},{"id":"F072","nom":"Licence Professionnelle Métiers de l'électronique: communication, systèmes embarqués Parcours Systèmes d'Electronique marine embarqués","niveau":"Bac+3","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F073","nom":"Licence Professionnelle Métiers de l'industrie : industrie aéronautique Parcours Industrie aéronautique","niveau":"Bac+3","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F074","nom":"Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Conduite des opérations navales","niveau":"Bac+3","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F075","nom":"Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Conduite des systèmes électriques navals","niveau":"Bac+3","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F076","nom":"Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Conduite des systèmes mécaniques navals","niveau":"Bac+3","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F077","nom":"Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Maintenance Portuaire et Navale","niveau":"Bac+3","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F078","nom":"Licence Professionnelle Métiers de l'Industrie Navale et Maritime (MINM) - Parcours Métiers de l'Industrie et la Construction Navale","niveau":"Bac+3","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F079","nom":"Licence Sciences de l'Environnement","niveau":"Bac+3","etablissement":"Université de Bretagne Sud","ville":"Vannes"},{"id":"F080","nom":"Licence Techniques d’Analyses Chimiques et Biologiques","niveau":"Bac+3","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F081","nom":"LPRO CACI - Métiers de l'Industrie - Gestion de la Production Industrielle - Parcours Chargé•e d'Affaires en Chaudronnerie Industrielle","niveau":"Bac+3","etablissement":"UIMM Bretagne","ville":""},{"id":"F082","nom":"LPRO MIMMS - Métiers de l'Industrie - Métallurgie, mise en forme des matériaux et soudage","niveau":"Bac+3","etablissement":"UIMM Bretagne","ville":""},{"id":"F083","nom":"LPRO MINM - Métiers de l'Industrie - Industrie navale et maritime - Parcours Construction Navale","niveau":"Bac+3","etablissement":"UIMM Bretagne","ville":""},{"id":"F084","nom":"LPRO MINM - Métiers de l'Industrie - Industrie navale et maritime - Parcours Maintenance Portuaire et Navale","niveau":"Bac+3","etablissement":"UIMM Bretagne","ville":""},{"id":"F085","nom":"Maintenance et technologie : systèmes pluritechniques Maintenance de drônes sous-marins, robots téléopérés","niveau":"Bac+3","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F086","nom":"Manoeuvrier","niveau":"","etablissement":"Ecole Navale","ville":"Brest"},{"id":"F087","nom":"Master - mention Gestion des ressources humaines","niveau":"Bac+5","etablissement":"Université de Rennes","ville":"Rennes"},{"id":"F088","nom":"Master Biologie Parcours International Master of Science in Marine Biological Resources (IMBRSea)","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F089","nom":"Master Biologie Parcours Sciences biologiques marines (SBM)","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F090","nom":"Master Biologie Parcours Sciences halieutiques et aquacoles (SHA)","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F091","nom":"Master Biomolécules, Micro-organismes et Bioprocédés","niveau":"Bac+5","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F092","nom":"Master Biotechnologies Parcours Master international en biotechnologies marines","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Lorient"},{"id":"F093","nom":"Master Chimie et Sciences du Vivant Parcours Chimie Environnement Marin","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F094","nom":"Master Cyber-Sécurité des Systèmes Embarqués","niveau":"Bac+5","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F095","nom":"Master Data Science Modélisation Statistique","niveau":"Bac+5","etablissement":"Université de Bretagne Sud","ville":"Vannes"},{"id":"F096","nom":"Master Eco-Conception des Polymères et Composites","niveau":"Bac+5","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F097","nom":"Master Économie de l'environnement, de l'énergie et des transports (EEET) Economie appliquée à l'agriculture, la mer et l'environnement (E2AME)","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Rennes"},{"id":"F098","nom":"Master en Hydrographie","niveau":"Bac+5","etablissement":"ENSTA Bretagne","ville":""},{"id":"F099","nom":"Master Génie mécanique et matériaux","niveau":"Bac+5","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F100","nom":"Master Géophysique Marine","niveau":"Bac+5","etablissement":"ENSTA Bretagne, Université de Bretagne Occidentale","ville":"Brest"},{"id":"F101","nom":"Master Gestion de l'Environnement Parcours Expertise et gestion de l'environnement littoral","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F102","nom":"Master Gestion des Ressources Humaines","niveau":"Bac+5","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F103","nom":"Master hydrodynamique navale","niveau":"Bac+5","etablissement":"ENSTA Bretagne","ville":"Brest"},{"id":"F104","nom":"Master Informatique","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F105","nom":"Master Ingénierie des analyses biologiques et chimiques","niveau":"Bac+5","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F106","nom":"Master Ingénierie et Gestion des Ressources Côtières et Littorales","niveau":"Bac+5","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F107","nom":"Master Ingénierie marine","niveau":"Bac+5","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F108","nom":"Master Mathématiques Appliquées, Statistique","niveau":"Bac+5","etablissement":"Université de Rennes, Université de Rennes 2, ","ville":"Rennes"},{"id":"F109","nom":"Master Mécanique, matériaux et génie civil","niveau":"Bac+5","etablissement":"ENSTA Bretagne, Université de Bretagne Occidentale, Université de Bretagne Sud","ville":"Brest"},{"id":"F110","nom":"Master mention Droit des espaces et des activités maritimes (DEAM) parcours Droit, mer et littoral","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F111","nom":"Master mention Droit des espaces et des activités maritimes (DEAM) parcours Droit, mer et littoral","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F112","nom":"Master mention Psychologie","niveau":"Bac+5","etablissement":"Uinversité de Bretagne Occidentale, Unniversité de Rennes 2, Université Catholique de l'Ouest","ville":"Brest, Rennes, Guingamp"},{"id":"F113","nom":"Master Physique de l'Océan et du Climat","niveau":"Bac+5","etablissement":"ENSTA Bretagne, Université de Bretagne Occidentale","ville":"Brest"},{"id":"F114","nom":"Master Physique Parcours Géophysique marine","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F115","nom":"Master Physique Parcours Hydrodynamique navale","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F116","nom":"Master Physique Parcours Physique océan et climat","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F117","nom":"Master Sciences de l'eau","niveau":"Bac+5","etablissement":"Université de Rennes","ville":"Rennes"},{"id":"F118","nom":"Master Sciences de la Terre et des planètes, Environnement Parcours Géosciences Océan","niveau":"Bac+5","etablissement":"Université de Bretagne Occidentale","ville":"Brest"},{"id":"F119","nom":"Master Sciences des Données ","niveau":"Bac+5","etablissement":"Université Bretagne Sud","ville":"Vannes"},{"id":"F120","nom":"Master Sciences des Données Océanographiques","niveau":"Bac+5","etablissement":"ENSTA Bretagne, Université de Bretagne Occidentale","ville":"Brest"},{"id":"F121","nom":"Master Systèmes embarqués / systèmes intégrés","niveau":"Bac+5","etablissement":"Université de Bretagne Sud","ville":"Lorient"},{"id":"F122","nom":"Mastère spécialisé Ingénierie des Systèmes Autonomes de Localisation et multi-Senseurs","niveau":"Bac+5","etablissement":"ENSTA Bretagne","ville":"Brest"},{"id":"F123","nom":"Mastère spécialisé Ingénierie Marine / Architecture Navale et Offshore","niveau":"Bac+5","etablissement":"ENSTA Bretagne","ville":"Brest"},{"id":"F124","nom":"Mastère spécialisé Management de projets maritimes – maintenance des navires","niveau":"Bac+5","etablissement":"ENSTA Bretagne","ville":"Brest"},{"id":"F125","nom":"Mastère spécialisé Pyrotechnie et Propulsion","niveau":"Bac+5","etablissement":"ENSTA Bretagne","ville":"Brest"},{"id":"F126","nom":"Mécanicien 250 kW","niveau":"","etablissement":"CEFCM (Centre Européen de Formation Continue Maritime), Lycée Maritime de Guilvinech","ville":""},{"id":"F127","nom":"Mécanicien 750 kW","niveau":"","etablissement":"CEFCM (Centre Européen de Formation Continue Maritime), Lycée Maritime de Guilvinech","ville":"Paimpol/Lorient"},{"id":"F128","nom":"Mécanicien embarqué","niveau":"","etablissement":"CEFCM (Centre Européen de Formation Continue Maritime)","ville":"Paimpol/Lorient"},{"id":"F129","nom":"Navigateurs","niveau":"","etablissement":"Ecole Navale","ville":"Brest"},{"id":"F130","nom":"Officier chef de quart machine, officier de la marine marchande","niveau":"","etablissement":"École Nationale Supérieure Maritime (ENSM)","ville":"Saint-Malo (Ille-et-Vilaine)"},{"id":"F131","nom":"Officier Chef Mécanicien Illimité","niveau":"Bac+3","etablissement":"École Nationale Supérieure Maritime (ENSM)","ville":"Saint-Malo (Ille-et-Vilaine)"},{"id":"F132","nom":"Officier de carrière","niveau":"","etablissement":"Ecole Navale","ville":"Brest"},{"id":"F133","nom":"Officier marinier","niveau":"","etablissement":"Ecole de Maistrance","ville":"Brest"},{"id":"F134","nom":"Officiers sous contrat long","niveau":"","etablissement":"Ecole Navale","ville":"Brest"},{"id":"F135","nom":"POEC - PIC - compétences clés métier Matelot à la pêche","niveau":"","etablissement":"CEFCM (Centre Européen de Formation Continue Maritime)","ville":""},{"id":"F136","nom":"Certification complémentaire mécatronique navale","niveau":"Bac+ 1","etablissement":"Lycée Vauban, Lycée dupuy de lome brest, Lycée maritime du Guilvinec, Lycée LA Croix Rouge","ville":"Brest, Le Guilvinec"}]
+[
+    {
+        "id": "F001",
+        "nom": "Bac Pro CGEM",
+        "niveau": "Bac Pro",
+        "etablissement": "Lycée Maritime de Guilvinech, Lycée Maritime de Paimpol, Lycée Maritime de Saint-Malo, CEFCM (Centre Européen de Formation Continue Maritime), Lycée maritime d'Etel",
+        "ville": "Guilvinec",
+        "métiers": "Lamaneur, Marin‑pêcheur, Matelot, Guetteur de flotte"
+    },
+    {
+        "id": "F002",
+        "nom": "Bac Pro Cultures Marines",
+        "niveau": "Bac Pro",
+        "etablissement": "Lycée Maritime de Saint-Malo, Lycée maritime d'Etel",
+        "ville": "Saint-Malo",
+        "métiers": "Conchyliculteur, Algoculteur, Marin‑pêcheur, Mareyeur"
+    },
+    {
+        "id": "F003",
+        "nom": "Bac Pro Electromécanicien marine",
+        "niveau": "Bac Pro",
+        "etablissement": "Lycée Maritime de Guilvinech, Lycée Maritime de Saint-Malo",
+        "ville": "Guilvinec",
+        "métiers": "Électromécanicien naval, Électromécanicien sur sous‑marin, Équipier mécanique et électricité"
+    },
+    {
+        "id": "F004",
+        "nom": "Bac Pro Electronique marine",
+        "niveau": "Bac Pro",
+        "etablissement": "Lycée Maritime de Paimpol",
+        "ville": "Paimpol",
+        "métiers": "Équipier mécanique et électricité, Technicien systèmes embarqués (variante), Technicien électronicien naval"
+    },
+    {
+        "id": "F005",
+        "nom": "Bac Pro Maintenance Nautique",
+        "niveau": "Bac Pro",
+        "etablissement": "GRETA CFA Bretagne Sud, Lycée Maritime de Paimpol",
+        "ville": "Lorient, Paimpol",
+        "métiers": "Accastilleur, Agent de maintenance en marine de plaisance, Technicien de maintenance nautique"
+    },
+    {
+        "id": "F006",
+        "nom": "Bac Pro Naviguant Pont et Machine",
+        "niveau": "Bac Pro",
+        "etablissement": "Lycée maritime d'Etel",
+        "ville": "Etel",
+        "métiers": "Marin de plaisance, Matelot, Navigateur, Personnel navigant pont/machine"
+    },
+    {
+        "id": "F007",
+        "nom": "BAC PRO TCI - Technicien en Chaudronnerie Industrielle",
+        "niveau": "Bac Pro",
+        "etablissement": "UIMM Bretagne, Lycées Bretagne",
+        "ville": "Bruz, Plérin, Lorient, Brest, Quimper, Rennes, Moalis, Saint-Malo, Guingamp, Vannes",
+        "métiers": "Chaudronnier, Soudeur, Tuyauteur"
+    },
+    {
+        "id": "F008",
+        "nom": "BPJEPS spécialité éducateur sportif mention activités physiques pour tous",
+        "niveau": "",
+        "etablissement": "IRSS",
+        "ville": "Rennes, Brest",
+        "métiers": "Instructeur de plongée, Moniteur d’activités nautiques"
+    },
+    {
+        "id": "F009",
+        "nom": "BTS Aéronautique",
+        "niveau": "BTS",
+        "etablissement": "Lycée Tristan Corbière",
+        "ville": "Morlaix",
+        "métiers": "Exploitant d’aérodrome, Analyste traitant du renseignement (via BTS Aéronautique), Technicien aéronautique"
+    },
+    {
+        "id": "F010",
+        "nom": "BTS AQUACOLE",
+        "niveau": "BTS",
+        "etablissement": "CEFCM (Centre Européen de Formation Continue Maritime), Lycée Maritime de Saint-Malo",
+        "ville": "Saint-Malo",
+        "métiers": "Algoculteur, Conchyliculteur, Mareyeur, Fileteur, Pisciculteur"
+    },
+    {
+        "id": "F011",
+        "nom": "BTS CICN - Conception et Industrialisation en Construction Navale",
+        "niveau": "BTS",
+        "etablissement": "UIMM Bretagne",
+        "ville": "Lorient",
+        "métiers": "Atomicien de propulsion navale, Technicien construction navale, Opérateur industriel naval"
+    },
+    {
+        "id": "F012",
+        "nom": "BTS CIEL",
+        "niveau": "BTS",
+        "etablissement": "Lycée Vauban",
+        "ville": "Brest",
+        "métiers": "Informaticien, Technicien systèmes embarqués, Technicien réseaux"
+    },
+    {
+        "id": "F013",
+        "nom": "BTS Comptabilité & Gestion",
+        "niveau": "BTS",
+        "etablissement": "MAESTRIS Rennes, AFOREM Rennes, Faculté des Métiers, AFTEC Vannes, Lycée Saint-Paul Vannes, ...",
+        "ville": "Rennes, Vannes, Lorient, Brest",
+        "métiers": "Gestionnaire administratif (variante), Gestionnaire RH (partiel)"
+    },
+    {
+        "id": "F014",
+        "nom": "BTS CRCI - Conception et Réalisation en Chaudronnerie Industrielle",
+        "niveau": "BTS",
+        "etablissement": "UIMM Bretagne",
+        "ville": "",
+        "métiers": "Chaudronnier, Soudeur, Tuyauteur"
+    },
+    {
+        "id": "F015",
+        "nom": "BTS dans la Marine nationale",
+        "niveau": "BTS",
+        "etablissement": "Lycée Naval",
+        "ville": "Brest",
+        "métiers": "Matelot, Officier marinier, Équipier naval"
+    },
+    {
+        "id": "F016",
+        "nom": "BTS Électrotechnique",
+        "niveau": "BTS",
+        "etablissement": "GRETA CFA Bretagne Sud, AREP",
+        "ville": "Lorient, Quimper",
+        "métiers": "Technicien électrotechnicien naval, Équipier mécanique et électricité, Technicien maintenance navale"
+    },
+    {
+        "id": "F017",
+        "nom": "BTS Management en hôtellerie et restauration",
+        "niveau": "BTS",
+        "etablissement": "GRETA CFA Est Bretagne",
+        "ville": "Rennes",
+        "métiers": "Maître d’hôtel – majordome, Agent polyvalent de restauration"
+    },
+    {
+        "id": "F018",
+        "nom": "BTS MASEN",
+        "niveau": "BTS",
+        "etablissement": "Lycée Maritime de Saint-Malo, Lycée Maritime de Paimpol",
+        "ville": "Saint-Malo",
+        "métiers": "Technicien systèmes embarqués (variante), Technicien maintenance navale (partiel)"
+    },
+    {
+        "id": "F019",
+        "nom": "BTS Mécatronique navale",
+        "niveau": "BTS",
+        "etablissement": "Lycée Maritime de Paimpol, Lycée Maritime de Saint-Malo, Lycée Maritime de Guilvinech",
+        "ville": "Paimpol, Saint-Malo",
+        "métiers": "Mécatronicien naval, Technicien de maintenance navale, Équipier mécanique et électricité"
+    },
+    {
+        "id": "F020",
+        "nom": "BTS MS SP - Maintenance des Systèmes",
+        "niveau": "Bac+3",
+        "etablissement": "UIMM Bretagne",
+        "ville": "",
+        "métiers": "Technicien de maintenance navale, Technicien de maintenance industrielle"
+    },
+    {
+        "id": "F021",
+        "nom": "BTS Pêche et gestion de l'environnement marin (PGEM)",
+        "niveau": "BTS",
+        "etablissement": "Lycée Maritime de Guilvinech, Lycée Maritime de Saint-Malo",
+        "ville": "Guilvinec",
+        "métiers": "Lamaneur, Marin‑pêcheur, Capitaine de pêche"
+    },
+    {
+        "id": "F022",
+        "nom": "BTS Services Informatiques aux Organisations",
+        "niveau": "Bac+3",
+        "etablissement": "CMA Bretagne",
+        "ville": "Rennes",
+        "métiers": "Informaticien, Analyste technique SI, Expert cybersécurité (partiel)"
+    },
+    {
+        "id": "F023",
+        "nom": "BTS Services Informatiques aux Organisations - Option SISR",
+        "niveau": "Bac+3",
+        "etablissement": "GRETA CFA Bretagne Sud",
+        "ville": "Morlaix",
+        "métiers": "Informaticien, Analyste technique SI, Expert cybersécurité (partiel)"
+    },
+    {
+        "id": "F024",
+        "nom": "BTS Services Informatiques aux Organisations - Option SISR",
+        "niveau": "Bac+3",
+        "etablissement": "UIMM Bretagne",
+        "ville": "Rennes",
+        "métiers": "Informaticien, Analyste technique SI, Expert cybersécurité (partiel)"
+    },
+    {
+        "id": "F025",
+        "nom": "BUT Génie Électrique et Informatique Industrielle",
+        "niveau": "BUT",
+        "etablissement": "IUT de Rennes, IUT de Brest, Université de Bretagne Occidentale",
+        "ville": "Rennes, Brest",
+        "métiers": "Détecteur analyste signaux électromagnétiques, Technicien systèmes embarqués, Informaticien industriel"
+    },
+    {
+        "id": "F026",
+        "nom": "BUT Génie Mécanique et Productique",
+        "niveau": "BUT",
+        "etablissement": "IUT de Rennes, IUT de Brest, Université de Bretagne Occidentale",
+        "ville": "Rennes, Brest",
+        "métiers": "Technicien mécanique navale, Ingénieur génie maritime (voie longue)"
+    },
+    {
+        "id": "F027",
+        "nom": "BUT Sciences des Données",
+        "niveau": "BUT",
+        "etablissement": "IUT de Vannes",
+        "ville": "Vannes",
+        "métiers": "Data analyst"
+    },
+    {
+        "id": "F028",
+        "nom": "BUT spécialité génie industriel et maintenance parcours ingénierie des systèmes pluritechniques",
+        "niveau": "Bac+3",
+        "etablissement": "IUT de Lorient",
+        "ville": "Lorient",
+        "métiers": "Technicien maintenance navale, Technicien maintenance industrielle"
+    },
+    {
+        "id": "F029",
+        "nom": "BUT spécialité génie industriel et maintenance parcours ingénierie des systèmes pluritechniques",
+        "niveau": "Bac+3",
+        "etablissement": "IUT de Saint-Malo",
+        "ville": "Saint-Malo",
+        "métiers": "Technicien maintenance navale, Technicien maintenance industrielle"
+    },
+    {
+        "id": "F030",
+        "nom": "CAP Maintenance nautique",
+        "niveau": "CAP",
+        "etablissement": "GRETA CFA Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Accastilleur, Agent de maintenance en marine de plaisance"
+    },
+    {
+        "id": "F031",
+        "nom": "CAP matelot",
+        "niveau": "CAP",
+        "etablissement": "Lycée Maritime de Guilvinech, Lycée Maritime de Paimpol, Lycée Maritime de Saint-Malo, CEFCM (Centre Européen de Formation Continue Maritime), Lycée maritime d'Etel",
+        "ville": "Guilvinec, Paimpol",
+        "métiers": "Matelot, Équipier naval, Guetteur de flotte"
+    },
+    {
+        "id": "F032",
+        "nom": "CAP Peintre applicateur de revêtements",
+        "niveau": "CAP",
+        "etablissement": "CMA Quimper, GRETA CFA Bretagne Sud, CMA Saint-Malo",
+        "ville": "Quimper, Lorient, Saint-Malo",
+        "métiers": "Peintre naval (variante), Opérateur de maintenance navale (partiel)"
+    },
+    {
+        "id": "F033",
+        "nom": "CAP Poissonnier écailler",
+        "niveau": "CAP",
+        "etablissement": "CMA Quimper",
+        "ville": "Quimper",
+        "métiers": "Fileteur, Mareyeur"
+    },
+    {
+        "id": "F034",
+        "nom": "CAP RICS Chaudronnerie - Réalisations Industrielles en Chaudronnerie ou Soudage",
+        "niveau": "CAP",
+        "etablissement": "UIMM Bretagne",
+        "ville": "",
+        "métiers": "Chaudronnier, Soudeur"
+    },
+    {
+        "id": "F035",
+        "nom": "CAP Sellerie Générale",
+        "niveau": "CAP ",
+        "etablissement": "",
+        "ville": "",
+        "métiers": "Sellier naval (variante), Accastilleur (partiel)"
+    },
+    {
+        "id": "F036",
+        "nom": "Capitaine 200",
+        "niveau": "Brevet",
+        "etablissement": "CEFCM (Centre Européen de Formation Continue Maritime), Lycée Maritime de Guilvinech, Lycée maritime d'Etel",
+        "ville": "Concarneau/Saint-Malo/Brest/Lorient",
+        "métiers": "Capitaine de pêche, Marin‑pêcheur"
+    },
+    {
+        "id": "F037",
+        "nom": "Capitaine 500",
+        "niveau": "Brevet",
+        "etablissement": "CEFCM (Centre Européen de Formation Continue Maritime), École Nationale Supérieure Maritime (ENSM)",
+        "ville": "Concarneau/Saint-Malo",
+        "métiers": "Capitaine de pêche"
+    },
+    {
+        "id": "F038",
+        "nom": "Certificat d'Aptitude à l'Hyperbarie",
+        "niveau": "Certificat",
+        "etablissement": "CAP Trébeurden, Arimair",
+        "ville": "Trébeurden, Plougastel",
+        "métiers": "Plongeur professionnel, Instructeur de plongée (partiel)"
+    },
+    {
+        "id": "F039",
+        "nom": "Certificat de Spécialisation - Tehnicien en soudage",
+        "niveau": "CS",
+        "etablissement": "GRETA CFA Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Soudeur, Chaudronnier"
+    },
+    {
+        "id": "F040",
+        "nom": "Chef de quart",
+        "niveau": "",
+        "etablissement": "Ecole Navale",
+        "ville": "Brest",
+        "métiers": "Officier chef de quart, Navigateur"
+    },
+    {
+        "id": "F041",
+        "nom": "Concours Elève Officier Pilote de l'Aéronautique Navale",
+        "niveau": "",
+        "etablissement": "",
+        "ville": "",
+        "métiers": "Pilote aéronautique navale"
+    },
+    {
+        "id": "F042",
+        "nom": "Cuisinier en restauration collective",
+        "niveau": "Titre",
+        "etablissement": "GRETA CFA Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Agent polyvalent de restauration, Gérant de restauration collective"
+    },
+    {
+        "id": "F043",
+        "nom": "Diplôme d’État de la Jeunesse, de l’Éducation Populaire et du Sport (DEJEPS)",
+        "niveau": "Bac+3",
+        "etablissement": "CEMEA Bretagne",
+        "ville": "",
+        "métiers": "Instructeur de plongée, Moniteur d’activités nautiques"
+    },
+    {
+        "id": "F044",
+        "nom": "Diplôme d'Université - Mer et Médias",
+        "niveau": "",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Journaliste maritime, Communicant maritime"
+    },
+    {
+        "id": "F045",
+        "nom": "DU Gestionnaire de ports de plaisance",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Gestionnaire de port, Agent portuaire"
+    },
+    {
+        "id": "F046",
+        "nom": "DU Mer et Médias",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Chef mécanicien, Officier mécanicien"
+    },
+    {
+        "id": "F047",
+        "nom": "Formation chef mécanicien 3000kW",
+        "niveau": "",
+        "etablissement": "École Nationale Supérieure Maritime (ENSM)",
+        "ville": "Saint-Malo (Ille-et-Vilaine)",
+        "métiers": "Chef mécanicien, Officier mécanicien"
+    },
+    {
+        "id": "F048",
+        "nom": "Formation chef mécanicien 8000kW",
+        "niveau": "",
+        "etablissement": "École Nationale Supérieure Maritime (ENSM)",
+        "ville": "Saint-Malo (Ille-et-Vilaine)",
+        "métiers": "Chef mécanicien, Officier mécanicien"
+    },
+    {
+        "id": "F049",
+        "nom": "Formation chef mécanicien illimité",
+        "niveau": "",
+        "etablissement": "École Nationale Supérieure Maritime (ENSM)",
+        "ville": "Saint-Malo (Ille-et-Vilaine)",
+        "métiers": "Chef mécanicien, Officier mécanicien"
+    },
+    {
+        "id": "F050",
+        "nom": "Formation initiale",
+        "niveau": "",
+        "etablissement": "Ecole Navale",
+        "ville": "Brest",
+        "métiers": "Officier de carrière, Navigateur"
+    },
+    {
+        "id": "F051",
+        "nom": "Formation officier chef de quart machine",
+        "niveau": "",
+        "etablissement": "École Nationale Supérieure Maritime (ENSM)",
+        "ville": "Saint-Malo (Ille-et-Vilaine)",
+        "métiers": "Officier chef de quart machine"
+    },
+    {
+        "id": "F052",
+        "nom": "Formation officier électrotechnicien",
+        "niveau": "",
+        "etablissement": "École Nationale Supérieure Maritime (ENSM)",
+        "ville": "Saint-Malo (Ille-et-Vilaine)",
+        "métiers": "Officier électrotechnicien"
+    },
+    {
+        "id": "F053",
+        "nom": "Formation probatoire officier chef de quart machine",
+        "niveau": "",
+        "etablissement": "École Nationale Supérieure Maritime (ENSM)",
+        "ville": "Saint-Malo (Ille-et-Vilaine)",
+        "métiers": "Officier chef de quart machine"
+    },
+    {
+        "id": "F054",
+        "nom": "Formations pêche, cultures marines, modules sûreté (STCW)",
+        "niveau": "Divers (certifs STCW, formations courtes)",
+        "etablissement": "CEFCM (Centre Européen de Formation Continue Maritime)",
+        "ville": "Lorient / Saint-Malo / centres (Bretagne)",
+        "métiers": "Marin‑pêcheur, Matelot, Agent de protection des navires"
+    },
+    {
+        "id": "F055",
+        "nom": "Formations STCW (Basique sécurité, Survie, Lutte Incendie)",
+        "niveau": "Certificat / STCW",
+        "etablissement": "CEFCM (Centre Européen de Formation Continue Maritime)",
+        "ville": "Concarneau (Finistère) — centres multiples",
+        "métiers": "Marin‑pêcheur, Matelot, Agent de protection des navires"
+    },
+    {
+        "id": "F056",
+        "nom": "Guetteurs",
+        "niveau": "",
+        "etablissement": "Ecole Navale",
+        "ville": "Brest",
+        "métiers": "Guetteur de flotte"
+    },
+    {
+        "id": "F057",
+        "nom": "Ingénieur Défense & Sécurité",
+        "niveau": "Bac+3",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "Brest",
+        "métiers": "Analyste renseignement, Expert cybersécurité"
+    },
+    {
+        "id": "F058",
+        "nom": "Ingénieur des Etudes et Techniques de l'Armement (IETA)",
+        "niveau": "Bac+3",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "Brest",
+        "métiers": "Ingénieur systèmes embarqués, Ingénieur défense"
+    },
+    {
+        "id": "F059",
+        "nom": "Ingénieur en Conception mécanique",
+        "niveau": "Bac+3",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "Brest",
+        "métiers": "Ingénieur génie maritime"
+    },
+    {
+        "id": "F060",
+        "nom": "Ingénieur Généraliste",
+        "niveau": "Bac+3",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "Brest",
+        "métiers": "Ingénieur génie maritime, Atomicien de propulsion navale"
+    },
+    {
+        "id": "F061",
+        "nom": "Ingénieur Spécialité Mécanique",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "",
+        "métiers": "Ingénieur génie maritime"
+    },
+    {
+        "id": "F062",
+        "nom": "Ingénieur Systèmes embarqués",
+        "niveau": "Bac+3",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "Brest",
+        "métiers": "Expert cybersécurité, Informaticien embarqué"
+    },
+    {
+        "id": "F063",
+        "nom": "Licence Biologie, Biotechnologies",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Biologiste marin, Algoculteur"
+    },
+    {
+        "id": "F064",
+        "nom": "Licence Énergie et environnement",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Géologue, Hydrographe (partiel)"
+    },
+    {
+        "id": "F065",
+        "nom": "Licence Génie civil",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Ingénieur génie maritime (voie longue)"
+    },
+    {
+        "id": "F066",
+        "nom": "Licence Gestion - parcours Ressources Humaines et Management Durable",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Gestionnaire RH"
+    },
+    {
+        "id": "F067",
+        "nom": "Licence Hydrographie SHOM",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Hydrographe"
+    },
+    {
+        "id": "F068",
+        "nom": "Licence Mécanique",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Ingénieur génie maritime (voie longue)"
+    },
+    {
+        "id": "F069",
+        "nom": "Licence mention Géographie et Aménagement Parcours Mer, environnement, tourisme, aménagement, littoral (METAL)",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Chargé d’études littoral, Gestion environnement littoral"
+    },
+    {
+        "id": "F070",
+        "nom": "Licence pro mention maintenance et technologie : systèmes pluritechniques",
+        "niveau": "Bac+3",
+        "etablissement": "IUT de Brest",
+        "ville": "Brest",
+        "métiers": "Technicien maintenance navale"
+    },
+    {
+        "id": "F071",
+        "nom": "Licence Professionnelle Aéronautique",
+        "niveau": "Bac+3",
+        "etablissement": "IUT de Brest, Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Maintenance aéronautique"
+    },
+    {
+        "id": "F072",
+        "nom": "Licence Professionnelle Métiers de l'électronique: communication, systèmes embarqués Parcours Systèmes d'Electronique marine embarqués",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Équipier mécanique et électricité, Technicien électronique embarquée"
+    },
+    {
+        "id": "F073",
+        "nom": "Licence Professionnelle Métiers de l'industrie : industrie aéronautique Parcours Industrie aéronautique",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Maintenance aéronautique"
+    },
+    {
+        "id": "F074",
+        "nom": "Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Conduite des opérations navales",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Officier pont/machine"
+    },
+    {
+        "id": "F075",
+        "nom": "Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Conduite des systèmes électriques navals",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Technicien électrotechnicien naval"
+    },
+    {
+        "id": "F076",
+        "nom": "Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Conduite des systèmes mécaniques navals",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Technicien mécanique navale"
+    },
+    {
+        "id": "F077",
+        "nom": "Licence Professionnelle Métiers de l'industrie : Industrie navale et maritime Parcours Maintenance Portuaire et Navale",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Agent de maintenance en marine de plaisance, Technicien maintenance navale"
+    },
+    {
+        "id": "F078",
+        "nom": "Licence Professionnelle Métiers de l'Industrie Navale et Maritime (MINM) - Parcours Métiers de l'Industrie et la Construction Navale",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Technicien construction navale"
+    },
+    {
+        "id": "F079",
+        "nom": "Licence Sciences de l'Environnement",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Vannes",
+        "métiers": "Géologue, Hydrographe (partiel)"
+    },
+    {
+        "id": "F080",
+        "nom": "Licence Techniques d’Analyses Chimiques et Biologiques",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Biologiste marin"
+    },
+    {
+        "id": "F081",
+        "nom": "LPRO CACI - Métiers de l'Industrie - Gestion de la Production Industrielle - Parcours Chargé•e d'Affaires en Chaudronnerie Industrielle",
+        "niveau": "Bac+3",
+        "etablissement": "UIMM Bretagne",
+        "ville": "",
+        "métiers": "Chaudronnier, Chargé d’affaires chaudronnerie"
+    },
+    {
+        "id": "F082",
+        "nom": "LPRO MIMMS - Métiers de l'Industrie - Métallurgie, mise en forme des matériaux et soudage",
+        "niveau": "Bac+3",
+        "etablissement": "UIMM Bretagne",
+        "ville": "",
+        "métiers": "Soudeur, Chaudronnier"
+    },
+    {
+        "id": "F083",
+        "nom": "LPRO MINM - Métiers de l'Industrie - Industrie navale et maritime - Parcours Construction Navale",
+        "niveau": "Bac+3",
+        "etablissement": "UIMM Bretagne",
+        "ville": "",
+        "métiers": "Technicien construction navale"
+    },
+    {
+        "id": "F084",
+        "nom": "LPRO MINM - Métiers de l'Industrie - Industrie navale et maritime - Parcours Maintenance Portuaire et Navale",
+        "niveau": "Bac+3",
+        "etablissement": "UIMM Bretagne",
+        "ville": "",
+        "métiers": "Technicien maintenance navale"
+    },
+    {
+        "id": "F085",
+        "nom": "Maintenance et technologie : systèmes pluritechniques Maintenance de drônes sous-marins, robots téléopérés",
+        "niveau": "Bac+3",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Technicien systèmes embarqués, Technicien maintenance navale"
+    },
+    {
+        "id": "F086",
+        "nom": "Manoeuvrier",
+        "niveau": "",
+        "etablissement": "Ecole Navale",
+        "ville": "Brest",
+        "métiers": "Manœuvrier, Matelot"
+    },
+    {
+        "id": "F087",
+        "nom": "Master - mention Gestion des ressources humaines",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Rennes",
+        "ville": "Rennes",
+        "métiers": "Gestionnaire RH"
+    },
+    {
+        "id": "F088",
+        "nom": "Master Biologie Parcours International Master of Science in Marine Biological Resources (IMBRSea)",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Biologiste marin, Algoculteur"
+    },
+    {
+        "id": "F089",
+        "nom": "Master Biologie Parcours Sciences biologiques marines (SBM)",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Biologiste marin, Algoculteur"
+    },
+    {
+        "id": "F090",
+        "nom": "Master Biologie Parcours Sciences halieutiques et aquacoles (SHA)",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Conchyliculteur, Algoculteur"
+    },
+    {
+        "id": "F091",
+        "nom": "Master Biomolécules, Micro-organismes et Bioprocédés",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Biologiste marin"
+    },
+    {
+        "id": "F092",
+        "nom": "Master Biotechnologies Parcours Master international en biotechnologies marines",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Lorient",
+        "métiers": "Biologiste marin"
+    },
+    {
+        "id": "F093",
+        "nom": "Master Chimie et Sciences du Vivant Parcours Chimie Environnement Marin",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Biologiste marin, Géologue (partiel)"
+    },
+    {
+        "id": "F094",
+        "nom": "Master Cyber-Sécurité des Systèmes Embarqués",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Expert cybersécurité"
+    },
+    {
+        "id": "F095",
+        "nom": "Master Data Science Modélisation Statistique",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Vannes",
+        "métiers": "Data analyst"
+    },
+    {
+        "id": "F096",
+        "nom": "Master Eco-Conception des Polymères et Composites",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Ingénieur matériaux navals"
+    },
+    {
+        "id": "F097",
+        "nom": "Master Économie de l'environnement, de l'énergie et des transports (EEET) Economie appliquée à l'agriculture, la mer et l'environnement (E2AME)",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Rennes",
+        "métiers": "Chargé d’études environnement, Analyste économie maritime"
+    },
+    {
+        "id": "F098",
+        "nom": "Master en Hydrographie",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "",
+        "métiers": "Hydrographe"
+    },
+    {
+        "id": "F099",
+        "nom": "POEC - PIC - compétences clés métier Matelot à la pêche",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Sud, CEFCM",
+        "ville": "Lorient",
+        "métiers": ""
+    },
+    {
+        "id": "F100",
+        "nom": "Master Géophysique Marine",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne, Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Géologue, Hydrographe"
+    },
+    {
+        "id": "F101",
+        "nom": "Master Gestion de l'Environnement Parcours Expertise et gestion de l'environnement littoral",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Chargé d’études littoral"
+    },
+    {
+        "id": "F102",
+        "nom": "Master Gestion des Ressources Humaines",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Gestionnaire RH"
+    },
+    {
+        "id": "F103",
+        "nom": "Master hydrodynamique navale",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "Brest",
+        "métiers": ""
+    },
+    {
+        "id": "F104",
+        "nom": "Master Informatique",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Informaticien, Expert cybersécurité (partiel)"
+    },
+    {
+        "id": "F105",
+        "nom": "Master Ingénierie des analyses biologiques et chimiques",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Biologiste marin"
+    },
+    {
+        "id": "F106",
+        "nom": "Master Ingénierie et Gestion des Ressources Côtières et Littorales",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Chargé d’études littoral"
+    },
+    {
+        "id": "F107",
+        "nom": "Master Ingénierie marine",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Architecte naval, Ingénieur génie maritime"
+    },
+    {
+        "id": "F108",
+        "nom": "Master Mathématiques Appliquées, Statistique",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Rennes, Université de Rennes 2, ",
+        "ville": "Rennes",
+        "métiers": "Data analyst"
+    },
+    {
+        "id": "F109",
+        "nom": "Master Mécanique, matériaux et génie civil",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne, Université de Bretagne Occidentale, Université de Bretagne Sud",
+        "ville": "Brest",
+        "métiers": "Ingénieur génie maritime"
+    },
+    {
+        "id": "F110",
+        "nom": "Master mention Droit des espaces et des activités maritimes (DEAM) parcours Droit, mer et littoral",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Affréteur, Courtier maritime, Armateur, Agent maritime"
+    },
+    {
+        "id": "F111",
+        "nom": "Master mention Droit des espaces et des activités maritimes (DEAM) parcours Droit, mer et littoral",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Affréteur, Courtier maritime, Armateur, Agent maritime"
+    },
+    {
+        "id": "F112",
+        "nom": "Master mention Psychologie",
+        "niveau": "Bac+5",
+        "etablissement": "Uinversité de Bretagne Occidentale, Unniversité de Rennes 2, Université Catholique de l'Ouest",
+        "ville": "Brest, Rennes, Guingamp",
+        "métiers": ""
+    },
+    {
+        "id": "F113",
+        "nom": "Master Physique de l'Océan et du Climat",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne, Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Océanographe, Hydrographe"
+    },
+    {
+        "id": "F114",
+        "nom": "Master Physique Parcours Géophysique marine",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Océanographe, Hydrographe"
+    },
+    {
+        "id": "F115",
+        "nom": "Master Physique Parcours Hydrodynamique navale",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Océanographe, Hydrographe"
+    },
+    {
+        "id": "F116",
+        "nom": "Master Physique Parcours Physique océan et climat",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Océanographe, Hydrographe"
+    },
+    {
+        "id": "F117",
+        "nom": "Master Sciences de l'eau",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Rennes",
+        "ville": "Rennes",
+        "métiers": "Chargé d’études environnement"
+    },
+    {
+        "id": "F118",
+        "nom": "Master Sciences de la Terre et des planètes, Environnement Parcours Géosciences Océan",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Géologue, Hydrographe"
+    },
+    {
+        "id": "F119",
+        "nom": "Master Sciences des Données ",
+        "niveau": "Bac+5",
+        "etablissement": "Université Bretagne Sud",
+        "ville": "Vannes",
+        "métiers": "Océanographe, Data analyst maritime"
+    },
+    {
+        "id": "F120",
+        "nom": "Master Sciences des Données Océanographiques",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne, Université de Bretagne Occidentale",
+        "ville": "Brest",
+        "métiers": "Océanographe, Data analyst maritime"
+    },
+    {
+        "id": "F121",
+        "nom": "Master Systèmes embarqués / systèmes intégrés",
+        "niveau": "Bac+5",
+        "etablissement": "Université de Bretagne Sud",
+        "ville": "Lorient",
+        "métiers": "Expert cybersécurité, Informaticien embarqué"
+    },
+    {
+        "id": "F122",
+        "nom": "Mastère spécialisé Ingénierie des Systèmes Autonomes de Localisation et multi-Senseurs",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "Brest",
+        "métiers": "Ingénieur systèmes embarqués"
+    },
+    {
+        "id": "F123",
+        "nom": "Mastère spécialisé Ingénierie Marine / Architecture Navale et Offshore",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "Brest",
+        "métiers": "Architecte naval, Ingénieur génie maritime"
+    },
+    {
+        "id": "F124",
+        "nom": "Mastère spécialisé Management de projets maritimes – maintenance des navires",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "Brest",
+        "métiers": "Agent de maintenance navale, Chef de projet maritime"
+    },
+    {
+        "id": "F125",
+        "nom": "Mastère spécialisé Pyrotechnie et Propulsion",
+        "niveau": "Bac+5",
+        "etablissement": "ENSTA Bretagne",
+        "ville": "Brest",
+        "métiers": "Atomicien de propulsion navale"
+    },
+    {
+        "id": "F126",
+        "nom": "Mécanicien 250 kW",
+        "niveau": "",
+        "etablissement": "CEFCM (Centre Européen de Formation Continue Maritime), Lycée Maritime de Guilvinech",
+        "ville": "",
+        "métiers": "Mécanicien naval"
+    },
+    {
+        "id": "F127",
+        "nom": "Mécanicien 750 kW",
+        "niveau": "",
+        "etablissement": "CEFCM (Centre Européen de Formation Continue Maritime), Lycée Maritime de Guilvinech",
+        "ville": "Paimpol/Lorient",
+        "métiers": "Mécanicien naval"
+    },
+    {
+        "id": "F128",
+        "nom": "Mécanicien embarqué",
+        "niveau": "",
+        "etablissement": "CEFCM (Centre Européen de Formation Continue Maritime)",
+        "ville": "Paimpol/Lorient",
+        "métiers": "Mécanicien naval"
+    },
+    {
+        "id": "F129",
+        "nom": "Navigateurs",
+        "niveau": "",
+        "etablissement": "Ecole Navale",
+        "ville": "Brest",
+        "métiers": "Navigateur, Marin de plaisance"
+    },
+    {
+        "id": "F130",
+        "nom": "Officier chef de quart machine, officier de la marine marchande",
+        "niveau": "",
+        "etablissement": "École Nationale Supérieure Maritime (ENSM)",
+        "ville": "Saint-Malo (Ille-et-Vilaine)",
+        "métiers": "Officier chef de quart machine"
+    },
+    {
+        "id": "F131",
+        "nom": "Officier Chef Mécanicien Illimité",
+        "niveau": "Bac+3",
+        "etablissement": "École Nationale Supérieure Maritime (ENSM)",
+        "ville": "Saint-Malo (Ille-et-Vilaine)",
+        "métiers": "Chef mécanicien"
+    },
+    {
+        "id": "F132",
+        "nom": "Officier de carrière",
+        "niveau": "",
+        "etablissement": "Ecole Navale",
+        "ville": "Brest",
+        "métiers": "Officier de carrière"
+    },
+    {
+        "id": "F133",
+        "nom": "Officier marinier",
+        "niveau": "",
+        "etablissement": "Ecole de Maistrance",
+        "ville": "Brest",
+        "métiers": "Officier marinier"
+    },
+    {
+        "id": "F134",
+        "nom": "Officiers sous contrat long",
+        "niveau": "",
+        "etablissement": "Ecole Navale",
+        "ville": "Brest",
+        "métiers": "Officier sous contrat long"
+    },
+    {
+        "id": "F135",
+        "nom": "POEC - PIC - compétences clés métier Matelot à la pêche",
+        "niveau": "",
+        "etablissement": "CEFCM (Centre Européen de Formation Continue Maritime)",
+        "ville": "",
+        "métiers": "Marin‑pêcheur"
+    },
+    {
+        "id": "F136",
+        "nom": "Certification complémentaire mécatronique navale",
+        "niveau": "Bac+ 1",
+        "etablissement": "Lycée Vauban, Lycée dupuy de lome brest, Lycée maritime du Guilvinec, Lycée LA Croix Rouge",
+        "ville": "Brest, Le Guilvinec",
+        "métiers": "Technicien mécatronique navale"
+    }
+]
